@@ -14,7 +14,7 @@
 
 ### 电报群
 
-[官方TG群](https://t.me/parrotsecgroup)
+[官方TG群](https://t.me/parrotsecgroup)、[国内TG群](https://t.me/parrotsecCN)
 
 ### Discord讨论组
 
@@ -23,6 +23,10 @@
 ### Git库
 
 [官方Gitlab](https://gitlab.com/parrotsec)、[官方Github](https://github.com/ParrotSec)、[国内Github](https://github.com/ParrotSec-CN/)
+
+### QQ群
+
+**群：638980158**
 
 ## 安装及分区
 
