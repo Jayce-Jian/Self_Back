@@ -1,0 +1,4 @@
+xlrd
+requests
+xlutils
+lxml
