@@ -104,6 +104,9 @@
 │   ├── WebShellKill_V1.2.9
 │   │   ├── 文件MD5.txt
 │   │   ├── WebShellKill.exe
+│   ├── Yara
+│   │   ├── yara-master-2298-win64.zip
+│   │   ├── yara-rules.zip
 │   ├── 精细化扫描工具（ScanTool）.zip
 │   ├── WebShellKillerTool.zip
 │   ├── D盾d_safe_2.1.5.3.zip
@@ -116,6 +119,15 @@
 │   ├── hrsword.exe
 │   ├── WEBDIR+.website
 │   ├── Web Shell Detector.website
+├── Vshell
+│   ├── img
+│   │   ├── logo.png
+│   │   ├── main.png
+│   │   ├── weixin.png
+│   ├── README.md
+│   ├── vshell_linux_amd64-4.6.tar.gz
+│   ├── vshell_windows_amd64-4.6.zip
+│   ├── WARNING.md
 ├── Empire
 │   ├── powershell-empire
 │   │   ├── BC-SECURITY_Starkiller-main_2024.07.15.zip
@@ -202,12 +214,11 @@
 │   │   ├── msfpro_crack.7z
 │   │   ├── 破解方法.txt
 │   │   ├── Metasploit Pro 4.17.1.exe
-├── 蚁剑_AntSword
-│   ├── AntSword.zip
-│   ├── antSword-2.1.9_git.zip
+├── AntSword
+│   ├── antSword-master-2.1.15.zip
 │   ├── AntSword-Loader-v4.0.3-linux-x64.zip
-│   ├── antSword-2.1.9_Releases.zip
-├── 哥斯拉_Godzilla
+│   ├── AntSword-Loader-v4.0.3-win32-x64.zip
+├── Godzilla
 │   ├── godzilla 4.0.1.jar
 │   ├── Godzilla-V2.92_985629177.zip
 │   ├── Godzilla v3.03.jar
@@ -230,15 +241,15 @@
 │   ├── Ladon 9.0 20211014.rar
 │   ├── Ladon9.1.5 2022.4.20.exe
 │   ├── K8实验室_巨龙拉冬插件_20211024.rar
-├── 菜刀_Chopper
+├── Chopper
 │   ├── 过刀菜狗.7z
 │   ├── caidao-20160622.zip
 │   ├── caidao-20160620.zip
 │   ├── caidao-20141213.zip
 │   ├── caidao-20111116.zip
 │   ├── caidao-20131215.zip
-├── 冰蝎_Behinder
-│   ├── Beta
+├── Behinder
+│   ├── Beta 3.0
 │   │   ├── Beta6
 │   │   │   ├── Behinder_v3.0_Beta_6_linux.zip
 │   │   │   ├── Behinder_v3.0_Beta_6_win.zip
@@ -248,11 +259,11 @@
 │   │   ├── Behinder_v3.0_Beta_11_t00ls.zip
 │   │   ├── Behinder_v3.0_Beta_8.zip
 │   ├── openjfx-11.0.2_linux-x64_bin-sdk.zip
-│   ├── 魔改冰蝎_rebeyondv3.2.exe
+│   ├── 魔改冰蝎_rebeyondv3.2.7z
 │   ├── Behinder_v2.0.1.1_修改版.zip
 │   ├── Behinder_v2.0.1.zip
 │   ├── behinder.ico
-├── 甜土豆_SweetPotato
+├── SweetPotato
 │   ├── 甜土豆_xljtj.com.zip
 │   ├── 甜土豆_jas502n_SweetPotato-webshell.zip
 ├── LiqunKit
