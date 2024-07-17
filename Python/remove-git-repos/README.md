@@ -1,0 +1,1 @@
+在repos.txt里写如要删除的repo
