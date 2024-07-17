@@ -140,6 +140,11 @@
 │   ├── ExploitPack 14.0 Premium crack.zip
 │   ├── Exploitpack_Pro_15.07.zip
 │   ├── EXPLOIT PACK v14.04.zip
+├── CrossC2
+│   ├── 3.3
+│   │   ├── genCrossC2.Linux
+│   │   ├── genCrossC2.Win.zip
+│   ├── README_zh_full.md
 ├── CobaltStrike
 │   ├── 4.7.2
 │   │   ├── CobaltStrike472-pwn3rzs-cyberarsenal.7z
