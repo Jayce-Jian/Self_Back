@@ -2283,11 +2283,16 @@
 │   ├── UPX
 │   │   ├── UPX_v4.2.4_x32.zip
 │   │   ├── UPX_v4.2.4_x64.zip
+│   ├── StudyPE+
+│   │   ├── StudyPE+ x64 111.rar
+│   │   ├── StudyPE+ x86 111.rar
+│   │   ├── StudyPE+V1.10.rar
 │   ├── ExeinfoPe
-│   │   ├── ExeinfoPe(1).zip
+│   │   ├── ExeinfoPe-2.05m.zip
+│   │   ├── ExeinfoPe-3.95m.zip
 │   │   ├── Exeinfo PE v0.0.6.6 汉化 插件集成.7z
-│   │   ├── exeinfope.zip
-│   │   ├── ExeinfoPe.rar
+│   │   ├── exeinfope-1.76m.zip
+│   │   ├── ExeinfoPe-1.69m.rar
 │   ├── PE
 │   ├── Enigma_Protector
 │   │   ├── The_Enigma_Protector_v6.70_x32.rar
@@ -2297,10 +2302,7 @@
 │   ├── Themida_x32_x64_v3.1.8.0_Retail_Licensed.rar
 │   ├── Obsidium_v1.6.9_Build_1_Company_License_with_NetworkLicensing.rar
 │   ├── Armageddon_v2.3.zip
-│   ├── StudyPE+ x86 111.rar
-│   ├── StudyPE+V1.10.rar
 │   ├── PEiD-0.95-20081103.zip
-│   ├── StudyPE+ x64 111.rar
 │   ├── CFF_Explorer.zip
 │   ├── NET脱壳工具 ExtremeDumper 3.0.1.1x64 汉化版.rar
 ├── 安卓
@@ -2408,6 +2410,7 @@
 │   │   ├── snapshot_2020-08-07_14-32-pdb.zip
 │   │   ├── snapshot_2020-08-07_14-32.zip
 │   ├── x64dbg_2024_06_03.zip
+│   ├── x64dbg_2024_07_12.zip
 │   ├── X64Dbg(3月29日全插件版).exe
 │   ├── x64dbg_2020.07.11_FixCN.7z
 │   ├── x64dbg 中文版安装程序(Oct 31 2021).rar
@@ -2507,6 +2510,9 @@
 ├── Net
 │   ├── Red.Gate.NET.Reflector.v9.0.1.374.7z
 │   ├── ILSpy_binaries_5.0.2.5153.zip
+├── PEstudio
+│   ├── pestudio-9.58.zip
+│   ├── pestudio-9.59.zip
 ├── Hopper Disassembler v5.15.6 Cracked(Apple Silicon：Intel).zip
 ├── WinLicense_x32_x64_v3.1.2.0_Retail_Licensed.rar
 ├── WinLicense_x32_x64_v3.1.3.0_Retail_Licensed.rar
@@ -2518,7 +2524,6 @@
 ├── AutoIt Extractor.zip
 ├── AT4RE Patcher v0.7.6.7z
 ├── Code_Virtualizer_x32_x64_v3.1.4.0_Retail_Licensed.rar
-├── pestudio-9.58.zip
 ├── stegsolve.jar
 ├── SharpOD_x64_v0.6b.7z
 ├── gdae3.97pro.exe
