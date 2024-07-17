@@ -206,7 +206,7 @@ deb https://mirrors.aliyun.com/parrot lory-security main contrib non-free non-fr
 
 ### (非必要) 系统更新脚本
 
-- [更新脚本](https://github.com/ParrotSec-CN/ParrotOS-Script/blob/master/parrot-update.sh)
+- [更新脚本](https://github.com/ParrotSec-CN/ParrotOS-Script/blob/master/parrot-update)
 
 `$ sudo mv parrot-update /usr/bin/parrot-update`
 
