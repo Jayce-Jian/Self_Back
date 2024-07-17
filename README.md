@@ -333,6 +333,9 @@
 ├── 2024hw
 │   ├── Nacos_Rce-main-2024-07-17.zip
 │   ├── GeoServer-V1.1.zip
+│   ├── ServiceNow_CVE-2024-4879.yaml
+│   ├── cve-2024-6387-poc-master.zip
+│   ├── CVE-2024-4879-main.zip
 │   ├── GeoServer远程命令执行漏洞(CVE-2024-36401).docx
 ├── Solr
 │   ├── Solr Velocity模板注入漏洞检测工具
@@ -484,6 +487,7 @@
 │   ├── Shiro反序列化工具_雷石安全.jar
 │   ├── ShiroExploit-v2.3.jar
 ├── Apache CouchDB-3.2.1 Exp.rar
+├── Splunk-CVE-2023-46214-main.zip
 ├── GeoServer远程命令执行漏洞(CVE-2024-36401).docx
 ├── HCM朗新人力资源系统GetMessage存在sql注入漏洞.docx
 ├── 科荣 AIO moffice SQL注入漏洞.docx
@@ -656,6 +660,7 @@
 │   ├── Pocs
 │   │   ├── GeoServer_CVE-2024-36401.yaml
 │   │   ├── PHP_CGI_CVE-2024-4577.yaml
+│   │   ├── ServiceNow_CVE-2024-4879.yaml
 │   │   ├── Rejetto_CVE-2024-23692.yaml
 │   │   ├── NucleiPOC-2024-01-18.zip
 │   │   ├── nuclei-templates-2024-07-11.zip
