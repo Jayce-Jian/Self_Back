@@ -31,12 +31,16 @@
 │   ├── burp-keygen-scz.jar
 │   ├── Burpsuite_Pro_v2021.x[通杀破解补丁].zip
 ├── 1.7.37
-│   ├── Bp_v1.7.37_Loader_Keygen_1.8JRE.zip
+│   ├── BurpSuite_Pro_v1.7.37_LoaderKeygen_1.8JRE.zip
 │   ├── burp-loader-keygen-1_7_37.jar
 │   ├── burpsuite_pro_v1.7.37.jar
 ├── 2021.12.1
 │   ├── burp-loader-x-Ai.jar
 │   ├── burpsuite_pro.jar
+├── 2024.6.3
+│   ├── BurpLoaderKeygen_v1.17.jar
+│   ├── burpsuite_pro_win.jar
+│   ├── burpsuite_pro_linux.jar
 ├── 插件
 │   ├── FastjsonScan
 │   │   ├── 微信截图_20210430091909.png
@@ -94,7 +98,6 @@
 ├── burp多步骤爆破设置.docx
 ├── jython.zip
 ├── Burp-suite.ico
-├── BurpSuite V2024.5.1.zip
 </code></pre>
 
 ## Webshell及权限维持
