@@ -23,6 +23,8 @@
 
 - **[BurpSuite](https://pan.baidu.com/s/11J_fDtBXs4aMj8oaznCDdA?pwd=xaqx)**
 
+- **[吾爱破解-BurpSuite](https://pan.baidu.com/s/1J_CUxLKqC0h3Ypg4sQV0_g?pwd=52pj)**
+
 <pre><code>.
 ├── loader&&keygen
 │   ├── BurpLoaderKeygen_v1.17.jar
