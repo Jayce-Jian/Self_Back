@@ -41,6 +41,9 @@
 │   ├── BurpLoaderKeygen_v1.17.jar
 │   ├── burpsuite_pro_win.jar
 │   ├── burpsuite_pro_linux.jar
+├── jre
+│   ├── jre-21.0.2_linux.zip
+│   ├── jre-21.0.2_win.zip
 ├── 插件
 │   ├── FastjsonScan
 │   │   ├── 微信截图_20210430091909.png
@@ -93,7 +96,6 @@
 │   ├── J2EEScan-2.0.0-beta.2-jar-with-dependencies.jar
 │   ├── Burp_JSFinderV1.1_obf.jar
 │   ├── AES_Killer.jar
-├── jre-21.0.2.zip
 ├── BurpSuite实战指南.pdf
 ├── burp多步骤爆破设置.docx
 ├── jython.zip
@@ -2236,14 +2238,13 @@
 │   ├── 火眼安全系统.zip
 ├── 环境
 │   ├── JDK_JRE
-│   │   ├── openjdk-14.0.2_linux-x64_bin.tar.gz
-│   │   ├── openjdk-14.0.2_windows-x64_便携.zip
 │   │   ├── openjdk-11.0.2_linux-x64_bin.tar.gz
 │   │   ├── openjdk-13.0.2_linux-x64_bin.tar.gz
 │   │   ├── jdk-13.0.2_windows-x64_bin.exe
 │   │   ├── openjdk-17.0.1_windows-x64_bin.zip
-│   │   ├── jre-21.0.2.zip
-│   │   ├── jdk-11.0.7.zip
+│   │   ├── jre-21.0.2_linux.zip
+│   │   ├── jre-21.0.2_win.zip
+│   │   ├── jdk-11.0.7_win.zip
 │   │   ├── jdk-8u144-linux-x64.tar.gz
 │   ├── Python
 │   │   ├── python-3.7.9-amd64.exe
