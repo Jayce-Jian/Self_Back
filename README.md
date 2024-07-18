@@ -41,9 +41,9 @@
 │   ├── BurpLoaderKeygen_v1.17.jar
 │   ├── burpsuite_pro_win.jar
 │   ├── burpsuite_pro_linux.jar
-├── jre
-│   ├── jre-21.0.2_linux.zip
-│   ├── jre-21.0.2_win.zip
+│   ├── jre
+│   │   ├── jre-21.0.2_linux.zip
+│   │   ├── jre-21.0.2_win.zip
 ├── 插件
 │   ├── FastjsonScan
 │   │   ├── 微信截图_20210430091909.png
