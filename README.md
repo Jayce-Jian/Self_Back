@@ -686,10 +686,7 @@
 │   ├── user-poc.7z
 ├── Netsparker
 │   ├── Netsparker6.4.0.35166破解版.zip
-│   ├── Netsparker v6.1.0.31760破解版.zip
 │   ├── Netsparker v5.9.1.29030_@nszy007.rar
-│   ├── Netsparker  v6.2.1.33642.exe
-│   ├── Netsparker Professional Edition v6.2.0.33156 Full_安全性未知.zip
 │   ├── Netsparker Standard 6.3.033782.exe
 │   ├── Netsparker Professional Edition v6.3.2.34187 Full.exe
 ├── Nexpose
@@ -708,8 +705,8 @@
 │   ├── 天镜安全配置核查管理系统用户手册.pdf
 │   ├── VENUS-TJCS-3in1-NS-VM-VUL313-2021-09-05.rar
 ├── Arachni
-│   ├── arachni-1.5.1-0.5.12-windows-x86_64.exe
-│   ├── arachni-1.5.1-0.5.12-linux-x86_64.tar.gz
+│   ├── arachni-1.6.1.3-0.6.1.1-linux-x86_64.tar.gz
+│   ├── arachni-1.6.1.3-0.6.1.1-windows-x86_64.exe
 │   ├── README.txt
 │   ├── arachni.ico
 ├── Maltego
