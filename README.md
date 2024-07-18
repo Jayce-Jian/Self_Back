@@ -282,13 +282,15 @@
 │   ├── LiqunKit_1.5.1.exe
 │   ├── LiqunKit_1.5.zip
 │   ├── Liqunkit_tools.jar
-├── Shell马.zip
+├── 马
+│   ├── Shell马.zip
+│   ├── webshell合集-2021-07-04.zip
+│   ├── PHP-WebShells.zip
 ├── (毛子c2po)DarkCrystal RAT.zip
 ├── BruteRatel_1.4.5.zip
 ├── 大灰狼远控源码.exe
 ├── JSPHorse-0.5.jar
 ├── 开天斧.zip
-├── webshell合集-2021-07-04.zip
 ├── 灰鸽子远程控制 黑防专版.zip
 ├── 天蝎权限管理工具V1.0 beta37 20201205.zip
 ├── c刀_cknife-20170408.zip
@@ -304,6 +306,9 @@
 │   │   ├── WxBox.rar
 │   │   ├── tenet.html
 │   │   ├── tenet.js
+│   ├── NacosExploitGUI_v4.0.jar
+│   ├── 23HW-200+个POC.zip
+│   ├── IWannaGetAll-v1.3.0.zip
 │   ├── 默安蜜罐管理平台未授权漏洞.md
 │   ├── 帆软V9getshell.pdf
 │   ├── Jellyfin任意文件读取.md
@@ -601,7 +606,6 @@
 ├── Invicti
 │   ├── Invicti-Professional-v24.7.0-Pwn3rzs-CyberArsenal.rar
 │   ├── Invicti-Professional-v24.6.0-Pwn3rzs-CyberArsenal.rar
-│   ├── Invicti_Standard_6.4.3.35616（安装包加绿色）.exe
 ├── Xray
 │   ├── 1.8.2
 │   │   ├── xray_darwin_amd64.zip
@@ -613,11 +617,9 @@
 │   │   ├── xray_darwin_amd64.zip
 │   │   ├── xray_linux_amd64.zip
 │   │   ├── Xray1.7.1 CRACK CODE_Win.go
-│   ├── 1.5.0
-│   │   ├── xray_windows_amd64.exe.zip
-│   │   ├── xray-1.5 破解版.rar
-│   │   ├── xray-license.lic
 │   ├── xray_1.9.11_redo-pwn3rzs.7z
+│   ├── xray_1.9.4高级社区版.zip
+│   ├── xray_1.9.3.zip
 │   ├── xray-poc-416.zip
 │   ├── xray-poc-29.zip
 │   ├── xray-license.lic
@@ -627,27 +629,12 @@
 │   │   ├── 10.0.7
 │   │   │   ├── AppScan10.0.7破解.zip
 │   │   │   ├── appscan1007-crack.exe
-│   │   ├── 10.0.6
-│   │   │   ├── AppScan_1006.exe
-│   │   │   ├── AppScan10.6 cracked  no passwd.zip
-│   │   │   ├── AppScan Standard v10.0.6.28111破解版.exe
-│   │   ├── 10.0.5
-│   │   │   ├── Appscan_Setup_1005.exe
-│   │   │   ├── Appscan_STD_10.0.5_Patch.zip
-│   │   ├── 10.0.4
-│   │   │   ├── Appscan_STD_10.0.4_Patch.zip
-│   │   │   ├── AppScan_Setup_10.0.4.exe
-│   │   │   ├── 10.0.4完美Crack.zip
 │   ├── HCL.AppScan.Standard.v10.5.1.Cracked-NGEN.rar
 ├── AWVS
 │   ├── 24.6.240626115
 │   │   ├── Acunetix-v24.6.240626115-Windows-密码：Pwn3rzs.rar
 │   │   ├── Acunetix-v24.6.240626115-Linux-密码：Pwn3rzs.7z
 │   ├── Old Versions
-│   │   ├── 14.7.220401065
-│   │   │   ├── acunetix_14.7.220401065_mac_x64.pkg
-│   │   │   ├── acunetix_14.7.220401065_x64.sh
-│   │   │   ├── acunetix_14.7.220401065.exe
 │   │   ├── 14.9.220713150
 │   │   │   ├── Linux
 │   │   │   │   ├── wvsc
@@ -685,22 +672,15 @@
 │   ├── afrog_3.0.8_windows_amd64.zip
 │   ├── afrog_3.0.8_linux_amd64.zip
 ├── Goby
-│   ├── 2.9.5
+│   ├── 2.9.5_社区版
 │   │   ├── goby-linux-x64-2.9.5-Community.zip
 │   │   ├── goby-win-x64-2.9.5-Community.zip
 │   ├── 旧版本
-│   │   ├── 1.9.325
-│   │   │   ├── goby-win-x64-1.9.325.exe
-│   │   │   ├── goby-linux-x64-1.9.325.exe
-│   │   │   ├── goby-darwin-x64-1.9.325.exe
-│   │   ├── 1.8.255
-│   │   │   ├── goby-linux-x64-1.8.255.zip
-│   │   │   ├── goby-win-x64-1.8.255.zip
-│   │   ├── 1.8.295
-│   │   │   ├── goby-win-x64-1.8.295.zip
-│   │   │   ├── goby-linux-x64-1.8.295.zip
-│   │   │   ├── goby-darwin-x64-1.8.295.zip
-│   ├── goby-win-x64-1.8.239.zip
+│   │   ├── add_hosts.bat
+│   │   ├── npcap-1.71.exe
+│   │   ├── goby-win-x64-2.0.5.2111_红队.7z
+│   │   ├── goby-win-x64-2.4.7_Community.7z
+│   ├── goby-win-x64-2.4.7_红队.7z
 │   ├── Goby&Poc_161_NineRiverSEC.7z
 │   ├── goby poc存放地址.png
 │   ├── user-poc.7z
@@ -767,48 +747,24 @@
 │   ├── pocsuite3-1.8.4.zip
 │   ├── CVE-2021-20050.py
 ├── Nessus
+│   ├── 10.7.5
+│   │   ├── nessus_offline.sh
+│   │   ├── Nessus-10.7.5-ubuntu1604_amd64.deb
+│   │   ├── Nessus-10.7.5-x64.msi
+│   │   ├── Nessus-latest-debian10_amd64.deb
 │   ├── 官方包
-│   │   ├── 官方all-2.0.20210604.tar.gz
+│   │   ├── all-2.0.20240628.tar.gz
+│   │   ├── all-2.0.20210604.tar.gz
 │   │   ├── all-2.0_20210329.tar.gz
 │   ├── 旧版本
-│   │   ├── 8.15.0
-│   │   │   ├── Nessus-8.15.0-x64.msi
-│   │   │   ├── Nessus-8.15.0-debian6_amd64.deb
-│   │   │   ├── Nessus-8.15.0-ubuntu910_amd64.deb
-│   │   │   ├── Nessus-8.15.0-ubuntu1110_amd64.deb
-│   │   │   ├── Nessus-8.15.0-Win32.msi
-│   │   │   ├── QQ图片20210622215255.jpg
-│   │   │   ├── 此版本无法用信安破解插件.txt
-│   │   ├── 8.14.0
-│   │   │   ├── Nessus-8.14.0.dmg
-│   │   │   ├── Nessus-8.14.0-debian6_amd64.deb
-│   │   │   ├── Nessus-8.14.0-x64.msi
-│   │   │   ├── Nessus-8.14.0-ubuntu910_amd64.deb
-│   │   │   ├── Nessus-8.14.0-ubuntu1110_amd64.deb
-│   │   │   ├── Nessus-8.14.0-Win32.msi
-│   ├── 破解包
-│   │   ├── 群：信安前线.txt
-│   ├── 10.0.1
-│   │   ├── Nessus-10.0.1.dmg
-│   │   ├── Nessus-10.0.1-es8.x86_64.rpm
-│   │   ├── Nessus-10.0.1-ubuntu1110_amd64.deb
-│   │   ├── Nessus-10.0.1-es7.x86_64.rpm
-│   │   ├── Nessus-10.0.1-x64.msi
-│   │   ├── Nessus-10.0.1-debian6_amd64.deb
-│   │   ├── Nessus-10.0.1-es6.x86_64.rpm
-│   ├── 8.15.2
-│   │   ├── Nessus-8.15.2-debian6_amd64.deb
-│   │   ├── Nessus-8.15.2-ubuntu1110_amd64.deb
-│   │   ├── Nessus-8.15.2-x64.msi
-│   │   ├── Nessus-8.15.2-es7.x86_64.rpm
-│   ├── 8.13.1
-│   │   ├── Nessus-8.13.1-ubuntu910_amd64.deb
-│   │   ├── Nessus-8.13.1-ubuntu1110_amd64.deb
-│   │   ├── Nessus-8.13.1-x64.msi
-│   │   ├── Nessus-8.13.1.dmg
-│   │   ├── Nessus-8.13.1-debian6_amd64.deb
-│   ├── 10.0.2
-│   │   ├── Nessus-10.0.2-ubuntu1110_amd64.deb
+│   │   ├── 10.0.1
+│   │   │   ├── Nessus-10.0.1.dmg
+│   │   │   ├── Nessus-10.0.1-es8.x86_64.rpm
+│   │   │   ├── Nessus-10.0.1-ubuntu1110_amd64.deb
+│   │   │   ├── Nessus-10.0.1-es7.x86_64.rpm
+│   │   │   ├── Nessus-10.0.1-x64.msi
+│   │   │   ├── Nessus-10.0.1-debian6_amd64.deb
+│   │   │   ├── Nessus-10.0.1-es6.x86_64.rpm
 │   ├── nessus全新安装说明_只能配合破解包用.zip
 │   ├── Nessus破解步骤_只能配合官方包用.txt
 │   ├── nessus插件中文数据.exe
@@ -1284,6 +1240,7 @@
 │   │   │   ├── LogParserLizardSetup_v7.8.0.msi
 │   │   │   ├── LogParser.msi
 │   │   ├── 逆火网站日志分析器4.14+4.18规则库.7z
+│   │   ├── windows-logs-analysis.zip
 │   │   ├── 360星图.zip
 │   ├── 流量监测
 │   │   ├── WireShark
@@ -1651,6 +1608,11 @@
 │   ├── 悬剑移植版使用;八荒.txt
 │   ├── 悬剑单兵武器工具包启动工具.zip
 │   ├── 悬剑单兵武器工具包.zip
+├── One-Fox应急响应工具箱.zip
+├── ONE-FOX集成工具箱_V8公开版_by狐狸.7z
+├── ONE-FOX集成工具箱_V8公开版补丁包_by狐狸.7z
+├── [最新版]蓝队应急响应工具箱v2024.7.7z
+├── 渗透工具箱_琴音安全.zip
 ├── BlueTeamToolsV1.09.jar
 ├── SysinternalsSuite.zip
 ├── 工控安全必备工具.rar
@@ -1669,6 +1631,13 @@
 <pre><code>.
 ├── 桌面、快速启动
 │   ├── GeekDesk.2.5.14.zip
+│   ├── Rolan v2.2.0.7z
+│   ├── Maye
+│   │   ├── Maye_1.3.6_Green.7z
+│   │   ├── Maye_1.3.5_Green.7z
+│   │   ├── Maye_1.3.4_Green.7z
+│   │   ├── Maye_1.3.3_Green.7z
+│   │   ├── Maye_1.2.9_Green.7z
 ├── 远控、局域网共享
 │   ├── Cute Http File Server
 │   │   ├── chfs-windows-x64-2.0.zip
@@ -2231,6 +2200,8 @@
 │   │   ├── CTF.mf
 │   │   ├── CTF-disk1.7z.008
 │   │   ├── CTF-disk1.7z.005
+│   ├── Windows11 Penetration Suite Toolkit v2.1.7z
+│   ├── Windows11 Penetration Suite Toolkit v2.1.md
 │   ├── 精简Windows XP-VMware.7z
 │   ├── VMware-VMvisor-Installer-7.0U2a-17867351.x86_64.iso
 │   ├── esxi序列号.txt
