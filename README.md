@@ -212,6 +212,7 @@
 │   ├── CORE IMPACT 20.1.6201_www.ddosi.com.rar
 │   ├── CORE IMPACT 20.1.6201 Binary PLAIN (Amank@RaidForums).exe
 ├── Metasploit Pro
+│   ├── MetasploitPro_4.22.2.7z
 │   ├── 4.20
 │   │   ├── metasploit-latest-windows-installer.exe
 │   │   ├── metasploit-latest-linux-x64-installer.run
@@ -234,6 +235,8 @@
 │   ├── godzilla 4.0.1.jar
 │   ├── Godzilla-V2.92_985629177.zip
 │   ├── Godzilla v3.03.jar
+├── BruteRatel
+│   ├── BruteRatel_1.4.5.zip
 ├── Ladon
 │   ├── LadonGo
 │   │   ├── 3.0
@@ -287,7 +290,6 @@
 │   ├── webshell合集-2021-07-04.zip
 │   ├── PHP-WebShells.zip
 ├── (毛子c2po)DarkCrystal RAT.zip
-├── BruteRatel_1.4.5.zip
 ├── 大灰狼远控源码.exe
 ├── JSPHorse-0.5.jar
 ├── 开天斧.zip
@@ -711,6 +713,7 @@
 │   ├── arachni.ico
 ├── Maltego
 │   ├── Maltego XL v4.2.16 Full Activated - CyberSecurity.zip
+│   ├── Maltego_Crack_v4.4.1.7z
 │   ├── maltego_crack_keygen.rar
 ├── Fofa
 │   ├── Fofa_collect_v1.4.zip
