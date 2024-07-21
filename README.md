@@ -2573,65 +2573,363 @@
 - **[书籍文档](https://pan.baidu.com/s/1ZoZc4Vmh1rBokEDLAfUqfw?pwd=xaqx)**
 
 <pre><code>.
-├── 安全设备、产品白皮书
-│   ├── 深信服
-│   ├── 启明星辰
-│   ├── 奇安信
-│   │   ├── 奇安信网神无线入侵防御系统产品介绍.pdf
-│   │   ├── 奇安信网神天巡无线入侵防御系统解决方案V2.0.pdf
-│   ├── 绿盟
-│   │   ├── 绿盟信息安全攻防竞技平台产品白皮书.pdf
-│   │   ├── 信息安全攻防竞技平台产品白皮书.docx
-│   ├── 蚂蚁集团 - 人工智能安全白皮书2020.pdf
-│   ├── 中睿天下-睿眼WEB攻击溯源系统-产品白皮书.pdf
-├── 等保
-│   ├── 常用网络安全标准
-│   │   ├── [知识星球：等级保护测评交流]常用网络安全标准1.等级保护.rar
-│   │   ├── 解压密码.txt
-│   │   ├── [知识星球：等级保护测评交流]常用网络安全标准4.业务连续性、灾难恢复.rar
-│   │   ├── [知识星球：等级保护测评交流]常用网络安全标准2.风险评估.rar
-│   │   ├── [知识星球：等级保护测评交流]常用网络安全标准3.应急响应.rar
-│   ├── 等保资料
-│   │   ├── 6.系统建设管理层面
-│   │   │   ├── 简介.txt
-│   │   ├── 1.物理安全层面
-│   │   │   ├── 机房日常巡检记录表.docx
-│   │   │   ├── 机房来访人员进出登记表.docx
-│   │   │   ├── 机房项目验收方法.docx
-│   │   │   ├── IDC机房出入申请单.docx
-│   │   │   ├── 要求.txt
-│   │   │   ├── 机房工程(机房建设)验收报告.docx
-│   │   ├── 3.安全管理制度层面
-│   │   │   ├── 信息安全策略.docx
-│   │   │   ├── 信息安全总体方针和安全策略文档.docx
-│   │   │   ├── 简介.txt
-│   │   │   ├── 管理制度（三级文件）.rar
-│   │   ├── 7.系统运维管理层面
-│   │   │   ├── 简介.txt
-│   │   ├── 5.人员安全管理层面
-│   │   │   ├── 简介.txt
-│   │   ├── 网络安全
-│   │   │   ├── 简介.txt
-│   │   ├── 4.安全管理机构层面
-│   │   │   ├── 简介.txt
-│   │   │   ├── 信息安全管理机构与岗位职责.docx
-│   │   │   ├── 各部门管理职责和流程及岗位职责1.docx
-│   │   │   ├── 各部门管理职责和流程及岗位职责.docx
-│   │   ├── 2应用安全层面更新中
-│   │   │   ├── 信息系统安全检查报告.pdf
-│   │   │   ├── 信息系统安全检测报告.pdf
-│   │   │   ├── 简介.txt
-│   ├── 2020等保2.0题库、知识点、考题汇总.doc
-│   ├── 等级保护测评扫描和渗透性测试委托和授权书&含放弃验证声明(2).docx
-│   ├── 搞懂网络安全等级保护，弄懂这253张拓扑图就够了.pdf
-│   ├── GBT 22239-2019 信息安全技术 网络安全等级保护基本要求(3).pdf
-│   ├── 等保文件打包.zip
-│   ├── 互联网医疗.rar
-│   ├── 三级等保测评表.rar
-│   ├── 等级保护基本要求V2.0解读.pdf
-├── 社工
-│   ├── 社工文章经典实用.7z
-│   ├── 社会工程-安全体系中的人性漏洞.pdf
+├── 逆向
+│   ├── 汇编语言资料
+│   │   ├── 汇编语言程序设计视频课程-III(ID-8586)
+│   │   │   ├── 附件_31165.pdf
+│   │   │   ├── 附件_31172.pdf
+│   │   │   ├── 附件_31168.pdf
+│   │   │   ├── 附件_31167.pdf
+│   │   │   ├── 附件_31163.pdf
+│   │   │   ├── 附件_31164.pdf
+│   │   │   ├── 附件_31166.pdf
+│   │   │   ├── 附件_31162.pdf
+│   │   │   ├── 附件_31170.pdf
+│   │   │   ├── 附件_31169.pdf
+│   │   │   ├── 附件_31171.pdf
+│   │   ├── 汇编语言程序设计视频课程-II(ID-8501)
+│   │   │   ├── 附件_30839.pdf
+│   │   │   ├── 附件_30829.pdf
+│   │   │   ├── 附件_30832.pdf
+│   │   │   ├── 附件_30836.pdf
+│   │   │   ├── 附件_30831.pdf
+│   │   │   ├── 附件_30828.pdf
+│   │   │   ├── 附件_30833.pdf
+│   │   │   ├── 附件_30835.pdf
+│   │   │   ├── 附件_30830.pdf
+│   │   │   ├── 附件_30837.pdf
+│   │   │   ├── 附件_30838.pdf
+│   │   │   ├── 附件_30834.pdf
+│   │   │   ├── 附件_30827.pdf
+│   │   ├── 汇编语言程序设计视频课程-V(ID-8765)
+│   │   │   ├── 附件_32650.pdf
+│   │   │   ├── э.pdf
+│   │   │   ├── 附件_32641.pdf
+│   │   │   ├── 附件_32646.pdf
+│   │   │   ├── 附件_32643.pdf
+│   │   │   ├── 附件_32644.pdf
+│   │   │   ├── 附件_32645.pdf
+│   │   │   ├── 附件_32640.pdf
+│   │   │   ├── 附件_32639.pdf
+│   │   │   ├── ё.pdf
+│   │   │   ├── ю.pdf
+│   │   │   ├── 附件_32638.pdf
+│   │   │   ├── 附件_32637.pdf
+│   │   │   ├── 附件_32642.pdf
+│   │   │   ├── я.pdf
+│   │   ├── 高级汇编语言技术
+│   │   │   ├── 16 反汇编(逆向工程).mp4
+│   │   │   ├── 10 条件汇编.mp4
+│   │   │   ├── 附件_37695.pdf
+│   │   │   ├── 3 程序的多文件组织.mp4
+│   │   │   ├── 附件_37704.pdf
+│   │   │   ├── 附件_37700.pdf
+│   │   │   ├── 附件_37681.pdf
+│   │   │   ├── 附件_37682.pdf
+│   │   │   ├── 13 汇编语言集成开发环境.mp4
+│   │   │   ├── 附件_37697.pdf
+│   │   │   ├── 5 汇编伪操作汇总.mp4
+│   │   │   ├── 7 汇编过程.mp4
+│   │   │   ├── 附件_37702.pdf
+│   │   │   ├── 14 用Visual studio开发汇编程序.mp4
+│   │   │   ├── 1 导学.mp4
+│   │   │   ├── 15 高级语言的指令级调试.mp4
+│   │   │   ├── 4 汇编指令汇总.mp4
+│   │   │   ├── 附件_37706.pdf
+│   │   │   ├── 2 子程序的另外一种写法.mp4
+│   │   │   ├── 附件_37701.pdf
+│   │   │   ├── 附件_37693.pdf
+│   │   │   ├── 17 混合编程.mp4
+│   │   │   ├── 8 宏汇编.mp4
+│   │   │   ├── 12 80x86汇编.mp4
+│   │   │   ├── 附件_37694.pdf
+│   │   │   ├── 附件_37696.pdf
+│   │   │   ├── 附件_37703.pdf
+│   │   │   ├── 11 重复汇编.mp4
+│   │   │   ├── 附件_37692.pdf
+│   │   │   ├── 6 汇编操作符汇总.mp4
+│   │   │   ├── 9 宏库.mp4
+│   │   │   ├── 附件_37698.pdf
+│   │   │   ├── 附件_37699.pdf
+│   │   │   ├── 18 文件结构分析.mp4
+│   │   │   ├── 附件_37705.pdf
+│   │   │   ├── 附件_37691.pdf
+│   │   ├── 汇编语言程序设计VII系列视频课程(ID-10257)
+│   │   │   ├── 附件_37682【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37704【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37699【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37702【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37705【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37694【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37681【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37703【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37697【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37706【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37692【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37700【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37698【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37695【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37693【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37696【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37701【瑞客论坛 www.ruike1.com】.pdf
+│   │   │   ├── 附件_37691【瑞客论坛 www.ruike1.com】.pdf
+│   │   ├── 汇编语言程序设计视频课程-VI(ID-9267)
+│   │   │   ├── 附件_35725.pdf
+│   │   │   ├── 附件_35715.pdf
+│   │   │   ├── 附件_35708.pdf
+│   │   │   ├── 附件_35717.pdf
+│   │   │   ├── 附件_35709.pdf
+│   │   │   ├── 附件_35712.pdf
+│   │   │   ├── 附件_35724.pdf
+│   │   │   ├── 附件_35719.pdf
+│   │   │   ├── 附件_35722.pdf
+│   │   │   ├── 附件_35720.pdf
+│   │   │   ├── 附件_35716.pdf
+│   │   │   ├── 附件_35707.pdf
+│   │   │   ├── 附件_35706.pdf
+│   │   │   ├── 附件_35721.pdf
+│   │   │   ├── 附件_35714.pdf
+│   │   │   ├── 附件_35711.pdf
+│   │   │   ├── 附件_35713.pdf
+│   │   │   ├── 附件_35710.pdf
+│   │   │   ├── 附件_35705.pdf
+│   │   │   ├── 附件_35723.pdf
+│   │   │   ├── 附件_35718.pdf
+│   │   ├── 汇编语言程序设计视频课程-I(ID-8500)
+│   │   │   ├── 0100导学.pdf
+│   │   │   ├── 0105汇编语言实践环境搭建.zip
+│   │   │   ├── 0101为什么要学汇编语言.pdf
+│   │   │   ├── 0102由机器语言到汇编语言.pdf
+│   │   │   ├── 0104内存的读写与地址空间.pdf
+│   │   │   ├── 0103计算机的组成.pdf
+│   │   ├── 汇编语言程序设计视频课程-IV(ID-8650)
+│   │   │   ├── 附件_31670.pdf
+│   │   │   ├── 附件_31661.pdf
+│   │   │   ├── 附件_31660.pdf
+│   │   │   ├── 附件_31662.pdf
+│   │   │   ├── 附件_31663.pdf
+│   │   │   ├── 附件_31667.zip
+│   │   │   ├── 附件_31666.pdf
+│   │   │   ├── 附件_31665.pdf
+│   │   │   ├── 附件_31669.pdf
+│   │   │   ├── 附件_31664.pdf
+│   │   │   ├── 附件_31668.pdf
+│   │   │   ├── 附件_31672.pdf
+│   │   │   ├── 附件_31671.pdf
+│   │   ├── 《汇编语言(第3版) 》王爽著.pdf
+│   ├── 灰帽黑客
+│   │   ├── Python灰帽子_黑客与逆向工程师的Python编程之道.pdf
+│   │   ├── 灰帽黑客  正义黑客的道德规范、渗透测试、攻击方法和漏洞分析技术  第4版.pdf
+│   ├── Windows核心编程 第5版
+│   │   ├── Windows-via-C-Code-January-29-2008.zip
+│   │   ├── Windows核心编程 第5版.pdf
+│   │   ├── test.txt
+│   ├── Windows内核情景分析
+│   │   ├── Windows内核情景分析上.pdf
+│   │   ├── Windows内核情景分析下.pdf
+│   ├── Windows内核编程
+│   │   ├── Windows内核源码详尽分析
+│   │   │   ├── (4)-进程线程篇.doc
+│   │   │   ├── (9)-中断处理篇.doc
+│   │   │   ├── (11)-MDL篇.doc
+│   │   │   ├── (13)-文件系统篇.doc
+│   │   │   ├── (12)-网络通信篇.doc
+│   │   │   ├── (15)-服务管理篇.doc
+│   │   │   ├── (6)-线程同步篇.doc
+│   │   │   ├── 说明.doc
+│   │   │   ├── (14)-权限管理篇.doc
+│   │   │   ├── (1)-系统调用篇.doc
+│   │   │   ├── (10)-设备驱动篇.doc
+│   │   │   ├── (3)-内核对象篇.doc
+│   │   │   ├── (5)-APC篇.doc
+│   │   │   ├── (7)-窗口消息篇.doc
+│   │   │   ├── (8)-DPC篇.doc
+│   │   │   ├── (2)-内存管理篇.doc
+│   │   ├── Windows内核编程 谭文 陈铭霖 .pdf
+│   ├── windows PE权威指南
+│   │   ├── 《WindowsPE权威指南》书源代码.rar
+│   │   ├── windows PE权威指南.pdf
+│   ├── Reverse Engineering eBooks
+│   │   ├── Bug Hunter's Diary, A - Tobias Klein.jpg
+│   │   ├── Practical Reverse Engineering_ x86, x64, ARM, Windows Kernel, Rev Obfuscation - Dang, Bruce & Gazet, Alexandre & Bachaalany, Elias.pdf
+│   │   ├── Bug Hunter's Diary, A - Tobias Klein.mobi
+│   │   ├── IDA Pro Book_ The Unofficial Guide to the World's Most Popular Disassembler, The - Eagle, Chris.jpg
+│   │   ├── Reversing_ Secrets of Reverse Engineering - Eilam, Eldad.jpg
+│   │   ├── Bug Hunter's Diary, A - Tobias Klein.epub
+│   │   ├── Linux Malware Incident Response_ A Practitioner's Guide ile Data - Cameron Malin & Eoghan Casey & James Aquilina.pdf
+│   │   ├── Hacking_ The Art of Exploitation_ The Art of Exploitation - Erickson, Jon.epub
+│   │   ├── Practical Reverse Engineering_ x86, x64, ARM, Windows Kernel, Rev Obfuscation - Dang, Bruce & Gazet, Alexandre & Bachaalany, Elias.jpg
+│   │   ├── Gray Hat Python_ Python Programming for Hackers and Reverse Engineers - Seitz, Justin.epub
+│   │   ├── Practical Reverse Engineering_ x86, x64, ARM, Windows Kernel, Rev Obfuscation - Dang, Bruce & Gazet, Alexandre & Bachaalany, Elias.epub
+│   │   ├── Practical Reverse Engineering_ x86, x64, ARM, Windows Kernel, Rev Obfuscation - Dang, Bruce & Gazet, Alexandre & Bachaalany, Elias.mobi
+│   │   ├── Linux Malware Incident Response_ A Practitioner's Guide ile Data - Cameron Malin & Eoghan Casey & James Aquilina.mobi
+│   │   ├── Gray Hat Python_ Python Programming for Hackers and Reverse Engineers - Seitz, Justin.jpg
+│   │   ├── Guide to Kernel Exploitation_ Attacking the Core, A - Perla, Enrico & Oldani, Massimiliano.epub
+│   │   ├── Gray Hat Python_ Python Programming for Hackers and Reverse Engineers - Seitz, Justin.mobi
+│   │   ├── Bug Hunter's Diary, A - Tobias Klein.pdf
+│   │   ├── IDA Pro Book_ The Unofficial Guide to the World's Most Popular Disassembler, The - Eagle, Chris.epub
+│   │   ├── Hacking_ The Art of Exploitation_ The Art of Exploitation - Erickson, Jon.mobi
+│   │   ├── Linux Malware Incident Response_ A Practitioner's Guide ile Data - Cameron Malin & Eoghan Casey & James Aquilina.epub
+│   │   ├── Hacking_ The Art of Exploitation_ The Art of Exploitation - Erickson, Jon.jpg
+│   │   ├── Guide to Kernel Exploitation_ Attacking the Core, A - Perla, Enrico & Oldani, Massimiliano.pdf
+│   │   ├── Malware Forensics Field Guide for Windows Syst Field Guides - Casey, Eoghan;Malin, Cameron H.;Aquilina, James M_.jpg
+│   │   ├── Practical Malware Analysis_ The Hands-On Guide to Dissecting Malicious Software - Sikorski, Michael & Honig, Andrew.jpg
+│   │   ├── Art of Assembly Language, The - Hyde, Randall.jpg
+│   │   ├── Assembly Language Step-by-Step_ Programming with Linux - Duntemann, Jeff.jpg
+│   │   ├── Art of Assembly Language, The - Hyde, Randall.epub
+│   │   ├── Guide to Kernel Exploitation_ Attacking the Core, A - Perla, Enrico & Oldani, Massimiliano.mobi
+│   │   ├── Linux Malware Incident Response_ A Practitioner's Guide ile Data - Cameron Malin & Eoghan Casey & James Aquilina.jpg
+│   │   ├── Art of Assembly Language, The - Hyde, Randall.mobi
+│   │   ├── Reversing_ Secrets of Reverse Engineering - Eilam, Eldad.epub
+│   │   ├── Practical Malware Analysis_ The Hands-On Guide to Dissecting Malicious Software - Sikorski, Michael & Honig, Andrew.epub
+│   │   ├── Gray Hat Python_ Python Programming for Hackers and Reverse Engineers - Seitz, Justin.pdf
+│   │   ├── Hacking_ The Art of Exploitation_ The Art of Exploitation - Erickson, Jon.pdf
+│   │   ├── Assembly Language Step-by-Step_ Programming with Linux - Duntemann, Jeff.epub
+│   │   ├── IDA Pro Book_ The Unofficial Guide to the World's Most Popular Disassembler, The - Eagle, Chris.mobi
+│   │   ├── Guide to Kernel Exploitation_ Attacking the Core, A - Perla, Enrico & Oldani, Massimiliano.jpg
+│   ├── IDA Pro权威指南
+│   │   ├── IDA Pro权威指南 第2版 .pdf
+│   │   ├── IDA Pro权威指南.pdf
+│   ├── 深入解析Windows操作系统 第6版
+│   │   ├── 深入解析Windows操作系统 第6版 上册.pdf
+│   │   ├── 深入解析Windows操作系统 第6版 下册(中文).pdf
+│   ├── 逆向工程权威指南
+│   │   ├── 逆向工程权威指南.上册.pdf
+│   │   ├── 逆向工程权威指南.下册.pdf
+│   ├── 编译与反编译技术
+│   │   ├── 编译与反编译技术实战 (ssreader) (Z-Library).pdf
+│   │   ├── 编译与反编译技术 (庞建民, 陶红伟, 刘晓楠, 岳峰) (Z-Library).pdf
+│   ├── 漏洞战争
+│   │   ├── 《漏洞战争》配套资料.zip
+│   │   ├── 漏洞战争-软件漏洞分析精要(带索引高清珍藏版PDF).pdf
+│   ├── C++反汇编与逆向分析技术揭秘（第2版）
+│   │   ├── C  反汇编与逆向分析技术揭秘第2版随书文件.zip
+│   │   ├── C++反汇编与逆向分析技术揭秘（第2版） (钱林松,张延清) .pdf
+│   ├── APP
+│   │   ├── Android 脱壳研究.pdf
+│   │   ├── ios应用安全权威指南.pdf
+│   │   ├── iOS Hackers Handbook (Charlie Miller, Dion Blazakis, Dino DaiZovi etc.) (Z-Library).pdf
+│   │   ├── 黑客攻防技术宝典·iOS实战篇.pdf
+│   │   ├── MACOS软件安全与逆向分析.pdf
+│   │   ├── Android取证实战：调查、分析与移动安全.pdf
+│   │   ├── Android软件安全与逆向分析.pdf
+│   ├── 加密与解密_看雪
+│   │   ├── PEDIY_BOOK4.iso
+│   │   ├── 《加密与解密（第4版）》.pdf
+│   ├── 汇编语言 基于x86处理器 第7版.pdf
+│   ├── 密码编码学与网络安全原理与实践（第5版）PDF扫描版www.atcpu.com.pdf
+│   ├── 《汇编语言》(第4版) .pdf
+│   ├── 堆栈攻击八层网络安全防御.pdf
+│   ├── 《汇编语言(第3版) 》王爽著.pdf
+│   ├── [天书夜读－从汇编语言到Windows内核编程].谭文.邵坚磊.扫描版.pdf
+│   ├── Syngress.Sockets.Shellcode.Porting.And.Coding.Reverse.Engineering.Exploits.And.Tool.Coding.For.Security.Professionals.pdf
+│   ├── x86_x64体系探索及编程_邓志.pdf
+│   ├── x86从实模式到保护模式.pdf
+│   ├── Windows系统编程 (Johnson M. Hart, 戴锋, 孟庆麟) (Z-Library).pdf
+│   ├── Windows环境下32位汇编语言程序设计（典藏版）.pdf
+│   ├── Windows内核原理与实现.pdf
+│   ├── 新编 Windows API参考大全.rar
+│   ├── Windows API开发详解 函数、接口、编程实例.pdf
+│   ├── windbg命令大全.pdf
+│   ├── reversing逆向工程教程.pdf
+│   ├── 深入理解计算机操作系统.pdf
+│   ├── 逆向工程实战.pdf
+│   ├── 逆向分析实战_冀云_人民邮电.pdf
+│   ├── 逆向工程权威指南.pdf
+│   ├── 逆向工程核心原理.pdf
+│   ├── 处理器虚拟化技术Windows平台调试 下.pdf
+│   ├── 黑客攻防技术宝典：系统实战篇.pdf
+│   ├── 《现代操作系统》[原书第4版][高清][OCR].pdf
+│   ├── 处理器虚拟化技术.pdf
+│   ├── [Windows程序设计(第5版,珍藏版)].Charles.Petzold.扫描版.pdf
+│   ├── Linux二进制分析【文字版】 (奥尼尔) (Z-Library).pdf
+│   ├── 完全掌握加密解密实战超级手册.pdf
+│   ├── 破解不破不逆.pdf
+│   ├── 有趣的二进制：软件安全与逆向分析.pdf
+│   ├── C 反汇编与逆向分析技术揭秘.pdf
+│   ├── 逆向工程权威指南.上册.pdf
+│   ├── 从零开始学IDA逆向1-31章.pdf
+│   ├── 逆向工程权威指南.下册.pdf
+│   ├── 8088 汇编指令速查手册.doc
+│   ├── Rootkit和Bootkit：现代恶意软件逆向分析和下一代威胁.docx
+│   ├── 使用OllyDbg从零开始Cracking.CHM
+│   ├── CobaltStrike逆向学习系列-主线篇（完结）.pdf
+├── 工具使用、程序利用
+│   ├── Metasploit渗透测试指南.pdf
+│   ├── Metasploit渗透测试魔鬼训练营.pdf
+│   ├── Nmap渗透测试指南（异步图书） (信息安全技术丛书).pdf
+│   ├── Nmap网络探测及安全审计第三版.pdf
+│   ├── Metasploit 渗透测试指南.pdf
+│   ├── Metasploit Toolkit for Penetration Testing, Exploit Development, & Vulnerability Research.pdf
+│   ├── BackTrack 4 利用渗透测试保证系统安全.pdf
+│   ├── Sqlmap从入门到精通(陈小兵).pdf
+│   ├── Windows PowerShell实战指南  第2版.pdf
+│   ├── Exploit编写系列教程1-10.pdf
+│   ├── shodan.pdf
+│   ├── Powershell_Pentest.pdf
+│   ├── iptables-tutorial-1.2.2-cn.pdf
+│   ├── SHODAN for Penetration Testers.pdf
+│   ├── Nmap渗透测试指南.pdf
+│   ├── burpsuite使用手册--详细.pdf
+│   ├── Vulnhub靶场实战指南.pdf
+│   ├── DLL劫持.pdf
+│   ├── Burp Suite + Proxifier 实现 EXE 和微信小程序抓包.docx
+│   ├── Shell脚本学习指南.pdf
+│   ├── Windows PowerShell实战指南 第3版.pdf
+│   ├── Fiddler调试权威指南.pdf
+│   ├── SQLMap从入门到入狱.pdf
+│   ├── 安全工具解析-Metasploit.docx
+│   ├── XRAY与Burp、AppScan、AWVS联动.pdf
+│   ├── psexec工具使用浅析.pdf
+│   ├── Docker - 从入门到实践.pdf
+│   ├── Metasploit Framwork(MSF)入门.pdf
+│   ├── 微软office软件-公式教程.xltx
+│   ├── Vim 101 Hacks.pdf
+├── 红队
+│   ├── 水滴安全实验室 - 红队渗透手册
+│   │   ├── 01_红队渗透手册之信息收集篇.html
+│   │   ├── 03_红队渗透手册之钓鱼篇.pdf
+│   │   ├── 02_红队渗透手册之弹药篇.pdf
+│   │   ├── 02_红队渗透手册之弹药篇.html
+│   │   ├── 01_红队渗透手册之信息收集篇.pdf
+│   │   ├── 04_红队渗透手册之代理转发与隧道篇.pdf
+│   │   ├── 03_红队渗透手册之钓鱼篇.html
+│   │   ├── 04_红队渗透手册之代理转发与隧道篇.html
+│   ├── ATT&CK手册(修改版).pdf
+│   ├── [译] 渗透测试实战第三版(红队版).pdf
+│   ├── 高度安全环境下的高级渗透测试.pdf
+│   ├── 渗透测试实战第三版(红队版) (it-ebooks) (Z-Library).epub
+│   ├── 钓鱼攻击案例分享与总结.pdf
+│   ├── 安恒信息：红队视角下又一个突破口，再看大国独有小程序.pdf
+│   ├── 红队思维1-关于红队攻防和玩俄罗斯方块的共性.pdf
+│   ├── 钓鱼佬的一些心得.pdf
+│   ├── 红队基操2-外网快速打点方法&技巧总结.pdf
+│   ├── 红队基操1-poc快速编写以及现有poc快速魔改批量扫描.pdf
+│   ├── 文件上传3-关于文件上传白名单绕过的方法总结.pdf
+│   ├── 文件上传2-关于文件后缀名加.绕过的算法解析.pdf
+│   ├── 攻防演练中的打法选择.pdf
+│   ├── 文件上传1-关于涉及到时间和随机数路径爆破的文件上传问题.pdf
+│   ├── 打点高频漏洞1加强版之-ueditor漏洞实战.pdf
+│   ├── 打点高频漏洞1-ueditor漏洞利用&源码分析详细版.pdf
+│   ├── 打点高频漏洞2-shiro利用&源码详细解析.pdf
+│   ├── 利用go加载shellcode免杀.pdf
+│   ├── 利用c加载图片shellcode免杀.pdf
+│   ├── 冰蝎虚拟终端能过360的探究.pdf
+│   ├── 利用antsword绕过disable_function.pdf
+│   ├── 内网代理工具stowaway的排坑使用.pdf
+│   ├── 关于技术本质的一些思考.pdf
+│   ├── 关于实战中工具不走代理的问题解释.pdf
+│   ├── 内网中找域控的各种奇葩情况.pdf
+│   ├── 从零开始制作一个Web蜜罐扫描器.pdf
+│   ├── 关于ssrf和xxe的共性以及攻击面的一些思考.pdf
+│   ├── 代码审计的底层逻辑.pdf
+│   ├── windows权限维持方案（20220411可过360主动防御）.pdf
+│   ├── webshell绕过360主动防御执行命令（20220420可用）.pdf
+│   ├── webshell管理工具进行powershell上线的玄学问题.pdf
+│   ├── weaver新洞之前台注入.pdf
+│   ├── PostgreSQL 高权限命令执行 (CVE-2019-9193)漏洞复现&实战.pdf
+│   ├── Log4j2漏洞复现&原理&补丁绕过.pdf
+│   ├── lnk钓鱼样本的制作.pdf
 ├── Web攻防、渗透测试书籍
 │   ├── OWASP
 │   │   ├── OWASP测试指南V3.0中文版.pdf
@@ -2862,6 +3160,47 @@
 │   │   ├── 命令执行.docx
 │   │   ├── 常见漏洞修复方案.docx
 │   │   ├── 敏感信息泄露.docx
+│   ├── Q版缓冲区溢出教程.pdf
+│   ├── Linux系统安全：纵深防御、安全扫描与入侵检测 (网络空间安全技术丛书) (胥峰) (Z-Library).epub
+│   ├── CISSP官方学习手册第9版OSG(中文).pdf
+│   ├── Kali Linux高级渗透测试 (罗伯特W. 贝格斯 (Robert W. Beggs)) (z-lib.org).mobi
+│   ├── Kali Linux 高级渗透测试（原书第2版） (维杰·库马尔·维卢 (Vijay Kumar Velu)) (Z-Library).epub
+│   ├── 渗透测试实践指南：必知必会的工具与方法（样章）.pdf.pdf
+│   ├── 渗透测试实践指南：必知必会的工具与方法.pdf
+│   ├── 实战攻防-企业红蓝对抗实践指南 (阿里云，长亭科技) (Z-Library).pdf
+│   ├── 红蓝攻防 构建实战化网络安全防御体系（奇安信官方出品，多年服务各类大型政企机构的经验总结，红队、蓝队、紫队视角全面揭示红蓝攻防） (奇... (Z-Library).pdf
+│   ├── 《Python渗透测试编程技术 方法与实践》.pdf
+│   ├── 渗透笔记.rar
+│   ├── 《渗透测试实践指南：必知必会的工具与方法》样章.pdf
+│   ├── python黑帽子：黑客与渗透测试编程之道.pdf
+│   ├── 网络攻防实战研究：漏洞利用与提权.pdf
+│   ├── 0day安全：软件漏洞分析技术(第二版).pdf
+│   ├── 白帽子讲Web安全.pdf
+│   ├── XSS跨站脚本攻击剖析与防御(完整版).pdf
+│   ├── Web应用安全威胁与防治(1).pdf
+│   ├── Web应用漏洞侦测与防御：揭秘鲜为人知的攻击手段和防御技术_迷你书.pdf
+│   ├── Web渗透测试实战 基于Metasploit 5.0 2021 ((印)哈伯利特·辛格(Har... (z-lib.org).epub
+│   ├── Web应用安全威胁与防治——基于OWASP Top 10与ESAPI 试读样章.pdf
+│   ├── Web漏洞搜索 2021_(美)彼得·亚沃斯基(Peter Yaworski).pdf
+│   ├── web前端黑客技术揭秘.pdf
+│   ├── Web渗透测试：使用Kali Linux - Joseph Muniz & Aamir Lakhani.mobi
+│   ├── Web安全测试.pdf
+│   ├── Web安全攻防：渗透测试实战指南_徐焱 李文轩 王东亚.pdf
+│   ├── SQL注入攻击与防御.pdf
+│   ├── Web安全攻防：渗透测试实战指南.pdf
+│   ├── SQL Injection Attacks And Defense.pdf
+│   ├── SQL注入攻击与防御  第2版.pdf
+│   ├── 破坏之王_DDoS攻击与防范深度剖析.pdf
+│   ├── 工业互联网安全 架构与防御_魏强;王文海;程鹏.pdf
+│   ├── 黑客攻防技术宝典Web实战篇第2版.pdf
+│   ├── 黑客攻防技术宝典 浏览器实战篇.pdf
+│   ├── 白帽子讲Web扫描 (刘漩) (Z-Library).pdf
+│   ├── 代码审计：企业级Web代码安全架构 (信息安全技术丛书) (尹毅 著) (Z-Library).epub
+│   ├── 代码审计企业级Web代码安全架构.pdf
+│   ├── 白帽子讲浏览器安全.pdf
+│   ├── 安全之路Web渗透技术及实战案例解析(第2版) (安全技术大系).epub
+│   ├── 白帽子讲WEB安全 纪念版.pdf
+│   ├── [黑客Web脚本攻击与防御技术核心剖析].郝永清.扫描版.pdf
 │   ├── 雷神众测 - 带目录_彩_半年刊_无密码.pdf
 │   ├── 漏洞战争-软件漏洞分析精要(带索引高清珍藏版PDF).pdf
 │   ├── 网络安全进阶笔记.pdf
@@ -2909,7 +3248,6 @@
 │   ├── 黑客渗透笔记完整版.pdf
 │   ├── 黑客攻防从入门到精通.pdf
 │   ├── Web渗透测试使用kali linux.pdf
-│   ├── 白帽子讲Web安全.pdf
 │   ├── wLHK-Dedecms漏洞整理.pdf
 │   ├── XSS CHEAT SHEET 2020 edition.pdf
 │   ├── [图灵程序设计丛书].SQL基础教程.第2版.pdf
@@ -2930,15 +3268,138 @@
 │   ├── Web安全攻防渗透测试实战指南.pdf
 │   ├── 101_Encoding_And_Filtering.pdf
 │   ├── Fuzzing for Software Security Testing and Quality Assurance by Ari Takanen Jared D. DeMott Charles Miller.pdf
-│   ├── Python黑帽子_黑客与渗透测试编程之道.pdf
 │   ├── 102_Evasion_Basics.pdf
 │   ├── Web Application Penetration Testing eXtreme.pdf
 │   ├── Kali_linux高度安全环境下的高级渗透测试.pdf
 │   ├── SQL基础教程.pdf
+├── 免杀
+│   ├── 黑客免杀攻防 (任晓珲) (Z-Library).pdf
+│   ├── CS免杀-PowerShell加载命令免杀.pdf
+│   ├── BypassAntiVirus-免杀资料打包PDF.zip
+│   ├── 免杀总结2019_(解压密码：9090).zip
+│   ├── python3反序列化免杀.zip
+│   ├── CS免杀-PowerShell上线.pdf
+│   ├── 远控免杀系列文章&工具.rar
+│   ├── 一分钟免杀cobaltstrike.pdf
+│   ├── 【PPT】安全狗上传绕过+wbehshell免杀——大咖ian分享.ppt
+├── IOT安全
+│   ├── 智能硬件安全（电子工业出版社，2016） (刘建皓, 王奥博, 贾文晓, 严敏睿) (Z-Library).pdf
+│   ├── 智能汽车安全攻防大揭秘（电子工业出版社，2017） (360独角兽安全团队（UNICORNTEAM），李均，杨卿，曾颖涛，郑玉伟编著) (Z-Library).pdf
+│   ├── 无线网络安全攻防实战完整版.pdf
+│   ├── 硬件安全攻防大揭秘（电子工业出版社，2017） (360独角兽安全团队（UNICORNTEAM），简云定，杨卿，袁舰，秦明闯著) (Z-Library).pdf
+│   ├── 无线网络安全攻防实战进阶（杨哲）扫描版.pdf
+│   ├── 无线电安全攻防大揭秘 (360独角兽安全团队 (UnicornTeam)) (Z-Library).pdf
+│   ├── 黑武器-linux_BT4无线黑客.pdf
+│   ├── 无线黑客傻瓜书.pdf
+│   ├── 黑客大曝光：无线网络安全（原书第2版）.pdf
+│   ├── 黑客大曝光：无线网络安全（原书第3版） (信息安全技术丛书).pdf
+│   ├── 黑客攻防与无线安全：从新手到高手（超值版）.cbr
+│   ├── 黑客大曝光：无线网络安全.pdf
+│   ├── 工业控制网络安全技术与实践 -- Industrial control network security technology and practice (姚羽, 祝烈煌, 武传坤) (Z-Library).pdf
+│   ├── Android：WiFi+NFC+GPS.pdf
+│   ├── Aircraft tracking and classification with VHF passive bistatic radar.pdf
+│   ├── BTLE-SmartLock-Hacking-Ozlockcon-2017-Bluetooth that bites.pdf
+│   ├── 802.11® Wireless Networks The Definitive Guide, Second Edition .pdf
+│   ├── BLE安全入门及实战（1）.pdf
+│   ├── BLE安全入门及实战（3）.pdf
+│   ├── BLE安全入门及实战（2）.pdf
+│   ├── 网络硬件设备完全技术宝典(第3版).PDF
+│   ├── 黑帽硬件指南.pdf
+│   ├── 硬件安全攻防大揭秘.pdf
+│   ├── 黑无止境 — 那些年我们绕过的锁.pdf
+│   ├── 阿里云物联网产品安全最佳实践.pdf
+│   ├── 软件无线电在漏洞挖掘领域的应用.pdf
+│   ├── 绿盟科技 - 2020工控安全研究报告.pdf
+│   ├── 路由器漏洞环境仿真.pdf
+│   ├── 调戏米2手环.pptx
+│   ├── 无线遥控信号分析入门v3.pdf
+│   ├── 工业应用无线遥控器的安全性分析-趨勢科技.pdf
+│   ├── 揭秘家用路由器0day漏洞挖掘技术.pdf
+│   ├── 基于HackCUBE设备的无线Hacking.pdf
+│   ├── 小米消费级物联网安全基线.pdf
+│   ├── 基于树莓派的渗透测试.pdf
+│   ├── 变色龙RDV2.0快速上手指南.zip
+│   ├── [KCon 2017]0826_9_KEVIN2600_玩转无人机攻防.pdf
+│   ├── [KCon 2017]0827_8_Seeker_从口袋里的伪基站到手持的真基站.pdf
+│   ├── 华强北产业链及其相关硬件技术研究报告.pptx
+│   ├── [拓展]使用 HackCube-Special 挟持小朋友玩具车 - HackCube-Special - RadioHack 同频共振 同质相吸 -.pdf
+│   ├── 从NFC到4G安全——潜藏在身边的攻击.pdf
+│   ├── [KCon 2017]0826_6_杨晋_重现速8僵尸车队（蓝牙4.0 BLE协议的进攻）.pdf
+│   ├── 硬件在安全领域的应用.pdf
+│   ├── [KCon 2016]0828_3_Seeker_伪基站高级利用技术.pdf
+│   ├── 家庭安全的第一道—门锁.pdf
+│   ├── 基于三种常见算法的RKEPKE系统.pdf
+│   ├── 基于TD-LTE的电力无线专网组网与安全防护技术研究.pdf
+│   ├── 特斯拉安全漏洞的发现过程_已修复.pdf
+│   ├── 无线网络黑客攻防.pdf
+│   ├── [KCon 2017]0827_1_杨芸菲_如何DIY一套低成本反无人机系统.pdf
+│   ├── 利用侧信道攻击4G和5G寻呼协议.pdf
+│   ├── 固件提取与常见软件漏洞.pdf
+│   ├── Software_Defined_Radio_using_MATLAB_Simulink_and_the_RTL-SDR.pdf
+│   ├── 物联网安全之如何破解各种锁.pdf
+│   ├── 典型非接触式卡的攻击实践.pdf
+│   ├── 无线通讯协议安全分析.pdf
+│   ├── 使用Aircrack-ng套件在5Ghz无线网频段.pdf
+│   ├── 无线鼠标键盘劫持-icez.pdf
+│   ├── WiFiPineapple-用户手册-V1.3.pdf
+│   ├── The Hardware Hacking Handbook Breaking Embedded Security with Hardware Attacks by Jasper van Woudenberg, Colin OFlynn (z-lib.org).pdf
+│   ├── [KCon 2016]0828_2_Kevin2600_无线 Fuzzing 之旅.pdf
+│   ├── WiFi_Pineapple_Book_hak5官网教程.pdf
+│   ├── SecurityPWNing2018-PentHertz_using_radio_during_redteam_tests.pdf
+│   ├── 3、邓丁通、王浩然Hack_All_The_Things.pdf
+│   ├── 2、王骕《智能监控攻击技术》20190517.pdf
+│   ├── 5-云环境下侧信道攻击技术0908-第二版-云会场版本.pdf
+│   ├── 2014HFD清华站-王康-GNURadio_HackRF.pdf
+│   ├── 08-pm-02 武汉大学-唐明 密码芯片侧信道分析研究.pdf
+│   ├── 25日No.8-从键盘钩子木马到无线键鼠套装劫持-石冰-ok.pdf
+│   ├── (182-244)无线电安全攻防大揭秘（360独角兽安全团队 杨卿 黄琳）.pdf
+│   ├── 12.如何黑掉无人机.pdf
+│   ├── 19-Researching-Marvell-Avastar-Wi-Fi.pdf
+│   ├── Hacking Raspberry Pi.pdf
+│   ├── GNU Radio入门 V0.99.pdf
+│   ├── HAXPO D1 - Hacking LTE Public Warning Systems - Weiguang Li.pdf
+│   ├── HAXPO D1 - Ghost Tunnel 2.0 - Blue Ghost - Yongtao Wang.pdf
+│   ├── HACK DEMO-路由器宽带账号密码便携式窃取攻防实验.pdf
+│   ├── Hardwear_2018_BLE_Security_Essentials.pdf
+│   ├── HiP19_A_45min_introduction_to_Bluetooth_Low_Energy_workshop.pdf
+│   ├── certified-wireless-security-professional-official-study-guide.pdf
+│   ├── HACK DEMO-智能外设入侵汽车网络解密.pdf
+│   ├── IC卡基础知识培训.ppt
+│   ├── HackRF One 使用手册.pdf
+│   ├── Linux下操控小米手环1代-reboot.docx
+│   ├── D1T2 - IoT Woodpecker - Intrusion-Detection On The Hardware Bus - Congyuan Xu.pdf
+│   ├── D1T1 - Virtualizing IoT With Code Coverage Guided Fuzzing - Lau Kai Jern and Ng.pdf
+│   ├── D1T1 - The Birdman and Cospas-Sarsat Satellites - Hao Jingli.pdf
+│   ├── Rtl-sdrForEveryone-SecondEd-AkosCzermann.pdf
+│   ├── RouterHacking-CHCon2018.pdf
+│   ├── explore-the-wireless-world-with-sdr-v2018.pdf
+│   ├── Linux设备驱动开发详解（第3版：基于ARM最新的Linux 4.0内核）.pdf
+│   ├── RFID的安全性.ppt
+│   ├── 5_边信道攻击_Kevin2600.pdf
+│   ├── FIT2019_无线电安全场控之谜.pdf
+│   ├── Kali Linux无线网络渗透测试详解.pdf
+│   ├── DEFCON-23-Lin-Huang-Qing-Yang-GPS-Spoofing.pdf
+│   ├── Mifare1技术说明(中文资料).doc
+│   ├── IOT安全三十六计new--张凯.pdf
+│   ├── PiNcH-通过分析网络流量检测无人机状态.pdf
+│   ├── RFID 低频卡安全分析.pdf
+│   ├── Proxmark3-_Radiowar.pdf
+│   ├── Defeating_the_Downgrade_Attack_on_Identity_Privacy_in_5G.pdf
+│   ├── PM3EasyV3.0快速上手指导16-8-5 .pdf
+│   ├── D1 COMMSEC - Hacking Yachts Remotely - IoT Hacking at Sea - Stephan Gerling.pdf
+│   ├── Proxmark3命令帮助.pdf
+│   ├── Dynamic Security Analysis of the LTE Control Plane.pdf
+├── Rookit、恶意代码
+│   ├── 恶意代码分析实战
+│   │   ├── 恶意代码分析实战.pdf
+│   │   ├── Practical Malware Analysis Labs.rar
+│   ├── Rootkits--Windows内核的安全防护(带目录书签).pdf
+│   ├── The Antivirus Hackers Handbook (Bachaalany, Elias Koret, Joxean) (Z-Library).pdf
+│   ├── Rootkits and Bootkits Reversing Modern Malware an.pdf
+│   ├── 恶意代码防范技术原理.pdf
+│   ├── 黑客大曝光 恶意软件和Rootkit安全.pdf
+│   ├── 恶意代码取证.pdf
 ├── APP
-│   ├── 微信小程序
-│   │   ├── 微信小程序安全测试.pdf
-│   │   ├── 企业微信Token-Secret利用思路.pdf
 │   ├── 安卓
 │   │   ├── Mobile_App_Security_Checklist-English_1.1.2.xlsx
 │   │   ├── mobile-security-testing-guide.pdf
@@ -2956,19 +3417,134 @@
 │   │   ├── Android安全攻防实战.pdf
 │   │   ├── Android APP渗透测试方法checklist.xlsx
 │   │   ├── Android APP渗透测试方法大全.pdf
+│   ├── 微信小程序
+│   │   ├── 微信小程序安全测试.pdf
+│   │   ├── 企业微信Token-Secret利用思路.pdf
 │   ├── Mobile Security Testing Guide-EN.pdf
 │   ├── 【梆梆模版-191+164完整版】XXX-Android，iOS，H5，小程序，公众号个人信息合.docx
-│   ├── iOS Application Security_index.pdf
+├── 技战法
+│   ├── 态势+日志+暴露面
+│   │   ├── 威胁情报结合资产测绘筛查自检技战法.pdf
+│   │   ├── 互联网敏感资产检测技战法.pdf
+│   │   ├── 技战法-攻防演练防御--纵深、联动、诱捕.pdf
+│   │   ├── 技战法-全局日志分析，有效促进溯源和防护.docx
+│   │   ├── 技战法-网络监控告警及多角度资产安全加固.docx
+│   │   ├── 技战法-针对海量告警的“一类一策”分诊方案-20230809.docx
+│   │   ├── 技战法-借助威胁情报和自动化手段提升防护处置能力.docx
+│   │   ├── Web安全在实战中技战法（密码000000）.pdf
+│   │   ├── 技战法-保护数据免受恶意攻击-20230719.docx
+│   │   ├── 技战法-风险排查--互联网暴露资产监测.docx
+│   │   ├── 技战法-基于反向代理实现暴露面收敛.docx
+│   │   ├── 技战法-威胁情报总结.pdf
+│   │   ├── 技战法-火眼金睛--态势感知攻击检测.docx
+│   │   ├── 技战法-动态防御武器高效应对自动化网络攻击.docx
+│   │   ├── 技战法-深壁固垒--互联网暴露面收缩.docx
+│   │   ├── XX有限公司敏感信息排查技战法模板.docx
+│   │   ├── 技战法-全面自查辅助全方位监测防守.docx
+│   ├── 社工防护
+│   │   ├── 联合对抗社工钓鱼技战法.pdf
+│   │   ├── 技战法-以练代防增强钓鱼邮件的防护.docx
+│   │   ├── HW下的邮件攻防场景技战法.docx
+│   │   ├── 技战法-基于办公OA系统的社会工程学防护技战法.docx
+│   ├── 0day防护
+│   │   ├── 2023-08-17 技战法系列-体系化监测挖掘抵御0day漏洞技战法.pdf
+│   │   ├── 技战法-0Day漏洞逆向利用 线下社工防护 自动化封禁IP.docx
+│   ├── 红蓝对抗
+│   │   ├── 红蓝对抗常见技战法总结.docx
+│   │   ├── HW攻击溯源技战法方向和思路以及案例-20230825.pdf
+│   │   ├── 攻击检测技战法总结.docx
+│   │   ├── 护网防守技战法的思路.docx
+│   │   ├── HW蓝方技战法总结.pdf
+│   │   ├── HW网络安全防护技战法报告.docx
+│   │   ├── HW蓝队技战法.docx
+│   ├── 蜜罐防护
+│   │   ├── 技战法-基于蜜罐的防御.pdf
+│   │   ├── 技战法-利用反控木马精准诱捕-20220724.docx
+│   │   ├── 技战法-基于欺骗与应急场景构建的VPN防护.pdf
+│   ├── API接口全面掌控提升防御效果技战法.pdf
+│   ├── 持续威胁狩猎高效规避脆弱性技战法.pdf
+│   ├── 主机防御体系对抗横向与恶意程序技战法.pdf
+│   ├── 贯穿式防护体系应对供应链攻击技战法.pdf
+│   ├── ChatGPT提升攻防效果技战法.pdf
+│   ├── 内存马的Webshell联合对抗技战法.pdf
+│   ├── 零信任建设筑造纵深防御体系技战法.pdf
+│   ├── 多角度分析提升取证反制效果技战法.pdf
+│   ├── 常态化多角度联防杜绝近源攻击技战法.pdf
+│   ├── 电力系统防护技战法.pdf
+├── 安全设备、产品白皮书
+│   ├── 奇安信
+│   │   ├── 奇安信网神无线入侵防御系统产品介绍.pdf
+│   │   ├── 奇安信网神天巡无线入侵防御系统解决方案V2.0.pdf
+│   ├── 绿盟
+│   │   ├── 绿盟信息安全攻防竞技平台产品白皮书.pdf
+│   │   ├── 信息安全攻防竞技平台产品白皮书.docx
+│   ├── 蚂蚁集团 - 人工智能安全白皮书2020.pdf
+│   ├── 中睿天下-睿眼WEB攻击溯源系统-产品白皮书.pdf
+├── 等保
+│   ├── 常用网络安全标准
+│   │   ├── [知识星球：等级保护测评交流]常用网络安全标准1.等级保护.rar
+│   │   ├── 解压密码.txt
+│   │   ├── [知识星球：等级保护测评交流]常用网络安全标准4.业务连续性、灾难恢复.rar
+│   │   ├── [知识星球：等级保护测评交流]常用网络安全标准2.风险评估.rar
+│   │   ├── [知识星球：等级保护测评交流]常用网络安全标准3.应急响应.rar
+│   ├── 等保资料
+│   │   ├── 6.系统建设管理层面
+│   │   │   ├── 简介.txt
+│   │   ├── 1.物理安全层面
+│   │   │   ├── 机房日常巡检记录表.docx
+│   │   │   ├── 机房来访人员进出登记表.docx
+│   │   │   ├── 机房项目验收方法.docx
+│   │   │   ├── IDC机房出入申请单.docx
+│   │   │   ├── 要求.txt
+│   │   │   ├── 机房工程(机房建设)验收报告.docx
+│   │   ├── 3.安全管理制度层面
+│   │   │   ├── 信息安全策略.docx
+│   │   │   ├── 信息安全总体方针和安全策略文档.docx
+│   │   │   ├── 简介.txt
+│   │   │   ├── 管理制度（三级文件）.rar
+│   │   ├── 7.系统运维管理层面
+│   │   │   ├── 简介.txt
+│   │   ├── 5.人员安全管理层面
+│   │   │   ├── 简介.txt
+│   │   ├── 网络安全
+│   │   │   ├── 简介.txt
+│   │   ├── 4.安全管理机构层面
+│   │   │   ├── 简介.txt
+│   │   │   ├── 信息安全管理机构与岗位职责.docx
+│   │   │   ├── 各部门管理职责和流程及岗位职责1.docx
+│   │   │   ├── 各部门管理职责和流程及岗位职责.docx
+│   │   ├── 2应用安全层面更新中
+│   │   │   ├── 信息系统安全检查报告.pdf
+│   │   │   ├── 信息系统安全检测报告.pdf
+│   │   │   ├── 简介.txt
+│   ├── 2020等保2.0题库、知识点、考题汇总.doc
+│   ├── 等级保护测评扫描和渗透性测试委托和授权书&含放弃验证声明(2).docx
+│   ├── 搞懂网络安全等级保护，弄懂这253张拓扑图就够了.pdf
+│   ├── GBT 22239-2019 信息安全技术 网络安全等级保护基本要求(3).pdf
+│   ├── 等保文件打包.zip
+│   ├── 互联网医疗.rar
+│   ├── 三级等保测评表.rar
+│   ├── 等级保护基本要求V2.0解读.pdf
+├── 社工
+│   ├── 社工文章经典实用.7z
+│   ├── 社会工程-安全体系中的人性漏洞.pdf
 ├── 内网、域渗透
+│   ├── 谢公子_域渗透攻防指南
+│   │   ├── 6第六章域权限维持与后渗透密码收集.pdf
+│   │   ├── 2第二章_域基础知识.pdf
+│   │   ├── 5第五章域内漏洞和利用.pdf
+│   │   ├── 4第四章_域内渗透手法.pdf
+│   │   ├── 3第三章_域内工具的使用.pdf
+│   │   ├── 1第一章_windows协议.pdf
 │   ├── 内网攻击&域渗透
 │   │   ├── 域环境下的渗透.pdf
 │   │   ├── 关于域控的经验分享.pdf
 │   │   ├── 横向渗透-域渗透 PTT、PTH、PTK.txt
 │   │   ├── Windows的认证方式.zip
+│   ├── 内网安全攻防渗透测试实战指南(徐焱) (徐焱、贾晓璐) (Z-Library).pdf
 │   ├── 内核漏洞的利用与防范.pdf
 │   ├── windows特权滥用攻击.pdf
 │   ├── 漏洞利用与提权-有书签.pdf
-│   ├── 新编 Windows API参考大全.rar
 │   ├── 无密码正向直连内网linux目标机.pdf
 │   ├── 域渗透中的DPAPI和Kerberos协议.pdf
 │   ├── 域渗透基础简单信息收集（基础篇）   作者：未知.pdf
@@ -2986,7 +3562,6 @@
 │   ├── 内网经验谈之载体的X86和X64.pdf
 │   ├── Kerberos_2_Kerberos协议探索系列之票据篇.pdf
 │   ├── 内网渗透之向日葵帮我干掉了杀软.pdf
-│   ├── 内网安全攻防-渗透测试实战指南.pdf
 │   ├── WMI的讲解(是什么，做什么，为什么).pdf
 │   ├── 内网渗透的常用手法.pdf
 │   ├── 内网学习基础.pdf
@@ -3009,47 +3584,6 @@
 │   ├── labuladong的算法小抄官方完整版.pdf
 │   ├── 编程珠玑高清pdf版.pdf
 │   ├── go语言圣经-中文版.pdf
-├── 红队
-│   ├── 水滴安全实验室 - 红队渗透手册
-│   │   ├── 01_红队渗透手册之信息收集篇.html
-│   │   ├── 03_红队渗透手册之钓鱼篇.pdf
-│   │   ├── 02_红队渗透手册之弹药篇.pdf
-│   │   ├── 02_红队渗透手册之弹药篇.html
-│   │   ├── 01_红队渗透手册之信息收集篇.pdf
-│   │   ├── 04_红队渗透手册之代理转发与隧道篇.pdf
-│   │   ├── 03_红队渗透手册之钓鱼篇.html
-│   │   ├── 04_红队渗透手册之代理转发与隧道篇.html
-│   ├── 钓鱼攻击案例分享与总结.pdf
-│   ├── 安恒信息：红队视角下又一个突破口，再看大国独有小程序.pdf
-│   ├── 红队思维1-关于红队攻防和玩俄罗斯方块的共性.pdf
-│   ├── 钓鱼佬的一些心得.pdf
-│   ├── 红队基操2-外网快速打点方法&技巧总结.pdf
-│   ├── 红队基操1-poc快速编写以及现有poc快速魔改批量扫描.pdf
-│   ├── 文件上传3-关于文件上传白名单绕过的方法总结.pdf
-│   ├── 文件上传2-关于文件后缀名加.绕过的算法解析.pdf
-│   ├── 攻防演练中的打法选择.pdf
-│   ├── 文件上传1-关于涉及到时间和随机数路径爆破的文件上传问题.pdf
-│   ├── 打点高频漏洞1加强版之-ueditor漏洞实战.pdf
-│   ├── 打点高频漏洞1-ueditor漏洞利用&源码分析详细版.pdf
-│   ├── 打点高频漏洞2-shiro利用&源码详细解析.pdf
-│   ├── 利用go加载shellcode免杀.pdf
-│   ├── 利用c加载图片shellcode免杀.pdf
-│   ├── 冰蝎虚拟终端能过360的探究.pdf
-│   ├── 利用antsword绕过disable_function.pdf
-│   ├── 内网代理工具stowaway的排坑使用.pdf
-│   ├── 关于技术本质的一些思考.pdf
-│   ├── 关于实战中工具不走代理的问题解释.pdf
-│   ├── 内网中找域控的各种奇葩情况.pdf
-│   ├── 从零开始制作一个Web蜜罐扫描器.pdf
-│   ├── 关于ssrf和xxe的共性以及攻击面的一些思考.pdf
-│   ├── 代码审计的底层逻辑.pdf
-│   ├── windows权限维持方案（20220411可过360主动防御）.pdf
-│   ├── webshell绕过360主动防御执行命令（20220420可用）.pdf
-│   ├── webshell管理工具进行powershell上线的玄学问题.pdf
-│   ├── weaver新洞之前台注入.pdf
-│   ├── PostgreSQL 高权限命令执行 (CVE-2019-9193)漏洞复现&实战.pdf
-│   ├── Log4j2漏洞复现&原理&补丁绕过.pdf
-│   ├── lnk钓鱼样本的制作.pdf
 ├── 公众号、论坛、沙龙、Wiki文章
 │   ├── 酒仙桥六号部队
 │   │   ├── 144-传统功夫，点到为止.pdf
@@ -3286,100 +3820,6 @@
 │   │   ├── 85-web攻击溯源.pdf
 │   │   ├── 35-密码找回逻辑漏洞小总结.pdf
 │   │   ├── 133-基于代码路径的漏洞挖掘.pdf
-├── IOT安全
-│   ├── Android：WiFi+NFC+GPS.pdf
-│   ├── Aircraft tracking and classification with VHF passive bistatic radar.pdf
-│   ├── BTLE-SmartLock-Hacking-Ozlockcon-2017-Bluetooth that bites.pdf
-│   ├── 802.11® Wireless Networks The Definitive Guide, Second Edition .pdf
-│   ├── BLE安全入门及实战（1）.pdf
-│   ├── BLE安全入门及实战（3）.pdf
-│   ├── BLE安全入门及实战（2）.pdf
-│   ├── 网络硬件设备完全技术宝典(第3版).PDF
-│   ├── 黑帽硬件指南.pdf
-│   ├── 硬件安全攻防大揭秘.pdf
-│   ├── 黑无止境 — 那些年我们绕过的锁.pdf
-│   ├── 阿里云物联网产品安全最佳实践.pdf
-│   ├── 软件无线电在漏洞挖掘领域的应用.pdf
-│   ├── 绿盟科技 - 2020工控安全研究报告.pdf
-│   ├── 路由器漏洞环境仿真.pdf
-│   ├── 调戏米2手环.pptx
-│   ├── 无线遥控信号分析入门v3.pdf
-│   ├── 工业应用无线遥控器的安全性分析-趨勢科技.pdf
-│   ├── 揭秘家用路由器0day漏洞挖掘技术.pdf
-│   ├── 基于HackCUBE设备的无线Hacking.pdf
-│   ├── 小米消费级物联网安全基线.pdf
-│   ├── 基于树莓派的渗透测试.pdf
-│   ├── 变色龙RDV2.0快速上手指南.zip
-│   ├── [KCon 2017]0826_9_KEVIN2600_玩转无人机攻防.pdf
-│   ├── [KCon 2017]0827_8_Seeker_从口袋里的伪基站到手持的真基站.pdf
-│   ├── 华强北产业链及其相关硬件技术研究报告.pptx
-│   ├── [拓展]使用 HackCube-Special 挟持小朋友玩具车 - HackCube-Special - RadioHack 同频共振 同质相吸 -.pdf
-│   ├── 从NFC到4G安全——潜藏在身边的攻击.pdf
-│   ├── [KCon 2017]0826_6_杨晋_重现速8僵尸车队（蓝牙4.0 BLE协议的进攻）.pdf
-│   ├── 硬件在安全领域的应用.pdf
-│   ├── [KCon 2016]0828_3_Seeker_伪基站高级利用技术.pdf
-│   ├── 家庭安全的第一道—门锁.pdf
-│   ├── 基于三种常见算法的RKEPKE系统.pdf
-│   ├── 基于TD-LTE的电力无线专网组网与安全防护技术研究.pdf
-│   ├── 特斯拉安全漏洞的发现过程_已修复.pdf
-│   ├── 无线网络黑客攻防.pdf
-│   ├── [KCon 2017]0827_1_杨芸菲_如何DIY一套低成本反无人机系统.pdf
-│   ├── 利用侧信道攻击4G和5G寻呼协议.pdf
-│   ├── 固件提取与常见软件漏洞.pdf
-│   ├── Software_Defined_Radio_using_MATLAB_Simulink_and_the_RTL-SDR.pdf
-│   ├── 物联网安全之如何破解各种锁.pdf
-│   ├── 典型非接触式卡的攻击实践.pdf
-│   ├── 无线通讯协议安全分析.pdf
-│   ├── 使用Aircrack-ng套件在5Ghz无线网频段.pdf
-│   ├── 无线鼠标键盘劫持-icez.pdf
-│   ├── WiFiPineapple-用户手册-V1.3.pdf
-│   ├── The Hardware Hacking Handbook Breaking Embedded Security with Hardware Attacks by Jasper van Woudenberg, Colin OFlynn (z-lib.org).pdf
-│   ├── [KCon 2016]0828_2_Kevin2600_无线 Fuzzing 之旅.pdf
-│   ├── WiFi_Pineapple_Book_hak5官网教程.pdf
-│   ├── SecurityPWNing2018-PentHertz_using_radio_during_redteam_tests.pdf
-│   ├── 3、邓丁通、王浩然Hack_All_The_Things.pdf
-│   ├── 2、王骕《智能监控攻击技术》20190517.pdf
-│   ├── 5-云环境下侧信道攻击技术0908-第二版-云会场版本.pdf
-│   ├── 2014HFD清华站-王康-GNURadio_HackRF.pdf
-│   ├── 08-pm-02 武汉大学-唐明 密码芯片侧信道分析研究.pdf
-│   ├── 25日No.8-从键盘钩子木马到无线键鼠套装劫持-石冰-ok.pdf
-│   ├── (182-244)无线电安全攻防大揭秘（360独角兽安全团队 杨卿 黄琳）.pdf
-│   ├── 12.如何黑掉无人机.pdf
-│   ├── 19-Researching-Marvell-Avastar-Wi-Fi.pdf
-│   ├── Hacking Raspberry Pi.pdf
-│   ├── GNU Radio入门 V0.99.pdf
-│   ├── HAXPO D1 - Hacking LTE Public Warning Systems - Weiguang Li.pdf
-│   ├── HAXPO D1 - Ghost Tunnel 2.0 - Blue Ghost - Yongtao Wang.pdf
-│   ├── HACK DEMO-路由器宽带账号密码便携式窃取攻防实验.pdf
-│   ├── Hardwear_2018_BLE_Security_Essentials.pdf
-│   ├── HiP19_A_45min_introduction_to_Bluetooth_Low_Energy_workshop.pdf
-│   ├── certified-wireless-security-professional-official-study-guide.pdf
-│   ├── HACK DEMO-智能外设入侵汽车网络解密.pdf
-│   ├── IC卡基础知识培训.ppt
-│   ├── HackRF One 使用手册.pdf
-│   ├── Linux下操控小米手环1代-reboot.docx
-│   ├── D1T2 - IoT Woodpecker - Intrusion-Detection On The Hardware Bus - Congyuan Xu.pdf
-│   ├── D1T1 - Virtualizing IoT With Code Coverage Guided Fuzzing - Lau Kai Jern and Ng.pdf
-│   ├── D1T1 - The Birdman and Cospas-Sarsat Satellites - Hao Jingli.pdf
-│   ├── Rtl-sdrForEveryone-SecondEd-AkosCzermann.pdf
-│   ├── RouterHacking-CHCon2018.pdf
-│   ├── explore-the-wireless-world-with-sdr-v2018.pdf
-│   ├── Linux设备驱动开发详解（第3版：基于ARM最新的Linux 4.0内核）.pdf
-│   ├── RFID的安全性.ppt
-│   ├── 5_边信道攻击_Kevin2600.pdf
-│   ├── FIT2019_无线电安全场控之谜.pdf
-│   ├── Kali Linux无线网络渗透测试详解.pdf
-│   ├── DEFCON-23-Lin-Huang-Qing-Yang-GPS-Spoofing.pdf
-│   ├── Mifare1技术说明(中文资料).doc
-│   ├── IOT安全三十六计new--张凯.pdf
-│   ├── PiNcH-通过分析网络流量检测无人机状态.pdf
-│   ├── RFID 低频卡安全分析.pdf
-│   ├── Proxmark3-_Radiowar.pdf
-│   ├── Defeating_the_Downgrade_Attack_on_Identity_Privacy_in_5G.pdf
-│   ├── PM3EasyV3.0快速上手指导16-8-5 .pdf
-│   ├── D1 COMMSEC - Hacking Yachts Remotely - IoT Hacking at Sea - Stephan Gerling.pdf
-│   ├── Proxmark3命令帮助.pdf
-│   ├── Dynamic Security Analysis of the LTE Control Plane.pdf
 ├── HW红蓝对抗
 │   ├── HW-2020
 │   │   ├── 网络攻防演习参演单位承诺书.doc
@@ -3574,55 +4014,6 @@
 ├── 实验室建设方案
 │   ├── XXX职业技术学校攻防实验室建设方案.doc
 │   ├── 华南理工大学~实验室方案(攻防实验室).doc
-├── 技战法
-│   ├── 态势+日志+暴露面
-│   │   ├── 威胁情报结合资产测绘筛查自检技战法.pdf
-│   │   ├── 互联网敏感资产检测技战法.pdf
-│   │   ├── 技战法-攻防演练防御--纵深、联动、诱捕.pdf
-│   │   ├── 技战法-全局日志分析，有效促进溯源和防护.docx
-│   │   ├── 技战法-网络监控告警及多角度资产安全加固.docx
-│   │   ├── 技战法-针对海量告警的“一类一策”分诊方案-20230809.docx
-│   │   ├── 技战法-借助威胁情报和自动化手段提升防护处置能力.docx
-│   │   ├── Web安全在实战中技战法（密码000000）.pdf
-│   │   ├── 技战法-保护数据免受恶意攻击-20230719.docx
-│   │   ├── 技战法-风险排查--互联网暴露资产监测.docx
-│   │   ├── 技战法-基于反向代理实现暴露面收敛.docx
-│   │   ├── 技战法-威胁情报总结.pdf
-│   │   ├── 技战法-火眼金睛--态势感知攻击检测.docx
-│   │   ├── 技战法-动态防御武器高效应对自动化网络攻击.docx
-│   │   ├── 技战法-深壁固垒--互联网暴露面收缩.docx
-│   │   ├── XX有限公司敏感信息排查技战法模板.docx
-│   │   ├── 技战法-全面自查辅助全方位监测防守.docx
-│   ├── 社工防护
-│   │   ├── 联合对抗社工钓鱼技战法.pdf
-│   │   ├── 技战法-以练代防增强钓鱼邮件的防护.docx
-│   │   ├── HW下的邮件攻防场景技战法.docx
-│   │   ├── 技战法-基于办公OA系统的社会工程学防护技战法.docx
-│   ├── 0day防护
-│   │   ├── 2023-08-17 技战法系列-体系化监测挖掘抵御0day漏洞技战法.pdf
-│   │   ├── 技战法-0Day漏洞逆向利用 线下社工防护 自动化封禁IP.docx
-│   ├── 红蓝对抗
-│   │   ├── 红蓝对抗常见技战法总结.docx
-│   │   ├── HW攻击溯源技战法方向和思路以及案例-20230825.pdf
-│   │   ├── 攻击检测技战法总结.docx
-│   │   ├── 护网防守技战法的思路.docx
-│   │   ├── HW蓝方技战法总结.pdf
-│   │   ├── HW网络安全防护技战法报告.docx
-│   │   ├── HW蓝队技战法.docx
-│   ├── 蜜罐防护
-│   │   ├── 技战法-基于蜜罐的防御.pdf
-│   │   ├── 技战法-利用反控木马精准诱捕-20220724.docx
-│   │   ├── 技战法-基于欺骗与应急场景构建的VPN防护.pdf
-│   ├── API接口全面掌控提升防御效果技战法.pdf
-│   ├── 持续威胁狩猎高效规避脆弱性技战法.pdf
-│   ├── 主机防御体系对抗横向与恶意程序技战法.pdf
-│   ├── 贯穿式防护体系应对供应链攻击技战法.pdf
-│   ├── ChatGPT提升攻防效果技战法.pdf
-│   ├── 内存马的Webshell联合对抗技战法.pdf
-│   ├── 零信任建设筑造纵深防御体系技战法.pdf
-│   ├── 多角度分析提升取证反制效果技战法.pdf
-│   ├── 常态化多角度联防杜绝近源攻击技战法.pdf
-│   ├── 电力系统防护技战法.pdf
 ├── 应急响应
 │   ├── 应急响应实战笔记
 │   │   ├── 第07章：恶意样本库
@@ -3949,30 +4340,6 @@
 │   ├── ZeroTurstNetwork.zip
 │   ├── 2021零信任发展趋势论坛嘉宾演讲PPT等1个文件(1).zip
 │   ├── DoD Zero Trust Reference ArchitectureV1.pdf
-├── 工具使用、程序利用
-│   ├── Sqlmap从入门到精通(陈小兵).pdf
-│   ├── Windows PowerShell实战指南  第2版.pdf
-│   ├── Exploit编写系列教程1-10.pdf
-│   ├── shodan.pdf
-│   ├── Powershell_Pentest.pdf
-│   ├── iptables-tutorial-1.2.2-cn.pdf
-│   ├── SHODAN for Penetration Testers.pdf
-│   ├── Nmap渗透测试指南.pdf
-│   ├── burpsuite使用手册--详细.pdf
-│   ├── Vulnhub靶场实战指南.pdf
-│   ├── DLL劫持.pdf
-│   ├── Burp Suite + Proxifier 实现 EXE 和微信小程序抓包.docx
-│   ├── Shell脚本学习指南.pdf
-│   ├── Windows PowerShell实战指南 第3版.pdf
-│   ├── Fiddler调试权威指南.pdf
-│   ├── SQLMap从入门到入狱.pdf
-│   ├── 安全工具解析-Metasploit.docx
-│   ├── XRAY与Burp、AppScan、AWVS联动.pdf
-│   ├── psexec工具使用浅析.pdf
-│   ├── Docker - 从入门到实践.pdf
-│   ├── Metasploit Framwork(MSF)入门.pdf
-│   ├── 微软office软件-公式教程.xltx
-│   ├── Vim 101 Hacks.pdf
 ├── 报告模板
 │   ├── 某系统渗透测试项目报告.docx
 │   ├── B-Web安全服务渗透测试模板.docx
@@ -4245,15 +4612,6 @@
 │   ├── 4-字节跳动DDoS防护体系建设和实战.pdf
 │   ├── 代码审计：企业级Web代码安全架构.pdf
 │   ├── 2-实战攻防中边界突破检测方案.pdf
-├── 免杀
-│   ├── CS免杀-PowerShell加载命令免杀.pdf
-│   ├── BypassAntiVirus-免杀资料打包PDF.zip
-│   ├── 免杀总结2019_(解压密码：9090).zip
-│   ├── python3反序列化免杀.zip
-│   ├── CS免杀-PowerShell上线.pdf
-│   ├── 远控免杀系列文章&工具.rar
-│   ├── 一分钟免杀cobaltstrike.pdf
-│   ├── 【PPT】安全狗上传绕过+wbehshell免杀——大咖ian分享.ppt
 ├── 基线相关
 │   ├── 安全基线检查表
 │   │   ├── 防火墙策略调研表.xlsx
@@ -4289,22 +4647,6 @@
 │   ├── wannaxx_clean.bat
 │   ├── V3.0关闭危险端口.bat
 │   ├── Nginx基线.xlsx
-├── 逆向
-│   ├── 加密与解密_看雪
-│   │   ├── PEDIY_BOOK4.iso
-│   │   ├── 《加密与解密（第4版）》.pdf
-│   ├── 完全掌握加密解密实战超级手册.pdf
-│   ├── 破解不破不逆.pdf
-│   ├── Android 脱壳研究.pdf
-│   ├── 有趣的二进制：软件安全与逆向分析.pdf
-│   ├── C 反汇编与逆向分析技术揭秘.pdf
-│   ├── 逆向工程权威指南.上册.pdf
-│   ├── 从零开始学IDA逆向1-31章.pdf
-│   ├── 逆向工程权威指南.下册.pdf
-│   ├── 8088 汇编指令速查手册.doc
-│   ├── Rootkit和Bootkit：现代恶意软件逆向分析和下一代威胁.docx
-│   ├── 使用OllyDbg从零开始Cracking.CHM
-│   ├── CobaltStrike逆向学习系列-主线篇（完结）.pdf
 ├── CVE漏洞表
 │   ├── CVE详情查询常用网址.txt
 │   ├── run_CNNVD_Spider.py
@@ -4319,6 +4661,8 @@
 │   ├── 图解TCPIP(第5版).pdf
 │   ├── 图解HTTP+彩色版.pdf
 │   ├── HTTP权威指南.pdf
+├── 游戏外挂攻防艺术.pdf
+├── 内部人员威胁成本报告.pdf
 ├── 永安在线-2020年黑灰产攻防研究年度总结报告.pdf
 ├── 代码安全指南.zip
 ├── 揭秘数据解密的关键技术.pdf
@@ -4330,7 +4674,6 @@
 ├── 自制操作系统.pdf
 ├── 图解服务器端网络架构.pdf
 ├── 图解网络硬件.pdf
-├── 内部人员威胁成本报告(1).pdf
 ├── 反勒索软件指南.pdf
 ├── Sed & awk 101Hacks  .pdf
 ├── The Underground Hacker's Handbook [-PUNISHER-].pdf
