@@ -2116,6 +2116,46 @@
 
 <pre><code>.
 ├── 安全靶场
+│   ├── 应急响应靶场
+│   │   ├── 渗透，暴力破解、留定时任务后门与shift粘贴键后门、植入挖矿程序（靶机系统：Windows2008）
+│   │   │   ├── win2008.part05.rar
+│   │   │   ├── 靶场使用教程.docx
+│   │   │   ├── win2008.part04.rar
+│   │   │   ├── win2008.part03.rar
+│   │   │   ├── win2008.part02.rar
+│   │   │   ├── win2008.part01.rar
+│   │   │   ├── wkbd-挖矿病毒.zip
+│   │   ├── 挖矿问题靶机
+│   │   │   ├── ubuntu14.part2.rar
+│   │   │   ├── 靶机安装使用指导.docx
+│   │   │   ├── ubuntu14.part3.rar
+│   │   │   ├── 靶机解题思路.pdf
+│   │   │   ├── ubuntu14.part1.rar
+│   │   ├── 暴力破解、写入ssh公钥留后门、植入GPU挖矿程序-应急响应靶场环境
+│   │   │   ├── Ubuntu4.rar
+│   │   │   ├── Ubuntu1.rar
+│   │   │   ├── Ubuntu2-1.rar
+│   │   │   ├── Ubuntu5.rar
+│   │   │   ├── Ubuntu2-2.rar
+│   │   │   ├── Ubuntu3.rar
+│   │   │   ├── 使用教程.txt
+│   │   ├── 暴力破解、留定时任务后门与shift粘贴键后门、植入挖矿程序-应急响应靶场（靶机系统：Windows2008）
+│   │   │   ├── windows日志分析与提取工具
+│   │   │   │   ├── logon.zip
+│   │   │   │   ├── evtx.zip
+│   │   │   ├── win2008.part04.rar
+│   │   │   ├── win2008.part05.rar
+│   │   │   ├── win2008.part02.rar
+│   │   │   ├── win2008.part03.rar
+│   │   │   ├── win2008.part01.rar
+│   │   │   ├── 说明文件.doc
+│   │   ├── 暴力破解、替换ps命令、留多个后门-应急响应靶场.zip
+│   │   ├── Centos8暴力破解-替换ps命令-留多个后门-攻击靶场.zip
+│   │   ├── Centos8篡改页面+植入挖矿病毒.zip
+│   │   ├── Centos8-存在漏洞的靶场.zip
+│   │   ├── ssh+crontab隐藏后门-应急响应靶场环境.zip
+│   │   ├── update64.exe异常程序样本.zip
+│   │   ├── kdevtmpfsi样本.zip
 │   ├── 内网安全攻防_配套靶场
 │   │   ├── 红队实战演练环境(1)
 │   │   │   ├── rootkit.org 完整单域环境 [ Exchange2013 SP1 ]
@@ -7110,7 +7150,6 @@
 │   │   │   │   ├── 课时8：FART&frida【 微信号：itcodeba 】.mp4
 │   │   │   │   ├── 课时1：脱壳的意义和加壳原理.mp4【 微信号：itcodeba 】.mp4
 │   │   │   │   ├── 课时2：加壳技术发展和识别【 微信号：itcodeba 】.mp4
-
 │   │   ├── 安卓逆向系统培训 - 2020
 │   │   │   ├── 安卓逆向.part03.rar
 │   │   │   ├── 安卓逆向.part02.rar
