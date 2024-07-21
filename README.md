@@ -6896,6 +6896,221 @@
 │   │   ├── wsc.dll
 ├── 逆向
 │   ├── 安卓
+│   │   ├── [看雪学苑]《安卓高级研修班(网课)》
+│   │   │   ├── 05彻底搞懂OLLVM
+│   │   │   │   ├── 课时1：LLVM简介_LLVM编译_CLion调试LLVM_最优化的质量和大小【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8.2：逆向OLLVM算法的通用方法【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时3：OLLVM简介和移植_最优化的质量和大小【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时7：编写字符串加密Pass_最优化的质量和大小【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6：Instructions_Substitution_&_SplitBasicBlock_最优化的质量和大小【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时5：Bogus_Control_Flow（bcf,虚假控制流程）_最优化的质量和大小【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8.1：移植OLLVM到NDK中【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时4：Control_Flow_Flattening（fla,控制流程平坦化）_最优化的质量和大小【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时9：逆向OLLVM的非通用方法[最优化的质量和大小]【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时2：LLVM_Pass_函数名称加密Pass【 微信号：itcodeba 】.mp4
+│   │   │   ├── 06高级调试之VMP
+│   │   │   │   ├── 课时2：VMP保护的函数的快速逆向分析方法理论篇【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时5：ADVMP源码分析与VMP壳简单上手（下）【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时7：Hyperpwn的安装和使用【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6：定制ART，绕过所有反调试【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时1：安卓APP加壳技术分类与初识VMP【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时4：ADVMP源码分析与VMP壳简单上手（上）【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时3：VMP保护的函数的快速逆向分析方法实践篇【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时9：使用Hyperpwn调试VMP并构建映射表【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8：算法还原案例8-OLLVM_RC4【 微信号：itcodeba 】.mp4
+│   │   │   ├── 3w直播
+│   │   │   │   ├── 直播29【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望11【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播31【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望21【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望19【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望20【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望9（上）【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望7【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望9（下）【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望18【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望14【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播30【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望5【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播28【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望3【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播26【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望10【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望16【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望6【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑和展望1【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望15【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播23【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望4【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望17【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播25【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望8【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播27【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播24【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播22【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望12【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 答疑与展望2【 微信号：itcodeba 】.mp4
+│   │   │   ├── 01FRIDA高级逆向
+│   │   │   │   ├── FRIDA高级API食用方法：Frida Hook Java(2)【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6_2 Frida 辅助分析ollvm虚假控制流【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6_1 Frida 辅助分析ollvm指令替换【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时7 Frida辅助分析非标准算法【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── FRIDA高级API食用方法：Frida hook native【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── FRIDA高级API实用方法：Frida Hook Java(1)【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时4 Frida 辅助分析ollvm字符串加密【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时9 ida trace分析被ollvm混淆的非标准算法【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8 ida trace分析非标准算法【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时5 Frida 辅助分析ollvm控制流程平坦化【 微信号：itcodeba 】.mp4
+│   │   │   ├── 09Frida高级逆向
+│   │   │   │   ├── 课时5上：Frida 辅助分析OLLVM控制流程平坦化【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时1下：Frida Hook Java 【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6上：Frida辅助分析OLLVM指令替换【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时7上：Frida+IDA Trace分析算法(一)【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时5下：Frida 辅助分析OLLVM控制流程平坦化【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时7下：Frida+IDA Trace分析算法(一)【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时9：Frida Stalker Trace算法 【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播33【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时1上：Frida Hook Java 【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时3上：Frida Hook Native【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时2上：Frida Hook Java 【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时4下：Frida 辅助分析OLLVM字符串加密【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时2下：Frida Hook Java 【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6下：Frida辅助分析OLLVM虚假控制流程【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时3下：Frida Hook Native【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8：Frida+IDA Trace分析算法（二）【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播35【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播32下【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时4上：Frida 辅助分析OLLVM字符串加密【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播32上【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播34【 微信号：itcodeba 】.mp4
+│   │   │   ├── 课件资料
+│   │   │   │   ├── 4月-FART全自动脱壳机
+│   │   │   │   │   ├── 课时3
+│   │   │   │   │   │   ├── 4.4源码编译环境_ubuntu16.04
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.002【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.034【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.008【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.012【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.005【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.006【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.020【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.017【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.010【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.019【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.027【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.004【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.014【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.016【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.026【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.018【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.030【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.011【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.021【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.015【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.003【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.033【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.032【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.007【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.022【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.024【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.023【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.025【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.009【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.001【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.029【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.013【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.028【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   │   ├── Ubuntu 1604x64_4.4.zip.031【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   ├── 测试样本【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   ├── n5编译镜像【 微信号：itcodeba 】.exe
+│   │   │   │   │   │   ├── 4.4_修改的源码【 微信号：itcodeba 】.exe
+│   │   │   │   │   ├── 课时6【 微信号：itcodeba 】.exe
+│   │   │   │   │   ├── 课时5【 微信号：itcodeba 】.exe
+│   │   │   │   │   ├── 课时2【 微信号：itcodeba 】.exe
+│   │   │   │   │   ├── 课时8【 微信号：itcodeba 】.exe
+│   │   │   │   │   ├── 课时9【 微信号：itcodeba 】.exe
+│   │   │   │   │   ├── 课时4【 微信号：itcodeba 】.exe
+│   │   │   │   │   ├── 第二周直播【 微信号：itcodeba 】.exe
+│   │   │   │   │   ├── 课时7【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 10月-高级调试之VMP
+│   │   │   │   │   ├── 直播【 微信号：itcodeba 】.exe
+│   │   │   │   │   ├── 测试题目【 微信号：itcodeba 】.exe
+│   │   │   │   │   ├── 课时1-9【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 2021年1月 算法还原【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 试题【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 2021、3【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 3月-Frida高级逆向【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 2021、5【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 9月-彻底搞懂OLLVM【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 2021、4【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 7月-C++11&&art虚拟机开发【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 12月-Unicorn课程【 微信号：itcodeba 】.exe
+│   │   │   │   ├── 6月-ARM&&C++算法还原原理【 微信号：itcodeba 】.exe
+│   │   │   ├── 07Unicorn_unidbg
+│   │   │   │   ├── 课时9：Unidbg模拟与java交互【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8：Unidbg加载so并调用so中函数【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时1：Capstone、Unicorn、Keystone三兄弟【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时4：Unicorn模拟调用jni接口函数【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时5：Unicorn模拟调用JNI_OnLoad【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时3：Unicorn调用so中函数【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6：AndroidNativeEmu调用jni函数【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时7：AndroidNativeEmu模拟与java函数交互【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时2：Unicorn初识与上手【 微信号：itcodeba 】.mp4
+│   │   │   ├── 04C++11&&art虚拟机开发
+│   │   │   │   ├── 课时7：ART中的函数inline【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时1：C++11概念和基础数据类型【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时2：类型推导和访问权限相关【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时4：模板函数和lambda【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时3：模板函数和模板类【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6：ART中的C++对象内存布局实践篇【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时9：ART定制跟踪jni函数绑定【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时5：ART中的C++对象内存布局【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8：ART定制方案比较和流程【 微信号：itcodeba 】.mp4
+│   │   │   ├── 03ARM&&C++算法还原原理
+│   │   │   │   ├── 课时9：Android Studio汇编开发、内联汇编、内联汇编syscall、CMakeLists.txt加载S文件【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时4：Thumb汇编指令集，AArch64汇编指令集【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时2：ARM汇编寻址、汇编指令、汇编开发【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6：C程序逆向，函数、结构体、数组、位操作【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8：C++ 继承、重载、覆盖、RTTI、异常【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时3：ARM汇编指令集【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时1 ARM可执行程序的生成过程【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时5：C程序逆向，数据类型、运算符、分支与跳转、循环【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时7：C++ 类、构造析构函数、虚函数、虚表【 微信号：itcodeba 】.mp4
+│   │   │   ├── 10Frida_FART全自动脱壳机
+│   │   │   │   ├── 课时1：动态加载与双亲委派【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播37【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时7：FART主动调用组件设计和源码分析【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时4：ART下dex加载流程和通用脱壳点【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时2：加壳APP的运行流程与ClassLoader修正【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6：FART框架简介与脱壳点的选择【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时5：ART下类加载流程与抽取壳实现【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播36【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时3：APP加壳技术发展与识别【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8：使用frida增强FART脱壳能力【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时9：FART修复组件与辅助VMP还原【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 直播38【 微信号：itcodeba 】.mp4
+│   │   │   ├── 08非标准算法还原
+│   │   │   │   ├── 课时3（下）：算法还原案例3-MD5【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时9：算法还原案例9-Frida_Stalker_OLLVM_AES【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时4：算法还原案例4-OLLVM_MD5【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时2：算法还原案例1-Base64【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时3（上）：算法还原案例2-CRC32【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时5：算法还原案例5-OLLVM_SHA1【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6：算法还原案例6-HMAC【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时7：算法还原案例7-OLLVM_Base64【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8：定制内核体验内存断点的威力【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时1：常用加解密算法简介【 微信号：itcodeba 】.mp4
+│   │   │   ├── 02FART全自动脱壳机
+│   │   │   │   ├── 课时4：ART下dex加载流程和通用脱壳点【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时6：FART中的脱壳点【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时3：Dalvik下dex加载流程和通用脱壳点【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时7：FART主动调用组件设计和源码分析【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时9：FART修复组件和辅助VMP分析【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时5：ART下抽取壳实现【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时8：FART&frida【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时1：脱壳的意义和加壳原理.mp4【 微信号：itcodeba 】.mp4
+│   │   │   │   ├── 课时2：加壳技术发展和识别【 微信号：itcodeba 】.mp4
+
 │   │   ├── 安卓逆向系统培训 - 2020
 │   │   │   ├── 安卓逆向.part03.rar
 │   │   │   ├── 安卓逆向.part02.rar
