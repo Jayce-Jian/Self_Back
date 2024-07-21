@@ -6702,7 +6702,214 @@
 │   ├── Youtube_初学者职业黑客课程许可证.mp4
 │   ├── 2021_Kali软件实操系列.zip
 │   ├── 国外红队-ATT&CK视频教程.zip.zip
-├── APP
+├── 免杀
+│   ├── 考古
+│   │   ├── Sky揭密复活免杀综合系列教程
+│   │   │   ├── Sky揭密复活免杀综合系列教程.part4.rar
+│   │   │   ├── Sky揭密复活免杀综合系列教程.part1.rar
+│   │   │   ├── Sky揭密复活免杀综合系列教程.part2.rar
+│   │   │   ├── Sky揭密复活免杀综合系列教程.part3.rar
+│   │   ├── 黑猫论坛实战免杀VIP教程.rar
+│   │   ├── 黑客学习基地Gh0st源码免杀系列课程.rar
+│   │   ├── 极客论坛免杀系列教程.rar
+│   │   ├── 饭客黑客之免杀VIP教程.rar
+│   │   ├── 少龙菜鸟跟我学免杀系列教程.rar
+│   │   ├── 黑客动画吧免杀班.rar
+│   │   ├── 中华隐士联盟高级源码免杀系列教程.rar
+│   │   ├── Ta7isy免杀全套教程.rar
+│   │   ├── 小七免杀论坛vip源码免杀培训班.rar
+│   │   ├── 夜鹰黑客基地揭密免杀系列教程.rar
+│   │   ├── 286合购网VC++源码免杀.rar
+│   │   ├── 少龙免杀基础系列.rar
+│   │   ├── 一时无粮2011脚本免杀.rar
+│   │   ├── RFire系列免杀教程.rar
+│   │   ├── 江南网盟老客精品免杀系列.rar
+│   │   ├── 黑盾网安VIP免杀教程.rar
+│   │   ├── 棉猴VIP教程-gh0st远控控制源码讲解教程.rar
+│   │   ├── 暗组免杀教程.rar
+│   │   ├── 华中帝国360免杀系列教程精选.rar
+│   │   ├── 浴血凤凰免杀系列.rar
+│   │   ├── 黑客风云免杀培训教程.rar
+│   │   ├── 暗组Gh0st编译免杀系列教程.rar
+│   │   ├── 饭客打造个人版Ghost远控.rar
+│   │   ├── 夜鹰海盗盟初级免杀培训教程.rar
+│   │   ├── U盘小偷源码分析系列教程.rar
+│   │   ├── 黑猫论坛NB5.5源码免杀VIP培训教程.rar
+│   │   ├── 黑猫论坛ghost源码免杀VIP教程.rar
+│   │   ├── 道德网安-[贵宾免杀班]菜鸟免杀教程.rar
+│   │   ├── 华中红客2012零基础免杀培训班.rar
+│   │   ├── 365免杀学习基地VIP源码免杀教程.rar
+│   │   ├── 棉猴驱动基础VIP系列教程.rar
+│   │   ├── 黑色键盘免杀系列VIP教程.rar
+│   │   ├── YES黑客联盟初级免杀培训教程.rar
+│   │   ├── 2011黑客小组的免杀教程.rar
+│   │   ├── 2012免杀360系列教程.rar
+│   │   ├── 点点原创视频：免杀基础.rar
+│   │   ├── 道德网安揭密无特征码免杀系列教程.rar
+│   │   ├── 新世纪网安VIP高级免杀班.rar
+│   │   ├── 33VC网免杀基础系列.rar
+│   │   ├── 红色黑客联盟免杀教程.rar
+│   │   ├── 中国黑客组织初级特征码免杀教程.rar
+│   │   ├── 特征码定位器开发系列教程.rar
+│   │   ├── YShack联盟无特征码免杀.rar
+│   │   ├── 揭密360急速免杀系列教程.rar
+│   │   ├── 小七揭密delphi源码免杀系列教程.rar
+│   │   ├── 黑客乐园2011免杀系列培训教程.rar
+│   │   ├── 华中红客基地菜鸟学习免杀系列教程.rar
+│   │   ├── 夜鹰VIP免杀系列.rar
+│   │   ├── 杀不死的秘密：反汇编揭密黑客免杀变种技术.崔承琦.扫描版.pdf
+│   │   ├── 棉猴VIP_NB5.5源码分析教程.rar
+│   │   ├── 一时无粮2011免杀教程.rar
+│   │   ├── badboy揭密基础免杀系列教程.rar
+│   │   ├── IT9网络学院免杀系列培训教程.rar
+│   │   ├── 38技术vip源码免杀VIP系列培训教程.rar
+│   │   ├── 华中红客2012源码免杀培训班.rar
+│   ├── 哈拉少免杀三期
+│   │   ├── 视频AA
+│   │   │   ├── 15_ev_ev.mp4
+│   │   │   ├── 41_ev_ev.mp4
+│   │   │   ├── 46_ev_ev.mp4
+│   │   │   ├── 12_ev_ev.mp4
+│   │   │   ├── 25_ev_ev.mp4
+│   │   │   ├── 49_ev_ev.mp4
+│   │   │   ├── 05_ev_ev.mp4
+│   │   │   ├── 34_ev_ev.mp4
+│   │   │   ├── 06_ev_ev.mp4
+│   │   │   ├── 17_ev_ev.mp4
+│   │   │   ├── 48_ev_ev.mp4
+│   │   │   ├── 19_ev_ev.mp4
+│   │   │   ├── 21_ev_ev.mp4
+│   │   │   ├── 32_ev_ev.mp4
+│   │   │   ├── 20_ev_ev.mp4
+│   │   │   ├── 28_ev_ev.mp4
+│   │   │   ├── 14_ev_ev.mp4
+│   │   │   ├── 02_ev_ev.mp4
+│   │   │   ├── 29_ev_ev.mp4
+│   │   │   ├── 38_ev_ev.mp4
+│   │   │   ├── 55-1_ev_ev.mp4
+│   │   │   ├── 10_ev_ev.mp4
+│   │   │   ├── 57_ev_ev.mp4
+│   │   │   ├── 43_ev_ev.mp4
+│   │   │   ├── 56_ev_ev.mp4
+│   │   │   ├── 59_ev_ev.mp4
+│   │   │   ├── 61_ev_ev.mp4
+│   │   │   ├── 55_ev_ev.mp4
+│   │   │   ├── 08_ev_ev.mp4
+│   │   │   ├── 09_ev_ev.mp4
+│   │   │   ├── 13_ev_ev.mp4
+│   │   │   ├── 37_ev_ev.mp4
+│   │   │   ├── 47_ev_ev.mp4
+│   │   │   ├── 54(不完整）_ev_ev.mp4
+│   │   │   ├── 33_ev_ev.mp4
+│   │   │   ├── 30_ev_ev.mp4
+│   │   │   ├── 26_ev_ev.mp4
+│   │   │   ├── 07_ev_ev.mp4
+│   │   │   ├── 18_ev_ev.mp4
+│   │   │   ├── 53_ev_ev.mp4
+│   │   │   ├── 23_ev_ev.mp4
+│   │   │   ├── 31_ev_ev.mp4
+│   │   │   ├── 11_ev_ev.mp4
+│   │   │   ├── 22_ev_ev.mp4
+│   │   │   ├── 51_ev_ev.mp4
+│   │   │   ├── 04_ev_ev.mp4
+│   │   │   ├── 03_ev_ev.mp4
+│   │   │   ├── 36_ev_ev.mp4
+│   │   │   ├── 50_ev_ev.mp4
+│   │   │   ├── 45_ev_ev.mp4
+│   │   │   ├── 52_ev_ev.mp4
+│   │   │   ├── 60_ev_ev.mp4
+│   │   │   ├── 01_ev_ev.mp4
+│   │   │   ├── 16_ev_ev.mp4
+│   │   │   ├── 24_ev_ev.mp4
+│   │   │   ├── 35_ev_ev.mp4
+│   │   │   ├── 44_ev_ev.mp4
+│   │   │   ├── 27_ev_ev.mp4
+│   │   │   ├── 58_ev_ev.mp4
+│   │   │   ├── 39_ev_ev.mp4
+│   │   │   ├── 42_ev_ev.mp4
+│   │   │   ├── 40_ev_ev.mp4
+│   │   ├── 笔记
+│   │   │   ├── AntiDebug.cpp
+│   │   │   ├── Frp二开.txt
+│   │   │   ├── 修改CS默认证书、指纹、端口.pdf
+│   │   │   ├── C2.txt
+│   │   │   ├── CS Payload 分析.md
+│   │   │   ├── profile.txt
+│   │   │   ├── 检测语言.cpp
+│   │   │   ├── Powershell免杀.md
+│   │   │   ├── shellcode免杀3.txt
+│   │   │   ├── Windows Native API.md
+│   │   │   ├── CobaltStrike的profile配置对抗检测.pdf
+│   │   │   ├── 特征码定位.txt
+│   │   │   ├── 加密解密.zip
+│   │   │   ├── shellcode免杀.md
+│   │   │   ├── 挖掘DLL劫持漏洞-白加黑的实现.pdf
+│   │   │   ├── 反调试.txt
+│   │   │   ├── Ekko-main.zip
+│   │   │   ├── 反沙箱.zip
+│   │   │   ├── Native.zip
+│   │   │   ├── PEB.zip
+│   │   │   ├── PPID.zip
+│   │   │   ├── Pakcer开发思路.txt
+│   │   │   ├── EDR.txt
+│   │   │   ├── 第一天.txt
+│   │   │   ├── 恶意软件开发与杀软对抗.pdf
+│   │   │   ├── 木马分析和方法.txt
+│   │   │   ├── 检测进程.cpp
+│   │   │   ├── 自实现R3.zip
+│   │   │   ├── Defender.zip
+│   │   │   ├── AMSI.zip
+│   │   │   ├── 深入研究cobalt strike malleable C2配置文件.pdf
+│   │   │   ├── Packer开发.txt
+│   │   │   ├── 常用加载器.md
+│   │   │   ├── syscall.zip
+│   │   ├── 工具
+│   │   │   ├── 白名单.zip
+│   │   │   ├── 致盲360BOF.rar
+│   │   │   ├── HxDHexEditor.rar
+│   │   │   ├── Tips.zip
+│   │   │   ├── InstallDefenderUI_1.0.1_Setup.zip
+│   │   ├── 课件
+│   │   │   ├── hook课件.zip
+│   │   │   ├── 06.zip
+│   │   │   ├── VS2022配置OLLVM.pdf
+│   │   │   ├── detours使用.zip
+│   │   │   ├── PaserImport.zip
+│   │   │   ├── 权限维持.zip
+│   │   │   ├── file06.zip
+│   │   │   ├── MyGetprocaddressDemo.zip
+│   │   │   ├── file06_修复文件太小的bug.zip
+│   │   │   ├── peb.zip
+│   │   │   ├── addsection.zip
+│   │   │   ├── 核晶.zip
+│   │   │   ├── 什么是免杀.pptx
+│   │   │   ├── ConsoleApplication2.zip
+│   │   │   ├── MyGETPRCOADDRESS.zip
+│   │   │   ├── RVAtoFA.zip
+│   │   │   ├── 01.7z
+│   │   │   ├── shelllcode的编写.pdf
+│   │   │   ├── DumpLsass.zip
+│   │   ├── RC4dec.exe
+│   │   ├── sgn.bin
+│   │   ├── osec.pdf
+│   │   ├── RC4dec (1).exe
+│   │   ├── wsc.dll
+├── 逆向
+│   ├── 安卓
+│   │   ├── 安卓逆向系统培训 - 2020
+│   │   │   ├── 安卓逆向.part03.rar
+│   │   │   ├── 安卓逆向.part02.rar
+│   │   │   ├── 安卓逆向.part01.rar
+│   │   │   ├── 安卓逆向.part04.rar
+│   │   │   ├── 安卓逆向.part05.rar
+│   │   │   ├── 安卓逆向.part07.rar
+│   │   │   ├── 安卓逆向.part08.rar
+│   │   │   ├── WJJY.md5
+│   │   │   ├── 安卓逆向.part06.rar
+│   │   │   ├── 安卓逆向.part09.rar
+│   │   ├── Android安全与逆向分析进阶.rar
+│   │   ├── 小肩膀安卓逆向百集完整版.rar
+│   │   ├── 从APP逆向到游戏实战.rar
 │   ├── iOS
 │   │   ├── iOS安全攻防实战
 │   │   │   ├── 赠送：iOS逆向与安全
@@ -6999,214 +7206,6 @@
 │   │   │   │   │   ├── 10-02-DYLD.mp4
 │   │   │   │   │   ├── 10-08-最后补充.mp4
 │   │   │   ├── README.txt
-├── 免杀
-│   ├── 考古
-│   │   ├── Sky揭密复活免杀综合系列教程
-│   │   │   ├── Sky揭密复活免杀综合系列教程.part4.rar
-│   │   │   ├── Sky揭密复活免杀综合系列教程.part1.rar
-│   │   │   ├── Sky揭密复活免杀综合系列教程.part2.rar
-│   │   │   ├── Sky揭密复活免杀综合系列教程.part3.rar
-│   │   ├── 黑猫论坛实战免杀VIP教程.rar
-│   │   ├── 黑客学习基地Gh0st源码免杀系列课程.rar
-│   │   ├── 极客论坛免杀系列教程.rar
-│   │   ├── 饭客黑客之免杀VIP教程.rar
-│   │   ├── 少龙菜鸟跟我学免杀系列教程.rar
-│   │   ├── 黑客动画吧免杀班.rar
-│   │   ├── 中华隐士联盟高级源码免杀系列教程.rar
-│   │   ├── Ta7isy免杀全套教程.rar
-│   │   ├── 小七免杀论坛vip源码免杀培训班.rar
-│   │   ├── 夜鹰黑客基地揭密免杀系列教程.rar
-│   │   ├── 286合购网VC++源码免杀.rar
-│   │   ├── 少龙免杀基础系列.rar
-│   │   ├── 一时无粮2011脚本免杀.rar
-│   │   ├── RFire系列免杀教程.rar
-│   │   ├── 江南网盟老客精品免杀系列.rar
-│   │   ├── 黑盾网安VIP免杀教程.rar
-│   │   ├── 棉猴VIP教程-gh0st远控控制源码讲解教程.rar
-│   │   ├── 暗组免杀教程.rar
-│   │   ├── 华中帝国360免杀系列教程精选.rar
-│   │   ├── 浴血凤凰免杀系列.rar
-│   │   ├── 黑客风云免杀培训教程.rar
-│   │   ├── 暗组Gh0st编译免杀系列教程.rar
-│   │   ├── 饭客打造个人版Ghost远控.rar
-│   │   ├── 夜鹰海盗盟初级免杀培训教程.rar
-│   │   ├── U盘小偷源码分析系列教程.rar
-│   │   ├── 黑猫论坛NB5.5源码免杀VIP培训教程.rar
-│   │   ├── 黑猫论坛ghost源码免杀VIP教程.rar
-│   │   ├── 道德网安-[贵宾免杀班]菜鸟免杀教程.rar
-│   │   ├── 华中红客2012零基础免杀培训班.rar
-│   │   ├── 365免杀学习基地VIP源码免杀教程.rar
-│   │   ├── 棉猴驱动基础VIP系列教程.rar
-│   │   ├── 黑色键盘免杀系列VIP教程.rar
-│   │   ├── YES黑客联盟初级免杀培训教程.rar
-│   │   ├── 2011黑客小组的免杀教程.rar
-│   │   ├── 2012免杀360系列教程.rar
-│   │   ├── 点点原创视频：免杀基础.rar
-│   │   ├── 道德网安揭密无特征码免杀系列教程.rar
-│   │   ├── 新世纪网安VIP高级免杀班.rar
-│   │   ├── 33VC网免杀基础系列.rar
-│   │   ├── 红色黑客联盟免杀教程.rar
-│   │   ├── 中国黑客组织初级特征码免杀教程.rar
-│   │   ├── 特征码定位器开发系列教程.rar
-│   │   ├── YShack联盟无特征码免杀.rar
-│   │   ├── 揭密360急速免杀系列教程.rar
-│   │   ├── 小七揭密delphi源码免杀系列教程.rar
-│   │   ├── 黑客乐园2011免杀系列培训教程.rar
-│   │   ├── 华中红客基地菜鸟学习免杀系列教程.rar
-│   │   ├── 夜鹰VIP免杀系列.rar
-│   │   ├── 杀不死的秘密：反汇编揭密黑客免杀变种技术.崔承琦.扫描版.pdf
-│   │   ├── 棉猴VIP_NB5.5源码分析教程.rar
-│   │   ├── 一时无粮2011免杀教程.rar
-│   │   ├── badboy揭密基础免杀系列教程.rar
-│   │   ├── IT9网络学院免杀系列培训教程.rar
-│   │   ├── 38技术vip源码免杀VIP系列培训教程.rar
-│   │   ├── 华中红客2012源码免杀培训班.rar
-│   ├── 哈拉少免杀三期
-│   │   ├── 视频AA
-│   │   │   ├── 15_ev_ev.mp4
-│   │   │   ├── 41_ev_ev.mp4
-│   │   │   ├── 46_ev_ev.mp4
-│   │   │   ├── 12_ev_ev.mp4
-│   │   │   ├── 25_ev_ev.mp4
-│   │   │   ├── 49_ev_ev.mp4
-│   │   │   ├── 05_ev_ev.mp4
-│   │   │   ├── 34_ev_ev.mp4
-│   │   │   ├── 06_ev_ev.mp4
-│   │   │   ├── 17_ev_ev.mp4
-│   │   │   ├── 48_ev_ev.mp4
-│   │   │   ├── 19_ev_ev.mp4
-│   │   │   ├── 21_ev_ev.mp4
-│   │   │   ├── 32_ev_ev.mp4
-│   │   │   ├── 20_ev_ev.mp4
-│   │   │   ├── 28_ev_ev.mp4
-│   │   │   ├── 14_ev_ev.mp4
-│   │   │   ├── 02_ev_ev.mp4
-│   │   │   ├── 29_ev_ev.mp4
-│   │   │   ├── 38_ev_ev.mp4
-│   │   │   ├── 55-1_ev_ev.mp4
-│   │   │   ├── 10_ev_ev.mp4
-│   │   │   ├── 57_ev_ev.mp4
-│   │   │   ├── 43_ev_ev.mp4
-│   │   │   ├── 56_ev_ev.mp4
-│   │   │   ├── 59_ev_ev.mp4
-│   │   │   ├── 61_ev_ev.mp4
-│   │   │   ├── 55_ev_ev.mp4
-│   │   │   ├── 08_ev_ev.mp4
-│   │   │   ├── 09_ev_ev.mp4
-│   │   │   ├── 13_ev_ev.mp4
-│   │   │   ├── 37_ev_ev.mp4
-│   │   │   ├── 47_ev_ev.mp4
-│   │   │   ├── 54(不完整）_ev_ev.mp4
-│   │   │   ├── 33_ev_ev.mp4
-│   │   │   ├── 30_ev_ev.mp4
-│   │   │   ├── 26_ev_ev.mp4
-│   │   │   ├── 07_ev_ev.mp4
-│   │   │   ├── 18_ev_ev.mp4
-│   │   │   ├── 53_ev_ev.mp4
-│   │   │   ├── 23_ev_ev.mp4
-│   │   │   ├── 31_ev_ev.mp4
-│   │   │   ├── 11_ev_ev.mp4
-│   │   │   ├── 22_ev_ev.mp4
-│   │   │   ├── 51_ev_ev.mp4
-│   │   │   ├── 04_ev_ev.mp4
-│   │   │   ├── 03_ev_ev.mp4
-│   │   │   ├── 36_ev_ev.mp4
-│   │   │   ├── 50_ev_ev.mp4
-│   │   │   ├── 45_ev_ev.mp4
-│   │   │   ├── 52_ev_ev.mp4
-│   │   │   ├── 60_ev_ev.mp4
-│   │   │   ├── 01_ev_ev.mp4
-│   │   │   ├── 16_ev_ev.mp4
-│   │   │   ├── 24_ev_ev.mp4
-│   │   │   ├── 35_ev_ev.mp4
-│   │   │   ├── 44_ev_ev.mp4
-│   │   │   ├── 27_ev_ev.mp4
-│   │   │   ├── 58_ev_ev.mp4
-│   │   │   ├── 39_ev_ev.mp4
-│   │   │   ├── 42_ev_ev.mp4
-│   │   │   ├── 40_ev_ev.mp4
-│   │   ├── 笔记
-│   │   │   ├── AntiDebug.cpp
-│   │   │   ├── Frp二开.txt
-│   │   │   ├── 修改CS默认证书、指纹、端口.pdf
-│   │   │   ├── C2.txt
-│   │   │   ├── CS Payload 分析.md
-│   │   │   ├── profile.txt
-│   │   │   ├── 检测语言.cpp
-│   │   │   ├── Powershell免杀.md
-│   │   │   ├── shellcode免杀3.txt
-│   │   │   ├── Windows Native API.md
-│   │   │   ├── CobaltStrike的profile配置对抗检测.pdf
-│   │   │   ├── 特征码定位.txt
-│   │   │   ├── 加密解密.zip
-│   │   │   ├── shellcode免杀.md
-│   │   │   ├── 挖掘DLL劫持漏洞-白加黑的实现.pdf
-│   │   │   ├── 反调试.txt
-│   │   │   ├── Ekko-main.zip
-│   │   │   ├── 反沙箱.zip
-│   │   │   ├── Native.zip
-│   │   │   ├── PEB.zip
-│   │   │   ├── PPID.zip
-│   │   │   ├── Pakcer开发思路.txt
-│   │   │   ├── EDR.txt
-│   │   │   ├── 第一天.txt
-│   │   │   ├── 恶意软件开发与杀软对抗.pdf
-│   │   │   ├── 木马分析和方法.txt
-│   │   │   ├── 检测进程.cpp
-│   │   │   ├── 自实现R3.zip
-│   │   │   ├── Defender.zip
-│   │   │   ├── AMSI.zip
-│   │   │   ├── 深入研究cobalt strike malleable C2配置文件.pdf
-│   │   │   ├── Packer开发.txt
-│   │   │   ├── 常用加载器.md
-│   │   │   ├── syscall.zip
-│   │   ├── 工具
-│   │   │   ├── 白名单.zip
-│   │   │   ├── 致盲360BOF.rar
-│   │   │   ├── HxDHexEditor.rar
-│   │   │   ├── Tips.zip
-│   │   │   ├── InstallDefenderUI_1.0.1_Setup.zip
-│   │   ├── 课件
-│   │   │   ├── hook课件.zip
-│   │   │   ├── 06.zip
-│   │   │   ├── VS2022配置OLLVM.pdf
-│   │   │   ├── detours使用.zip
-│   │   │   ├── PaserImport.zip
-│   │   │   ├── 权限维持.zip
-│   │   │   ├── file06.zip
-│   │   │   ├── MyGetprocaddressDemo.zip
-│   │   │   ├── file06_修复文件太小的bug.zip
-│   │   │   ├── peb.zip
-│   │   │   ├── addsection.zip
-│   │   │   ├── 核晶.zip
-│   │   │   ├── 什么是免杀.pptx
-│   │   │   ├── ConsoleApplication2.zip
-│   │   │   ├── MyGETPRCOADDRESS.zip
-│   │   │   ├── RVAtoFA.zip
-│   │   │   ├── 01.7z
-│   │   │   ├── shelllcode的编写.pdf
-│   │   │   ├── DumpLsass.zip
-│   │   ├── RC4dec.exe
-│   │   ├── sgn.bin
-│   │   ├── osec.pdf
-│   │   ├── RC4dec (1).exe
-│   │   ├── wsc.dll
-├── 逆向
-│   ├── 安卓
-│   │   ├── 安卓逆向系统培训 - 2020
-│   │   │   ├── 安卓逆向.part03.rar
-│   │   │   ├── 安卓逆向.part02.rar
-│   │   │   ├── 安卓逆向.part01.rar
-│   │   │   ├── 安卓逆向.part04.rar
-│   │   │   ├── 安卓逆向.part05.rar
-│   │   │   ├── 安卓逆向.part07.rar
-│   │   │   ├── 安卓逆向.part08.rar
-│   │   │   ├── WJJY.md5
-│   │   │   ├── 安卓逆向.part06.rar
-│   │   │   ├── 安卓逆向.part09.rar
-│   │   ├── Android安全与逆向分析进阶.rar
-│   │   ├── 小肩膀安卓逆向百集完整版.rar
-│   │   ├── 从APP逆向到游戏实战.rar
 │   ├── 游戏逆向的故事Ⅰ：我要入门
 │   │   ├── 21 【实战】小白不会DUMP功能？你好意思吗？IDA配合DUMP，绝了.mp4
 │   │   ├── 3 【实战】开一个游戏能娶一个老婆，那双开怎么搞？游戏多开教学！.mp4
