@@ -676,6 +676,10 @@
 │   ├── NucleiFuzzer-1.0.3.zip
 │   ├── nuclei_3.2.9_windows_amd64.zip
 │   ├── nuclei_3.2.9_linux_amd64.zip
+├── TscanPlus
+│   ├── TscanPlus_Win_Amd64_v2.2.zip
+│   ├── TscanPlus_Linux_v2.1_无需vip，默认认证到2024.12.31.zip
+│   ├── TscanPlus_Linux_Amd64_v2.0_无需vip，默认认证到2024.12.31.zip
 ├── Aforg
 │   ├── afrog-pocs-2014-04.zip
 │   ├── afrog_3.0.8_windows_amd64.zip
