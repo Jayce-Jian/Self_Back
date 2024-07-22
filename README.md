@@ -308,6 +308,7 @@
 │   │   ├── WxBox.rar
 │   │   ├── tenet.html
 │   │   ├── tenet.js
+│   ├── (CVE-2022-26258) D-Link  DIR-820L 命令注入.docx
 │   ├── 方程式工具包图形界面版V0.3.zip
 │   ├── NacosExploitGUI_v4.0.jar
 │   ├── 23HW-200+个POC.zip
@@ -640,6 +641,8 @@
 │   │   │   ├── appscan1007-crack.exe
 │   ├── HCL.AppScan.Standard.v10.5.1.Cracked-NGEN.rar
 ├── AWVS
+│   ├── 24.7.240716084
+│   │   ├── acunetix_24.7.240716084.exe
 │   ├── 24.6.240626115
 │   │   ├── Acunetix-v24.6.240626115-Windows-密码：Pwn3rzs.rar
 │   │   ├── Acunetix-v24.6.240626115-Linux-密码：Pwn3rzs.7z
@@ -1197,6 +1200,7 @@
 │   │   ├── processhacker-2.39-bin.zip
 │   ├── LKT_Build(202307041811).zip
 │   ├── SysinternalsSuite.zip
+│   ├── SwordHost_v1.0_渗透命令辅助.jar
 │   ├── Pyark(1).zip
 │   ├── Procmon.exe
 │   ├── Procexp.exe
