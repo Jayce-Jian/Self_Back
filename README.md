@@ -827,6 +827,12 @@
 │   ├── 14.5
 │   │   ├── proxy-windows-amd64.tar.gz
 │   │   ├── proxy-linux-amd64.tar.gz
+├── Stowaway
+│   ├── 2.2
+│   │   ├── linux_x64_admin
+│   │   ├── linux_x64_agent
+│   │   ├── windows_x64_admin.exe
+│   │   ├── windows_x64_agent.exe
 ├── frp
 │   ├── frp_0.37.1
 │   │   ├── frp_0.37.1_linux_amd64.tar.gz
