@@ -10,7 +10,7 @@
   * [代码审计](#代码审计)
   * [其他工具](#其他工具)
   * [工具包合集](#工具包合集)
-  * [办公系列(Shell、PDF、Xmind、Office)](#办公系列(Shell、PDF、Xmind、Office))
+  * [办公系列(Shell_PDF_Xmind_Office)](#办公系列(Shell_PDF_Xmind_Office))
   * [虚拟机_镜像_系统_环境_靶场](#虚拟机_镜像_系统_环境_靶场)
   * [逆向工具](#逆向工具)
   * [书籍文档](#书籍文档)
@@ -751,13 +751,17 @@
 ├── Nessus
 │   ├── 10.7.5
 │   │   ├── nessus_offline.sh
+│   │   ├── plugin_feed_info.inc
+│   │   ├── Nessus一键安装使用教程.pdf
+│   │   ├── Nessus_Crack.exe
 │   │   ├── Nessus-10.7.5-ubuntu1604_amd64.deb
 │   │   ├── Nessus-10.7.5-x64.msi
 │   │   ├── Nessus-latest-debian10_amd64.deb
 │   ├── 官方包
-│   │   ├── all-2.0.20240628.tar.gz
-│   │   ├── all-2.0.20210604.tar.gz
-│   │   ├── all-2.0_20210329.tar.gz
+│   │   ├── all-2.0_20240718.tar.gz
+│   │   ├── all-2.0_20240628.tar.gz
+│   │   ├── all-2.0_20240620.tar.gz
+│   │   ├── 使用一键脚本更新，需把日期删除，只留[all-2.0.tar.gz]
 │   ├── 旧版本
 │   │   ├── 10.0.1
 │   │   │   ├── Nessus-10.0.1.dmg
@@ -1632,9 +1636,9 @@
 ├── 逆向工具包Anti-Lock Team Tools V3.0.rar
 </code></pre>
 
-## 办公系列(Shell、PDF、Xmind、Office)
+## 办公系列(Shell_PDF_Xmind_Office)
 
-- **[办公系列(Shell、PDF、Xmind、Office)](https://pan.baidu.com/s/1KorpHeoIKPUFmTU8kuYc_w?pwd=xaqx)**
+- **[办公系列(Shell_PDF_Xmind_Office)](https://pan.baidu.com/s/1KorpHeoIKPUFmTU8kuYc_w?pwd=xaqx)**
 
 <pre><code>.
 ├── 桌面、快速启动
