@@ -1,4 +1,4 @@
-> 善用ctrl+f，什么？找不到你想要的资源，什么？链接挂了，没关系，进QQ群：[690334319](https://qm.qq.com/q/KAXILR2xiY)
+> 在[blob/master](https://github.com/TrojanAZhen/Self_Back/blob/master/README.md)善用ctrl+f，什么？找不到你想要的资源，什么？链接挂了，没关系，进QQ群：[690334319](https://qm.qq.com/q/KAXILR2xiY)
 
 - [资源存档](#资源存档)
   * [BurpSuite](#burpsuite)
