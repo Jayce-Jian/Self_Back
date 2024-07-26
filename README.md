@@ -137,11 +137,11 @@
 │   ├── WARNING.md
 ├── Empire
 │   ├── powershell-empire
+│   │   ├── BC-SECURITY_Empire-5.10.3_2024.05.23.zip
 │   │   ├── BC-SECURITY_Starkiller-main_2024.07.15.zip
 │   │   ├── dotnet-sdk-6.0.424-linux-x64.tar.gz
 │   │   ├── 安装powershell-empire.md
 │   │   ├── BC-SECURITY_Empire-main_2024.07.15.zip
-│   ├── BC-SECURITY_Empire-5.10.3_2024.05.23.zip
 │   ├── EmpireProject_Empire-2.5_2018.03.16.zip
 ├── MemShell
 │   ├── MemShell-main.zip
@@ -282,6 +282,12 @@
 │   ├── Behinder_v2.0.1.1_修改版.zip
 │   ├── Behinder_v2.0.1.zip
 │   ├── behinder.ico
+├── 密码、凭证
+│   ├── mimikatz
+│   │   ├── mimikatz_trunk-20220919.zip
+│   │   ├── mimikatz_trunk-20200918.zip
+│   │   ├── mimikatz_trunk-20200816.zip
+│   ├── pypykatz-0.6.10.zip
 ├── SweetPotato
 │   ├── 甜土豆_xljtj.com.zip
 │   ├── 甜土豆_jas502n_SweetPotato-webshell.zip
@@ -294,10 +300,7 @@
 │   ├── webshell合集-2021-07-04.zip
 │   ├── PHP-WebShells.zip
 ├── (毛子c2po)DarkCrystal RAT.zip
-├── 大灰狼远控源码.exe
 ├── JSPHorse-0.5.jar
-├── 开天斧.zip
-├── 灰鸽子远程控制 黑防专版.zip
 ├── 天蝎权限管理工具V1.0 beta37 20201205.zip
 ├── c刀_cknife-20170408.zip
 </code></pre>
@@ -1309,6 +1312,10 @@
 │   ├── asyncio异步_非阻塞.py
 │   ├── ip去重.py
 │   ├── ip归属地批量查询.py
+├── 远控
+│   ├── 大灰狼远控源码.rar
+│   ├── 灰鸽子远程控制 黑防专版.zip
+│   ├── 大灰狼 远控 V9.5 附小马源码.zip
 ├── HTTP
 │   ├── HTTP 常见攻击脚本过滤器HTTP Common Exploits.rar
 │   ├── HTTP溢出攻击过滤器文件HTTPycgj.rar
@@ -1510,6 +1517,10 @@
 │   │   │   ├── 科来MAC地址扫描器csmac_x64.exe
 │   │   │   ├── 科来数据包生成器pktbuilder_x64.exe
 │   │   │   ├── MD5SUM.txt
+│   │   ├── HttpToolkit
+│   │   │   ├── HttpToolkit-win-x64-1.18.1.zip
+│   │   │   ├── HttpToolkit-1.18.1.deb
+│   │   │   ├── httptoolkit_v1.3.12.apk
 │   │   ├── Charles
 │   │   │   ├── charles_4.6.1_Crack.jar
 │   │   │   ├── charles-proxy-4.6.1-win64.msi
