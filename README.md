@@ -126,6 +126,10 @@
 │   ├── hrsword.exe
 │   ├── WEBDIR+.website
 │   ├── Web Shell Detector.website
+├── 命令辅助
+│   ├── reverse-shell-generator.zip
+│   ├── LasCC-HackTools_v0.5.0.zip
+│   ├── SwordHost_v1.0_渗透命令辅助.jar
 ├── Vshell
 │   ├── img
 │   │   ├── logo.png
@@ -1452,7 +1456,6 @@
 │   │   ├── processhacker-2.39-bin.zip
 │   ├── LKT_Build(202307041811).zip
 │   ├── SysinternalsSuite.zip
-│   ├── SwordHost_v1.0_渗透命令辅助.jar
 │   ├── PYArk.zip
 │   ├── Procmon.exe
 │   ├── Procexp.exe
@@ -1558,10 +1561,8 @@
 ├── 马_病毒_编码_弱口令_解密
 │   ├── 编码
 │   │   ├── CaptfEncoder
-│   │   │   ├── CaptfEncoder1.3.0.zip
-│   │   │   ├── CaptfEncoder-win-x64-2.1.0.zip
-│   │   │   ├── CaptfEncoder-linux-x64-2.1.0.zip
-│   │   │   ├── CaptfEncoder-win-x64-3.0.1.exe
+│   │   │   ├── CaptfEncoder-ubuntu-20-x64-3.1.2.bin
+│   │   │   ├── CaptfEncoder-win-x64-3.1.2.exe
 │   │   ├── CyberChef_v10.18.9.zip
 │   │   ├── 小葵转换工具_by_zj1244.exe
 │   ├── 病毒
