@@ -37,7 +37,7 @@
 ├── 2021.12.1
 │   ├── burp-loader-x-Ai.jar
 │   ├── burpsuite_pro.jar
-├── 2024.6.3
+├── 2024.7
 │   ├── BurpLoaderKeygen_v1.17.jar
 │   ├── burpsuite_pro_win.jar
 │   ├── burpsuite_pro_linux.jar
@@ -335,6 +335,7 @@
 │   │   ├── 攻防演习安全验证简报-20240722.pdf
 │   │   ├── 2024hw漏洞威胁情报-20240722-markdown.zip
 │   │   ├── 2024hw漏洞威胁情报-20240722.pdf
+│   ├── 2024HW ODAY漏洞合集(2024.7.23-7.26).pdf
 │   ├── 2024HW-Kpanda漏洞库--一直更新.txt
 │   ├── 亚信-2024实网攻防演练必修高危漏洞合集.pdf
 │   ├── 护网关注漏洞清单.xlsx
@@ -1080,9 +1081,8 @@
 │   ├── haproxy-3.0.3.tar.gz
 │   ├── haproxy-2.2.0.tar.gz
 ├── Proxifier
-│   ├── ProxifierSetup_v4.05.exe
+│   ├── Proxifier_v4.05+key.zip
 │   ├── Proxifier.3.42.rar
-│   ├── Proxifier_v4.05_key.txt
 ├── port_tunnel
 │   ├── port_tunnel_win64.exe
 │   ├── port_tunnel_win2k3.exe
@@ -1563,6 +1563,7 @@
 │   │   ├── CaptfEncoder
 │   │   │   ├── CaptfEncoder-ubuntu-20-x64-3.1.2.bin
 │   │   │   ├── CaptfEncoder-win-x64-3.1.2.exe
+│   │   ├── 万能字符转换Character1.2.exe
 │   │   ├── CyberChef_v10.18.9.zip
 │   │   ├── 小葵转换工具_by_zj1244.exe
 │   ├── 病毒
@@ -1587,7 +1588,6 @@
 │   ├── 超级弱口令检查工具完整打包版.rar
 │   ├── Veil-Evasion-2.28.2.zip
 │   ├── 爆破加密算法CryptoTester.zip
-│   ├── 大灰狼远控源码.rar
 │   ├── CainAbel v4.9.56.zip
 │   ├── 社工密码生成.jar
 │   ├── 白鹿社工字典生成器-v1.1.zip
@@ -1719,7 +1719,7 @@
 │   ├── hackbar-2.2.9-firefox-免激活.xpi
 ├── 穿透工业网闸_py.zip
 ├── Cerbero_Suite_Advanced_6.5.1_win64.7z
-├── BlueTeamToolsV1.09.jar
+├── BlueTeamToolsV1.12.jar
 ├── 360系统防黑加固.7z
 ├── 360小工具合集.rar
 ├── FAW9300_取证工具_解压密码20210419_2254.rar
@@ -1856,7 +1856,7 @@
 ├── ONE-FOX集成工具箱_V8公开版补丁包_by狐狸.7z
 ├── [最新版]蓝队应急响应工具箱v2024.7.7z
 ├── 渗透工具箱_琴音安全.zip
-├── BlueTeamToolsV1.09.jar
+├── BlueTeamToolsV1.12.jar
 ├── SysinternalsSuite.zip
 ├── 工控安全必备工具.rar
 ├── 应急工具集_密码hackctf.rar
@@ -1873,6 +1873,7 @@
 
 <pre><code>.
 ├── 桌面、快速启动
+│   ├── Dawn.Launcher-1.4.4.7z
 │   ├── GeekDesk.2.5.14.zip
 │   ├── Rolan v2.2.0.7z
 │   ├── Maye
@@ -1928,6 +1929,7 @@
 │   │   ├── Sublime 4113 + Crack.zip
 │   │   ├── SublimeText 4 (dev 4104) x64 Portable.rar
 │   ├── Typora
+│   │   ├── typora1.8.10_win_crack.zip
 │   │   ├── Typora for Win v1.0.3 x64.exe
 │   │   ├── Typora_1.1.5_win64_crack.exe
 │   │   ├── Typora1.0.3Crack.exe
@@ -2322,6 +2324,7 @@
 │   ├── 彻底移除Windows Defender(终结版v4).exe
 │   ├── DefenderControl.zip
 │   ├── Defeat-Defender-main.zip
+├── netassist5.0.13.zip
 ├── 谷歌翻译checker-win-x64.exe
 ├── NetLimiter 5.3.10.0 Crack.rar
 ├── 雷电模拟器64位纯净_4.0.51.7z
@@ -2483,6 +2486,7 @@
 │   │   ├── CTF.mf
 │   │   ├── CTF-disk1.7z.008
 │   │   ├── CTF-disk1.7z.005
+│   ├── JiaoSuInfoSec_T00ls_Win11_24722_v1.1.RT_hw.Beta_.zip
 │   ├── Windows11 Penetration Suite Toolkit v2.1.7z
 │   ├── Windows11 Penetration Suite Toolkit v2.1.md
 │   ├── 精简Windows XP-VMware.7z
@@ -2494,7 +2498,7 @@
 │   ├── JDK_JRE
 │   │   ├── openjdk-11.0.2_linux-x64_bin.tar.gz
 │   │   ├── openjdk-13.0.2_linux-x64_bin.tar.gz
-│   │   ├── jdk-13.0.2_windows-x64_bin.exe
+│   │   ├── openjdk-13.0.2_linux-x64_bin.tar.gz
 │   │   ├── openjdk-17.0.1_windows-x64_bin.zip
 │   │   ├── jre-21.0.2_linux.zip
 │   │   ├── jre-21.0.2_win.zip
@@ -2709,7 +2713,6 @@
 │   ├── InnoExtractor_v7.3.2.535.7z
 │   ├── innoextract-1.9-windows.zip
 ├── CE
-│   ├── CheatEngine_v7.5.exe
 │   ├── CE 7.4.exe
 ├── OD
 │   ├── 使用OllyDbg从零开始Cracking.CHM
