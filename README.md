@@ -2497,12 +2497,13 @@
 ├── 环境
 │   ├── JDK_JRE
 │   │   ├── openjdk-11.0.2_linux-x64_bin.tar.gz
-│   │   ├── openjdk-13.0.2_linux-x64_bin.tar.gz
+│   │   ├── jdk-13.0.2_windows-x64_bin.exe
 │   │   ├── openjdk-13.0.2_linux-x64_bin.tar.gz
 │   │   ├── openjdk-17.0.1_windows-x64_bin.zip
 │   │   ├── jre-21.0.2_linux.zip
 │   │   ├── jre-21.0.2_win.zip
 │   │   ├── jdk-11.0.7_win.zip
+│   │   ├── jre-1.8.0_261_win.zip
 │   │   ├── jdk-8u144-linux-x64.tar.gz
 │   ├── Python
 │   │   ├── python-3.7.9-amd64.exe
@@ -2510,6 +2511,7 @@
 │   │   ├── go1.15.5.windows-amd64.msi
 │   ├── httpd-2.4.51-o111l-x64-vc15.exe
 │   ├── php-5.2.17-nts-Win32-VC6-x86.exe
+│   ├── PhpStudy2018.exe
 │   ├── phpStudy2016.exe
 ├── 蜜罐
 │   ├── goblin_0.4.3_windows_amd64.zip
