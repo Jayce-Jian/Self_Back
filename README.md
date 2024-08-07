@@ -80,6 +80,7 @@
 │   │   ├── captcha-killer-modified-0.24.6-jdk11.jar
 │   │   ├── captcha-killer-modified-0.24.6-jdk8.jar
 │   │   ├── captcha-killer-modified-0.24.6-jdk14.jar
+│   ├── gatherBurp-1.1.2-SNAPSHOT-jar-with-dependencies.jar
 │   ├── log4j2burpscanner-0.18.6-jdk11.jar
 │   ├── JWT4B-jar-with-dependencies.jar
 │   ├── domain_hunter_pro-v1.6-jar-with-dependencies.jar
@@ -108,24 +109,24 @@
 
 <pre><code>.
 ├── Shell查杀类
-│   ├── WebShellKill_V1.2.9
-│   │   ├── 文件MD5.txt
-│   │   ├── WebShellKill.exe
+│   ├── sangfor
+│   │   ├── MRH_扫CS马.exe
+│   │   ├── WebShellKillerForLinux.tar.gz
+│   │   ├── WebShellKiller_v3.0.zip
+│   │   ├── WebShellKiller_v3.3.0.2.zip
+│   ├── 河马
+│   │   ├── WEBSHELL.PUB HmSetup.zip
+│   │   ├── WEBSHELL.PUB hm-linux-amd64.tgz
+│   │   ├── WEBSHELL.PUB hm-linux-386.tgz
+│   ├── D盾
+│   │   ├── d_safe_2.1.5.3.zip
+│   │   ├── d_safe_2.1.8.1.zip
+│   │   ├── Web查杀_v1.2.9测试版.exe
 │   ├── Yara
 │   │   ├── yara-master-2298-win64.zip
 │   │   ├── yara-rules.zip
 │   ├── 精细化扫描工具（ScanTool）.zip
-│   ├── WebShellKillerTool.zip
-│   ├── D盾d_safe_2.1.5.3.zip
-│   ├── MRH_扫CS马.exe
-│   ├── WebShellKiller3.0工具.zip
-│   ├── WebShellKillerForLinux.tar.gz
-│   ├── WEBSHELL.PUB HmSetup.zip
-│   ├── WEBSHELL.PUB hm-linux-amd64.tgz
-│   ├── WEBSHELL.PUB hm-linux-386.tgz
-│   ├── hrsword.exe
-│   ├── WEBDIR+.website
-│   ├── Web Shell Detector.website
+│   ├── PHP-Shell-Detector-master.zip
 ├── 命令辅助
 │   ├── reverse-shell-generator.zip
 │   ├── LasCC-HackTools_v0.5.0.zip
@@ -2330,6 +2331,7 @@
 │   ├── 彻底移除Windows Defender(终结版v4).exe
 │   ├── DefenderControl.zip
 │   ├── Defeat-Defender-main.zip
+├── InternetTestPro_8.5.0.2408_Setup.exe
 ├── netassist5.0.13.zip
 ├── 谷歌翻译checker-win-x64.exe
 ├── NetLimiter 5.3.10.0 Crack.rar
@@ -2679,6 +2681,7 @@
 │   ├── HxDSetupCHS.zip
 │   ├── HxDHexEditor.rar
 ├── 010Editor
+│   ├── 010EditorWin64Portable14.0-二次修整版.rar
 │   ├── 010 Editor-14.0.1(X64)原版安装+汉化补丁.rar
 │   ├── 010editor-keygen.py
 ├── DLL
