@@ -1931,15 +1931,14 @@
 │   │   ├── Beyond Compare v4.4.0.25886 绿色特别版.zip
 │   │   ├── Beyond Compare 4.4.2中文便携版.rar
 │   ├── Sublime
-│   │   ├── sublime_text_build_4169_x64_setup.exe
-│   │   ├── Sublime_绿色便携版.zip
-│   │   ├── Sublime 4113 + Crack.zip
-│   │   ├── SublimeText 4 (dev 4104) x64 Portable.rar
+│   │   ├── sublime_4169_win_crack.zip
+│   │   ├── Sublime_4113_win_crack.zip
+│   │   ├── Sublime_4104_便携版.rar
+│   │   ├── Sublime_4081_便携版.zip
 │   ├── Typora
-│   │   ├── typora1.8.10_win_crack.zip
-│   │   ├── Typora for Win v1.0.3 x64.exe
-│   │   ├── Typora_1.1.5_win64_crack.exe
-│   │   ├── Typora1.0.3Crack.exe
+│   │   ├── typora_v1.8.10_win_crack.zip
+│   │   ├── typora_v1.1.5_win_crack.zip
+│   │   ├── typora_v1.0.3_win_crack.7z
 │   ├── PrestoSoft.ExamDiff.Pro.v14.0.1.27.Master.Edition.x64-CRD.rar
 │   ├── UltraCompare_21.00.0.40_[TNT]_.zip
 │   ├── editplus-v5.4.3571.zip
