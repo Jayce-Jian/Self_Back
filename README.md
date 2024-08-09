@@ -142,11 +142,11 @@
 │   ├── WARNING.md
 ├── Empire
 │   ├── powershell-empire
-│   │   ├── BC-SECURITY_Empire-5.10.3_2024.05.23.zip
-│   │   ├── BC-SECURITY_Starkiller-main_2024.07.15.zip
+│   │   ├── BC-SECURITY_Empire-5.11.2.zip
+│   │   ├── BC-SECURITY_Starkiller-2.8.1.zip
+│   │   ├── powershell-empire.sh
 │   │   ├── dotnet-sdk-6.0.424-linux-x64.tar.gz
 │   │   ├── 安装powershell-empire.md
-│   │   ├── BC-SECURITY_Empire-main_2024.07.15.zip
 │   ├── EmpireProject_Empire-2.5_2018.03.16.zip
 ├── MemShell
 │   ├── MemShell-main.zip
