@@ -37,10 +37,11 @@
 ├── 2021.12.1
 │   ├── burp-loader-x-Ai.jar
 │   ├── burpsuite_pro.jar
-├── 2024.7
+├── Stable_2024.6.5
 │   ├── BurpLoaderKeygen_v1.17.jar
 │   ├── burpsuite_pro_win.jar
 │   ├── burpsuite_pro_linux.jar
+│   ├── burpsuite_pro_v2024.6.5.jar
 │   ├── jre
 │   │   ├── jre-21.0.2_linux.zip
 │   │   ├── jre-21.0.2_win.zip
@@ -336,6 +337,7 @@
 │   │   ├── 攻防演习安全验证简报-20240722.pdf
 │   │   ├── 2024hw漏洞威胁情报-20240722-markdown.zip
 │   │   ├── 2024hw漏洞威胁情报-20240722.pdf
+│   ├── sangfor-CVE-2024-38077漏洞扫描工具.zip
 │   ├── 2024HW ODAY漏洞合集(2024.7.23-7.26).pdf
 │   ├── 2024HW-Kpanda漏洞库--一直更新.txt
 │   ├── 亚信-2024实网攻防演练必修高危漏洞合集.pdf
