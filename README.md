@@ -2804,10 +2804,20 @@
 │   │   ├── IDA1.7z
 │   │   ├── IDA_STRUCT.7z
 │   │   ├── HOLA_REVERSER.7z
+│   ├── 8.3
+│   │   ├── IDA Pro 8.3 (x86, x86_64).zip
+│   │   ├── IDA_Pro_v8.3_Portable.zip
+│   ├── 9.0 Beta
+│   │   ├── ida9_0_patch.zip
+│   │   ├── ida90b2-fix-linux.zip
+│   │   ├── idapro9.0b2_macos_arm64_patched.zip
+│   │   ├── IDA SDK and Tools.7z
+│   │   ├── idapro_90_x64linux.run
+│   │   ├── idapro_90_x64win.exe
+│   │   ├── IDA 9.0 注入破解版.dmg
+│   │   ├── IDA BETA 9.0 crack.docx
 │   ├── go_parser-py3.zip
 │   ├── go_parser-py2.zip
-│   ├── IDA Pro 8.3 (x86, x86_64).zip
-│   ├── IDA_Pro_v8.3_Portable.zip
 ├── Net
 │   ├── Red.Gate.NET.Reflector.v9.0.1.374.7z
 │   ├── ILSpy_binaries_5.0.2.5153.zip
@@ -10104,7 +10114,7 @@
 
 - **[Pwn3rzs](https://t.me/Pwn3rzs)**
 
-## OneDrive资源备份
+## 看雪-OneDrive资源备份
 
 - **[Wei's OneDrive](https://od.cloudsploit.top/zh-CN/tools/)**
 
