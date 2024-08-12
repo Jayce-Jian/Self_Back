@@ -2810,6 +2810,7 @@
 │   │   ├── IDA Pro 8.3 (x86, x86_64).zip
 │   │   ├── IDA_Pro_v8.3_Portable.zip
 │   ├── 9.0 Beta
+│   │   ├── LazyIDA_fix.py
 │   │   ├── ida9_0_patch.zip
 │   │   ├── ida90b2-fix-linux.zip
 │   │   ├── idapro9.0b2_macos_arm64_patched.zip
@@ -4663,7 +4664,7 @@
 │   │   │   ├── 第9篇：编辑器入侵事件.md
 │   │   │   ├── 第2篇：门罗币恶意挖矿.md
 │   │   ├── .DS_Store
-│   ├── Linux 应急响应手册v1.8 发行版.pdf
+│   ├── Linux 应急响应手册v1.9 发行版.pdf
 │   ├── Windows应急响应手册v1.2.pdf
 │   ├── 应急响应实战笔记_2020.pdf
 │   ├── 应急响应实战笔记_2020_+恶意样本.zip
