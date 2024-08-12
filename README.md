@@ -965,20 +965,28 @@
 │   ├── pocsuite3-1.8.4.zip
 │   ├── CVE-2021-20050.py
 ├── Nessus
-│   ├── 10.7.5
+│   ├── 10.8.1
 │   │   ├── nessus_offline.sh
 │   │   ├── plugin_feed_info.inc
 │   │   ├── Nessus一键安装使用教程.pdf
 │   │   ├── Nessus_Crack.exe
-│   │   ├── Nessus-10.7.5-ubuntu1604_amd64.deb
-│   │   ├── Nessus-10.7.5-x64.msi
-│   │   ├── Nessus-latest-debian10_amd64.deb
+│   │   ├── Nessus-10.8.1-ubuntu1604_amd64.deb
+│   │   ├── Nessus-10.8.1-x64.msi
+│   │   ├── Nessus-10.8.1-debian10_amd64.deb
 │   ├── 官方包
+│   │   ├── all-2.0_20240811.tar.gz
 │   │   ├── all-2.0_20240718.tar.gz
 │   │   ├── all-2.0_20240628.tar.gz
-│   │   ├── all-2.0_20240620.tar.gz
 │   │   ├── 使用一键脚本更新，需把日期删除，只留[all-2.0.tar.gz]
 │   ├── 旧版本
+│   │   ├── 10.7.5
+│   │   │   ├── nessus_offline.sh
+│   │   │   ├── plugin_feed_info.inc
+│   │   │   ├── Nessus一键安装使用教程.pdf
+│   │   │   ├── Nessus_Crack.exe
+│   │   │   ├── Nessus-10.7.5-ubuntu1604_amd64.deb
+│   │   │   ├── Nessus-10.7.5-x64.msi
+│   │   │   ├── Nessus-latest-debian10_amd64.deb
 │   │   ├── 10.0.1
 │   │   │   ├── Nessus-10.0.1.dmg
 │   │   │   ├── Nessus-10.0.1-es8.x86_64.rpm
@@ -987,15 +995,11 @@
 │   │   │   ├── Nessus-10.0.1-x64.msi
 │   │   │   ├── Nessus-10.0.1-debian6_amd64.deb
 │   │   │   ├── Nessus-10.0.1-es6.x86_64.rpm
-│   ├── nessus全新安装说明_只能配合破解包用.zip
-│   ├── Nessus破解步骤_只能配合官方包用.txt
 │   ├── nessus插件中文数据.exe
 │   ├── Nessus 自动生成中文报告--使用说明-20210407.docx
 │   ├── Nessus官方包更新脚本.zip
 │   ├── NessusToReport-master.zip
 │   ├── Nessus 中文报告自动生成-20210528.xlsm
-│   ├── Nessus Pro 8.14.0 Plugins + New Steps2021042.pdf
-│   ├── nessus安装.pdf
 ├── Titania Nipper Studio
 │   ├── nipperstudio-2.9.1-win64.exe
 │   ├── NSkeygen.zip
@@ -1882,6 +1886,14 @@
 - **[办公系列(Shell_PDF_Xmind_Office)](https://pan.baidu.com/s/1KorpHeoIKPUFmTU8kuYc_w?pwd=xaqx)**
 
 <pre><code>.
+├── 鼠标模拟
+│   ├── tinytask
+│   │   ├── ReMouseStandard-Setup.exe
+│   │   ├── tinytask.exe
+│   ├── 按键精灵9.zip
+│   ├── 鼠大侠鼠标连点器.exe
+├── 音效
+│   ├── fxsound_setup.exe
 ├── 桌面、快速启动
 │   ├── Dawn.Launcher-1.4.4.7z
 │   ├── GeekDesk.2.5.14.zip
