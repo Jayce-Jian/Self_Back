@@ -709,6 +709,7 @@
 │   ├── shiro-exploit_Ares-X.exe
 │   ├── Shiro反序列化工具_雷石安全.jar
 │   ├── ShiroExploit-v2.3.jar
+├── Stuub-RCity-CVE-2024-27198-main.zip
 ├── Apt-t00ls-v0.7.zip
 ├── (CVE-2022-26258) D-Link  DIR-820L 命令注入.docx
 ├── 方程式工具包图形界面版V0.3.zip
@@ -1892,18 +1893,20 @@
 │   │   ├── tinytask.exe
 │   ├── 按键精灵9.zip
 │   ├── 鼠大侠鼠标连点器.exe
+├── 右键菜单管理
+│   ├── 右键扩展菜单管理器.zip
+│   ├── 鼠标右键管理.exe
 ├── 音效
-│   ├── fxsound_setup.exe
+│   ├── fxsound
+│   │   ├── fxsound_v1.1.26_setup.exe
+│   │   ├── BonusPresets.zip
+│   ├── GoldWave
+│   │   ├── GoldWave v6.54中文破解版.rar
+│   │   ├── GoldWave v6.36带注册机.rar
 ├── 桌面、快速启动
 │   ├── Dawn.Launcher-1.4.4.7z
 │   ├── GeekDesk.2.5.14.zip
 │   ├── Rolan v2.2.0.7z
-│   ├── Maye
-│   │   ├── Maye_1.3.6_Green.7z
-│   │   ├── Maye_1.3.5_Green.7z
-│   │   ├── Maye_1.3.4_Green.7z
-│   │   ├── Maye_1.3.3_Green.7z
-│   │   ├── Maye_1.2.9_Green.7z
 ├── 远控、局域网共享
 │   ├── Cute Http File Server
 │   │   ├── chfs-windows-x64-2.0.zip
@@ -2533,12 +2536,16 @@
 │   │   ├── jdk-8u144-linux-x64.tar.gz
 │   ├── Python
 │   │   ├── python-3.7.9-amd64.exe
+│   ├── phpStudy
+│   │   ├── phpStudy2018.exe
+│   │   ├── phpStudy2016.exe
+│   │   ├── phpStudy V8.1.zip
 │   ├── Go
 │   │   ├── go1.15.5.windows-amd64.msi
 │   ├── httpd-2.4.51-o111l-x64-vc15.exe
 │   ├── php-5.2.17-nts-Win32-VC6-x86.exe
-│   ├── PhpStudy2018.exe
-│   ├── phpStudy2016.exe
+│   ├── Wamp.exe
+│   ├── Xampp.exe
 ├── 蜜罐
 │   ├── goblin_0.4.3_windows_amd64.zip
 │   ├── goblin_0.4.3_linux_amd64.tar.gz
@@ -2825,15 +2832,39 @@
 │   │   ├── IDA Pro 8.3 (x86, x86_64).zip
 │   │   ├── IDA_Pro_v8.3_Portable.zip
 │   ├── 9.0 Beta
-│   │   ├── LazyIDA_fix.py
-│   │   ├── ida9_0_patch.zip
-│   │   ├── ida90b2-fix-linux.zip
-│   │   ├── idapro9.0b2_macos_arm64_patched.zip
+│   │   ├── Utilities
+│   │   │   ├── LazyIDA_fix.py
+│   │   │   ├── flair90.zip
+│   │   │   ├── idaclang90.zip
+│   │   │   ├── loadint90.zip
+│   │   │   ├── idsutils90.zip
+│   │   ├── Home
+│   │   │   ├── idaarm_90_armmac.app.zip
+│   │   │   ├── idaarm_90_x64mac.app.zip
+│   │   │   ├── idapc_90_x64win.exe
+│   │   │   ├── idaarm_90_x64linux.run
+│   │   ├── Pro
+│   │   │   ├── idapro_90_armmac.app.zip
+│   │   │   ├── idapro_90_x64mac.app.zip
+│   │   │   ├── IDA BETA 9.0 crack.docx
+│   │   │   ├── idapro_90_x64win.exe
+│   │   │   ├── idapro_90_x64linux.run
+│   │   │   ├── IDA 9.0 注入破解版.dmg
+│   │   │   ├── idapro9.0b2_macos_arm64_patched.zip
+│   │   │   ├── ida90b2-fix-linux.zip
+│   │   │   ├── ida9_0_patch.zip
+│   │   ├── FlexNet
+│   │   │   ├── lmgrd.exe
+│   │   │   ├── hexrays.exe
+│   │   ├── Documentation
+│   │   │   ├── idapython_porting_guide.md
+│   │   │   ├── sdk_porting_guide.md
+│   │   ├── For IDA Pro users
+│   │   │   ├── lumina_teams90_x64linux.run
+│   │   │   ├── idasdk90.zip
+│   │   │   ├── idasdk90-doc.zip
+│   │   ├── signatures-bundles-9.0-beta_nopass.zip
 │   │   ├── IDA SDK and Tools.7z
-│   │   ├── idapro_90_x64linux.run
-│   │   ├── idapro_90_x64win.exe
-│   │   ├── IDA 9.0 注入破解版.dmg
-│   │   ├── IDA BETA 9.0 crack.docx
 │   ├── go_parser-py3.zip
 │   ├── go_parser-py2.zip
 ├── Net
