@@ -1732,6 +1732,7 @@
 │   ├── hackbar-2.3.1-firefox.xpi
 │   ├── hackbar_2.3.1_chrome.zip
 │   ├── hackbar-2.2.9-firefox-免激活.xpi
+├── 秋城落叶-InjectLib-20240814-20.50.zip
 ├── 穿透工业网闸_py.zip
 ├── Cerbero_Suite_Advanced_6.5.1_win64.7z
 ├── BlueTeamToolsV1.12.jar
@@ -2829,6 +2830,10 @@
 │   │   ├── IDA_STRUCT.7z
 │   │   ├── HOLA_REVERSER.7z
 │   ├── 8.3
+│   │   ├── 秋城落叶
+│   │   │   ├── IDA_Pro_8.3_QiuChenly_v2.0.rar
+│   │   │   ├── Win.reg
+│   │   │   ├── IDA Pro-8.3 QiuChenly v2.0.cxarchive
 │   │   ├── IDA Pro 8.3 (x86, x86_64).zip
 │   │   ├── IDA_Pro_v8.3_Portable.zip
 │   ├── 9.0 Beta
@@ -2844,6 +2849,8 @@
 │   │   │   ├── idapc_90_x64win.exe
 │   │   │   ├── idaarm_90_x64linux.run
 │   │   ├── Pro
+│   │   │   ├── 秋城落叶-InjectLib-20240814-20.50.zip
+│   │   │   ├── idaarm_90_x64mac.app.zip
 │   │   │   ├── idapro_90_armmac.app.zip
 │   │   │   ├── idapro_90_x64mac.app.zip
 │   │   │   ├── IDA BETA 9.0 crack.docx
