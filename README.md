@@ -1571,6 +1571,10 @@
 │   ├── HaoZipMd5_绿色版.exe
 │   ├── MD5-Hash哈希值计算工具.exe
 ├── 马_病毒_编码_弱口令_解密
+│   ├── EDI密码工具
+│   │   ├── App-v1.2.1.rar
+│   │   ├── App-v1.2.rar
+│   │   ├── App.rar
 │   ├── 编码
 │   │   ├── CaptfEncoder
 │   │   │   ├── CaptfEncoder-ubuntu-20-x64-3.1.2.bin
@@ -1655,8 +1659,13 @@
 │   ├── 神行-网侦(渗透)便携浏览器.rar
 ├── SQL工具
 │   ├── MDUT
-│   │   ├── redis-module-extend.zip
-│   │   ├── MDUT-Extend-1.0.0_Bugfix.zip
+│   │   ├── 1.0.0_Fix
+│   │   │   ├── redis-module-extend.zip
+│   │   │   ├── MDUT-Extend-1.0.0.zip
+│   │   ├── 1.1.0_Fix
+│   │   │   ├── redis-module-extend-linux.zip
+│   │   │   ├── MDUT-Extend-1.1.0.zip
+│   │   │   ├── redis-module-extend-windows.zip
 │   │   ├── Multiple.Database.Utilization.Tools-2.1.1.zip
 │   ├── Navicat Premium_17.0.4-Setup∕Crack.zip
 │   ├── Pangolin穿山甲 3.3.0.1145.zip
@@ -2008,6 +2017,7 @@
 │   │   ├── Adobe_Photoshop_2020_v21.2.12.215.rar.jpg
 │   │   ├── Adobe Photoshop 2021 v22.1.0.jpg
 │   │   ├── Adobe_Photoshop_CC_2019_v20.0.10_20200930.exe
+│   ├── Adobe-Photoshop-2024-25.7.0.504-m0nkrus.7z
 │   ├── Adobe_Photoshop_2022_23.0.0.36_ACR14.0_SP_20211026.rar
 │   ├── DxO Nik Collection v4.0.7.7z
 │   ├── ON1 Effects 2022 v16.0.1.11291.zip
@@ -2022,6 +2032,7 @@
 │   │   │   ├── OfficeTab_Enterprise_v14.00_x86_x64_免注册绿色版.7z
 │   │   │   ├── Kutools_for_Excel_v20_Setup+KeyGen_OnLyOnE.rar
 │   │   │   ├── OfficeTab_Enterprise_v14.00_x86-x64_KpoJIuK.exe
+│   │   ├── Office 2024 build 2312预览版.rar
 │   │   ├── setuplanguagepack.x64.zh-cn_.exe
 │   │   ├── Microsoft.Office.Pro.Plus.2021.Retail_专业增强版_简体中文.img
 │   │   ├── Microsoft.Office.Pro.Plus.2019.English.Retail.x64.16.0.10325.20118.iso
@@ -3495,6 +3506,7 @@
 │   │   ├── 命令执行.docx
 │   │   ├── 常见漏洞修复方案.docx
 │   │   ├── 敏感信息泄露.docx
+│   ├── web漏洞解析与攻防实战 (王放 龚潇 王子航) (Z-Library).pdf
 │   ├── Q版缓冲区溢出教程.pdf
 │   ├── Linux系统安全：纵深防御、安全扫描与入侵检测 (网络空间安全技术丛书) (胥峰) (Z-Library).epub
 │   ├── CISSP官方学习手册第9版OSG(中文).pdf
