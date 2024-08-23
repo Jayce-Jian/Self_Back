@@ -895,15 +895,17 @@
 │   ├── 2.9.5_社区版
 │   │   ├── goby-linux-x64-2.9.5-Community.zip
 │   │   ├── goby-win-x64-2.9.5-Community.zip
-│   ├── 旧版本
+│   ├── Pocs
+│   │   ├── 2024Goby红队版poc1572个.zip
+│   │   ├── user-poc.7z
+│   │   ├── goby poc存放地址.png
+│   ├── 红队_Crack
+│   │   ├── goby-win-x64-2.4.7_红队.7z
+│   │   ├── goby-win-x64-2.4.7_RD.zip
 │   │   ├── add_hosts.bat
-│   │   ├── npcap-1.71.exe
 │   │   ├── goby-win-x64-2.0.5.2111_红队.7z
-│   │   ├── goby-win-x64-2.4.7_Community.7z
-│   ├── goby-win-x64-2.4.7_红队.7z
-│   ├── Goby&Poc_161_NineRiverSEC.7z
-│   ├── goby poc存放地址.png
-│   ├── user-poc.7z
+│   ├── goby-win-x64-2.4.7_Community.7z
+│   ├── npcap-1.71.exe
 ├── Nexpose
 │   ├── 6.6.71
 │   │   ├── Rapid7Setup-Linux64_6.6.71.0.bin
@@ -988,14 +990,6 @@
 │   │   │   ├── Nessus-10.7.5-ubuntu1604_amd64.deb
 │   │   │   ├── Nessus-10.7.5-x64.msi
 │   │   │   ├── Nessus-latest-debian10_amd64.deb
-│   │   ├── 10.0.1
-│   │   │   ├── Nessus-10.0.1.dmg
-│   │   │   ├── Nessus-10.0.1-es8.x86_64.rpm
-│   │   │   ├── Nessus-10.0.1-ubuntu1110_amd64.deb
-│   │   │   ├── Nessus-10.0.1-es7.x86_64.rpm
-│   │   │   ├── Nessus-10.0.1-x64.msi
-│   │   │   ├── Nessus-10.0.1-debian6_amd64.deb
-│   │   │   ├── Nessus-10.0.1-es6.x86_64.rpm
 │   ├── nessus插件中文数据.exe
 │   ├── Nessus 自动生成中文报告--使用说明-20210407.docx
 │   ├── Nessus官方包更新脚本.zip
@@ -1876,6 +1870,7 @@
 │   ├── 悬剑移植版使用;八荒.txt
 │   ├── 悬剑单兵武器工具包启动工具.zip
 │   ├── 悬剑单兵武器工具包.zip
+├── Rabbit_Treasure_Box_v1.0.zip
 ├── 角宿安全_红队武器库_提取.zip
 ├── One-Fox应急响应工具箱.zip
 ├── ONE-FOX集成工具箱_V8公开版_by狐狸.7z
