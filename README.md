@@ -37,6 +37,12 @@
 ├── 2021.12.1
 │   ├── burp-loader-x-Ai.jar
 │   ├── burpsuite_pro.jar
+├── Early_2024.7.4
+│   ├── BurpLoaderKeygen_v1.17.jar
+│   ├── burpsuite_pro_v2024.7.4.jar
+│   ├── jre
+│   │   ├── jre-21.0.2_linux.zip
+│   │   ├── jre-21.0.2_win.zip
 ├── Stable_2024.6.5
 │   ├── BurpLoaderKeygen_v1.17.jar
 │   ├── burpsuite_pro_win.jar
@@ -228,15 +234,6 @@
 │   │   ├── metasploit-latest-linux-x64-installer.run
 │   │   ├── 破解方法.txt
 │   │   ├── License.zip
-│   ├── 4.19.1
-│   │   ├── metasploit-4.19.1-windows-installer.exe
-│   │   ├── Metasploit Pro 4.19.1 key.txt
-│   │   ├── 目前并不能破解.txt
-│   │   ├── Metasploit Pro 4.19.1.zip
-│   ├── 4.17.1
-│   │   ├── msfpro_crack.7z
-│   │   ├── 破解方法.txt
-│   │   ├── Metasploit Pro 4.17.1.exe
 ├── AntSword
 │   ├── antSword-master-2.1.15.zip
 │   ├── AntSword-Loader-v4.0.3-linux-x64.zip
@@ -1297,6 +1294,8 @@
 │   │   ├── 无密码Fortify_SCA_and_Apps_20.2.2.zip
 │   ├── fortify.license
 ├── Checkmarx
+│   ├── 9.5
+│   │   ├── checkmarx9.5.zip
 │   ├── VM_WinServer2008r2
 │   │   ├── winserver2008r2.7z.003
 │   │   ├── winserver2008r2.7z.002
@@ -1729,7 +1728,7 @@
 │   ├── Suricata
 │   │   ├── suricata-5.0.3.tar.gz
 │   │   ├── suricata-rules-master.zip
-│   ├── OPNsense-21.1-OpenSSL-dvd-amd64.iso_2.bz2
+│   ├── OPNsense-24.7-dvd-amd64.iso.bz2
 ├── hackbar
 │   ├── hackbar_2.2.6_chrome.rar
 │   ├── hackbar-2.3.1-firefox.xpi
@@ -1893,6 +1892,14 @@
 - **[办公系列(Shell_PDF_Xmind_Office)](https://pan.baidu.com/s/1KorpHeoIKPUFmTU8kuYc_w?pwd=xaqx)**
 
 <pre><code>.
+├── 下载器
+│   ├── IDM-v6.42.20-Repack.exe
+│   ├── BitComet_v1.79_Stable_Mod.7z
+│   ├── 冰点下载器_v3.2.9.0830_可以用的最终版.exe
+│   ├── 冰点文库下载器_v3.2.14.exe
+│   ├── 冰点下载器_v3.2.16.0125_去广告版.exe
+│   ├── 哔哩哔哩视频下载器2021 v1.2-绿銫版.zip
+│   ├── BitComet-2.09.8.20-Stable-Modify-x86-x64.7z
 ├── 鼠标模拟
 │   ├── tinytask
 │   │   ├── ReMouseStandard-Setup.exe
@@ -1913,6 +1920,7 @@
 │   ├── Dawn.Launcher-1.4.4.7z
 │   ├── GeekDesk.2.5.14.zip
 │   ├── Rolan v2.2.0.7z
+│   ├── Rolan-v2.2-Cracked.exe
 ├── 远控、局域网共享
 │   ├── Cute Http File Server
 │   │   ├── chfs-windows-x64-2.0.zip
@@ -2318,10 +2326,13 @@
 │   ├── Advanced SystemCare Pro 15 赠品版.zip
 │   ├── Wise Care 365 Pro v5.8.1.575.zip
 │   ├── Process Lasso含补丁.rar
+│   ├── DDU v18.0.4.8.exe
+│   ├── Dism++_v10.1.1002.1.7z
+│   ├── CCleaner-Pro-6.26.11169-x64-Plus.7z
 ├── DX_运行库
 │   ├── DirectX修复工具39.rar
 │   ├── DirectX修复工具 v4.0(增强版).7z
-│   ├── 微软常用运行库合集 2021.06.09.exe
+│   ├── 微软常用运行库合集 2024.08.14.exe
 ├── PDF工具
 │   ├── Acrobat_DC
 │   │   ├── Acrobat_DC_C_x32_2021.005.20048_SP_20210608.rar
@@ -2330,6 +2341,7 @@
 │   │   ├── 福昕高级PDF编辑器_v9.7.1.29511_破解企业版绿色精简版.7z
 │   │   ├── 福昕高级PDF编辑器v11.0.0.49893 便携破解版.zip
 │   │   ├── 福昕PDF编辑器11最新crack.rar
+│   ├── PDFelement-10.4.10.2780+OCR-CN-Portable.7z
 │   ├── Solid_Converter_v10.1.12248.5132_Setup Keygen.7z
 │   ├── Coolutils Total PDF Converter v6.1.0.275.zip
 │   ├── 万兴PDFelement_v8.2.21.1064_Setup+OCR+Activator.7z
@@ -2363,29 +2375,20 @@
 ├── 雷电模拟器64位纯净_4.0.51.7z
 ├── GlassWire Elite v2.3.369.exe
 ├── 视频批量生成动态水印软件.rar
-├── Pycharm_Community_2021.2.1_Protable.7z
-├── 哔哩哔哩视频下载器2021 v1.2-绿銫版.zip
 ├── 微PE工具箱_64_V2.2.exe
 ├── 微信、QQ防撤回_RevokeMsgPatcher.v1.1.zip
 ├── Snipaste-2.6.6-Beta-x64.zip
 ├── Everything-1.4.1.1009.x64.zip
 ├── KinhDown   版本2.5.35.7z
-├── Rolan-v2.2-Cracked.exe
 ├── PotPlayer-SubtitleTranslate字幕翻译.rar
 ├── GoodSync Enterprise v11.9.1.1.zip
 ├── GreenCloud Printer Pro v7.8.7.rar
-├── 冰点下载器_v3.2.16.0125_去广告版.exe
-├── 冰点文库下载器_v3.2.14.exe
 ├── NetLimiter-4.1.11.0+key.zip
 ├── ev解密.zip
-├── 冰点下载器_v3.2.9.0830_可以用的最终版.exe
 ├── Everything-1.4.1.1009.x64.exe
 ├── 溜课神器9.0crack.zip
 ├── balenaEtcher-Setup-1.5.115.exe
 ├── OneCommander_3.4.6.0_portable.exe
-├── BitComet_v1.79_Stable_Mod.7z
-├── DDU v18.0.4.8.exe
-├── Dism++_v10.1.1002.1.7z
 </code></pre>
 
 ## 虚拟机_镜像_系统_环境_靶场
@@ -2888,6 +2891,7 @@
 ├── PEstudio
 │   ├── pestudio-9.58.zip
 │   ├── pestudio-9.59.zip
+├── Malcat_v0.9.6_Win_&_Ubuntu.7z
 ├── DOSBox0.74-3-win32-i.exe
 ├── MASM.zip
 ├── Hopper Disassembler v5.15.6 Cracked(Apple Silicon：Intel).zip
