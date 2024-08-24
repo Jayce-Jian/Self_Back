@@ -706,6 +706,7 @@
 │   ├── shiro-exploit_Ares-X.exe
 │   ├── Shiro反序列化工具_雷石安全.jar
 │   ├── ShiroExploit-v2.3.jar
+├── Chrome-RCE-Poc-CVE-2024-2887.zip
 ├── Stuub-RCity-CVE-2024-27198-main.zip
 ├── Apt-t00ls-v0.7.zip
 ├── (CVE-2022-26258) D-Link  DIR-820L 命令注入.docx
