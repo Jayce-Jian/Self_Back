@@ -1894,6 +1894,8 @@
 
 <pre><code>.
 ├── 下载器
+│   ├── 迅雷11_v11.2.2.1716.7z
+│   ├── 迅雷v11.1.6.1242_本地vip10_自动试用会员加速.zip
 │   ├── IDM-v6.42.20-Repack.exe
 │   ├── BitComet_v1.79_Stable_Mod.7z
 │   ├── 冰点下载器_v3.2.9.0830_可以用的最终版.exe
@@ -1918,6 +1920,9 @@
 │   │   ├── GoldWave v6.54中文破解版.rar
 │   │   ├── GoldWave v6.36带注册机.rar
 ├── 桌面、快速启动
+│   ├── Lucy_1.8.6.zip
+│   ├── Lucy_1.8.6_Green.7z
+│   ├── uTools-5.2.1.exe
 │   ├── Dawn.Launcher-1.4.4.7z
 │   ├── GeekDesk.2.5.14.zip
 │   ├── Rolan v2.2.0.7z
@@ -1959,7 +1964,6 @@
 │   │   │   ├── BeyondCompareKeyMaker_windows_amd64.exe.zip
 │   │   │   ├── BeyondCompareKeyMaker_linux_amd64.zip
 │   │   ├── BCompare-4.3.7.25118_x64_ZH_永久破解.msi
-│   │   ├── BCompare-4.3.7.25118_x64_ZH_永久破解(1).msi
 │   │   ├── BCompare中文版安装程序4.4.0.rar
 │   │   ├── Beyond Compare v4.4.0.25886 绿色特别版.zip
 │   │   ├── Beyond Compare 4.4.2中文便携版.rar
@@ -2362,9 +2366,6 @@
 ├── 录屏软件
 │   ├── Mirillis Action! v4.22.0.zip
 │   ├── Bandicam v5.3.0.1879.zip
-├── 迅雷
-│   ├── 迅雷11_v11.2.2.1716.7z
-│   ├── 迅雷v11.1.6.1242_本地vip10_自动试用会员加速.zip
 ├── 干掉Defender
 │   ├── 彻底移除Windows Defender(终结版v4).exe
 │   ├── DefenderControl.zip
