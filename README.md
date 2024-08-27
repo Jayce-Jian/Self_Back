@@ -1738,7 +1738,7 @@
 ├── 秋城落叶-InjectLib-20240814-20.50.zip
 ├── 穿透工业网闸_py.zip
 ├── Cerbero_Suite_Advanced_6.5.1_win64.7z
-├── BlueTeamToolsV1.12.jar
+├── BlueTeamToolsV1.21.jar
 ├── 360系统防黑加固.7z
 ├── 360小工具合集.rar
 ├── FAW9300_取证工具_解压密码20210419_2254.rar
@@ -1877,7 +1877,7 @@
 ├── ONE-FOX集成工具箱_V8公开版补丁包_by狐狸.7z
 ├── [最新版]蓝队应急响应工具箱v2024.7.7z
 ├── 渗透工具箱_琴音安全.zip
-├── BlueTeamToolsV1.12.jar
+├── BlueTeamToolsV1.21.jar
 ├── SysinternalsSuite.zip
 ├── 工控安全必备工具.rar
 ├── 应急工具集_密码hackctf.rar
