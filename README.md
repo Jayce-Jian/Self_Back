@@ -843,7 +843,8 @@
 │   │   ├── 10.0.7
 │   │   │   ├── AppScan10.0.7破解.zip
 │   │   │   ├── appscan1007-crack.exe
-│   ├── HCL.AppScan.Standard.v10.5.1.Cracked-NGEN.rar
+│   │   ├── HCL.AppScan.Standard.v10.5.1.Cracked-NGEN.rar
+│   ├── AppScan_Standard_10.6.0.28408.zip
 ├── AWVS
 │   ├── 24.7.240716084
 │   │   ├── acunetix_24.7.240716084.exe
@@ -1012,6 +1013,7 @@
 │   ├── dirsearch-0.4.0.zip
 │   ├── dirMap.zip
 │   ├── dirMap-1.46m.zip
+├── SmartScanner-1.23.0.zip
 ├── mitan1.14.zip
 ├── H扫描器 资产收集.exe
 ├── 北极熊扫描器4.5.exe
