@@ -886,8 +886,8 @@
 │   ├── nuclei_3.2.9_windows_amd64.zip
 │   ├── nuclei_3.2.9_linux_amd64.zip
 ├── TscanPlus
-│   ├── TscanPlus_Win_Amd64_v2.3.zip
-│   ├── TscanPlus_Linux_Amd64_v2.3.zip
+│   ├── TscanPlus_Win_Amd64_v2.4.zip
+│   ├── TscanPlus_Linux_Amd64_v2.4.zip
 ├── Aforg
 │   ├── afrog-pocs-2014-04.zip
 │   ├── afrog_3.0.8_windows_amd64.zip
