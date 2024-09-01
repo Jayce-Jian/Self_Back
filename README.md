@@ -40,11 +40,17 @@
 ├── Early_2024.8
 │   ├── BurpLoaderKeygen_v1.17.jar
 │   ├── burpsuite_pro_v2024.8.jar
-│   ├── 更新至java21.0.4.txt
+│   ├── jre
+│   │   ├── jre-21.0.4_linux.zip
+│   │   ├── jre-21.0.4_win.zip
+│   │   ├── 更新至java21.0.4.txt
 ├── Stable_2024.7.5
 │   ├── BurpLoaderKeygen_v1.17.jar
 │   ├── burpsuite_pro_v2024.7.5.jar
-│   ├── 更新至java21.0.4.txt
+│   ├── jre
+│   │   ├── jre-21.0.4_linux.zip
+│   │   ├── jre-21.0.4_win.zip
+│   │   ├── 更新至java21.0.4.txt
 ├── 插件
 │   ├── FastjsonScan
 │   │   ├── 微信截图_20210430091909.png
