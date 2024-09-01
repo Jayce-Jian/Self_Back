@@ -37,17 +37,17 @@
 ├── 2021.12.1
 │   ├── burp-loader-x-Ai.jar
 │   ├── burpsuite_pro.jar
-├── Early_2024.7.4
+├── Early_2024.8
 │   ├── BurpLoaderKeygen_v1.17.jar
-│   ├── burpsuite_pro_v2024.7.4.jar
+│   ├── burpsuite_pro_v2024.8.jar
+│   ├── 更新至java21.0.4.txt
 │   ├── jre
 │   │   ├── jre-21.0.2_linux.zip
 │   │   ├── jre-21.0.2_win.zip
-├── Stable_2024.6.5
+├── Stable_2024.7.5
 │   ├── BurpLoaderKeygen_v1.17.jar
-│   ├── burpsuite_pro_win.jar
-│   ├── burpsuite_pro_linux.jar
-│   ├── burpsuite_pro_v2024.6.5.jar
+│   ├── burpsuite_pro_v2024.7.5.jar
+│   ├── 更新至java21.0.4.txt
 │   ├── jre
 │   │   ├── jre-21.0.2_linux.zip
 │   │   ├── jre-21.0.2_win.zip
@@ -1017,7 +1017,6 @@
 │   ├── dirsearch-0.4.0.zip
 │   ├── dirMap.zip
 │   ├── dirMap-1.46m.zip
-
 ├── mitan1.15.zip
 ├── H扫描器 资产收集.exe
 ├── 北极熊扫描器4.5.exe
