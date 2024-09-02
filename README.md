@@ -130,7 +130,7 @@
 │   │   ├── d_safe_2.1.8.1.zip
 │   │   ├── Web查杀_v1.2.9测试版.exe
 │   ├── Yara
-│   │   ├── yara-master-2298-win64.zip
+│   │   ├── yara-v4.5.1-2298-win64.zip
 │   │   ├── yara-rules.zip
 │   ├── 精细化扫描工具（ScanTool）.zip
 │   ├── PHP-Shell-Detector-master.zip
@@ -817,8 +817,7 @@
 │   ├── SmartScanner-1.23.0-Pro.zip
 │   ├── smartscanner_1.23-pro-fix1补丁.7z
 ├── Invicti
-│   ├── Invicti-Professional-v24.7.0-Pwn3rzs-CyberArsenal.rar
-│   ├── Invicti-Professional-v24.6.0-Pwn3rzs-CyberArsenal.rar
+│   ├── Invicti-Professional-v24.8.1-Pwn3rzs-CyberArsenal.rar
 │   ├── Netsparker
 │   │   ├── Netsparker6.4.0.35166破解版.zip
 │   │   ├── Netsparker v5.9.1.29030_@nszy007.rar
@@ -850,12 +849,15 @@
 │   │   ├── HCL.AppScan.Standard.v10.5.1.Cracked-NGEN.rar
 │   ├── AppScan_Standard_10.6.0.28408.zip
 ├── AWVS
-│   ├── 24.7.240716084
-│   │   ├── acunetix_24.7.240716084.exe
+│   ├── 24.8.240828144
+│   │   ├── acunetix_24.8.240828144_x64.sh
+│   │   ├── acunetix_24.8.240828144.exe
 │   ├── 24.6.240626115
 │   │   ├── Acunetix-v24.6.240626115-Windows-密码：Pwn3rzs.rar
 │   │   ├── Acunetix-v24.6.240626115-Linux-密码：Pwn3rzs.7z
 │   ├── Old Versions
+│   │   ├── 24.7.240716084
+│   │   │   ├── acunetix_24.7.240716084.exe
 │   │   ├── 14.9.220713150
 │   │   │   ├── Linux
 │   │   │   │   ├── wvsc
@@ -887,8 +889,8 @@
 │   │   ├── nuclei-templates-2024-07-11.zip
 │   ├── nuclei-dev-2024-07-11.zip
 │   ├── NucleiFuzzer-1.0.3.zip
-│   ├── nuclei_3.2.9_windows_amd64.zip
-│   ├── nuclei_3.2.9_linux_amd64.zip
+│   ├── nuclei_3.3.1_windows_amd64.zip
+│   ├── nuclei_3.3.1_linux_amd64.zip
 ├── TscanPlus
 │   ├── TscanPlus_Win_Amd64_v2.4.zip
 │   ├── TscanPlus_Linux_Amd64_v2.4.zip
