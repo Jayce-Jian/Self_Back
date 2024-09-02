@@ -1929,6 +1929,7 @@
 │   │   ├── GoldWave v6.54中文破解版.rar
 │   │   ├── GoldWave v6.36带注册机.rar
 ├── 桌面、快速启动
+│   ├── MayeLite-12.6.0.240622.zip
 │   ├── Quicker.x64.1.43.19.0.msi
 │   ├── Lucy_1.8.6.zip
 │   ├── Lucy_1.8.6_Green.7z
