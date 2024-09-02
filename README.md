@@ -2412,6 +2412,25 @@
 - **[虚拟机_镜像_系统_环境_靶场](https://pan.baidu.com/s/1dm-FjZRTw0BdCjQoXN9N4Q?pwd=xaqx)**
 
 <pre><code>.
+├── Software
+│   ├── VMware Workstation
+│   │   ├── ovftool
+│   │   │   ├── VMware-ovftool-4.1.0-2459827-win.x86_64.msi
+│   │   │   ├── VMware-ovftool-4.6.3-24031167-win.x86_64.msi
+│   │   │   ├── VMware-ovftool-4.1.0-2459827-win.i386.msi
+│   │   ├── 旧版本
+│   │   │   ├── VMware16.1.2.exe
+│   │   │   ├── VMware-15.5.1-15018445精简官方中文安装注册版.exe
+│   │   │   ├── VMware10.02_Lite_CHS_V2.exe
+│   │   │   ├── VMware12.5.9-7535481精简官方中文安装注册版.exe
+│   │   │   ├── VMware16.0.0-16894299.exe
+│   │   │   ├── VMware11.1.2-2780323.exe
+│   │   │   ├── VMware10.07.exe
+│   │   ├── VMware-workstation-full-17.5.2-23775571.exe
+│   │   ├── 卸载工具.exe
+│   ├── VirtualBox
+│   │   ├── Oracle_VM_VirtualBox_Extension_Pack-7.0.20.vbox-extpack
+│   │   ├── VirtualBox-7.0.20-163906-Win.exe
 ├── 安全靶场
 │   ├── 应急响应靶场
 │   │   ├── 渗透，暴力破解、留定时任务后门与shift粘贴键后门、植入挖矿程序（靶机系统：Windows2008）
