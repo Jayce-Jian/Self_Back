@@ -1974,6 +1974,7 @@
 │   │   │   ├── bc5keygen.zip
 │   │   │   ├── BeyondCompareKeyMaker_windows_amd64.exe.zip
 │   │   │   ├── BeyondCompareKeyMaker_linux_amd64.zip
+│   │   ├── Beyond_Compare_5.0.1.29877_64bit_Green.7z
 │   │   ├── BCompare-4.3.7.25118_x64_ZH_永久破解.msi
 │   │   ├── BCompare中文版安装程序4.4.0.rar
 │   │   ├── Beyond Compare v4.4.0.25886 绿色特别版.zip
@@ -2015,6 +2016,10 @@
 │   ├── Bandizip.v7.16.1&Path.7z
 ├── 思维导图
 │   ├── draw.io
+│   │   ├── 24.7.8
+│   │   │   ├── draw.io-x64-24.7.8.zip
+│   │   │   ├── drawio-amd64-24.7.8.deb
+│   │   │   ├── draw.io-24.7.8-windows-installer.exe
 │   │   ├── 24.6.4
 │   │   │   ├── draw.io-24.6.4.msi
 │   │   │   ├── draw.io-x64-24.6.4.zip
@@ -2325,10 +2330,20 @@
 │   ├── SecureCRT+FX_9.0_x64.exe
 │   ├── FinalShell-Keygen.jar
 ├── Jerbrains
-│   ├── ide-eval-resetter-2.1.14.zip
-│   ├── ide-eval-resetter-2.1.14.txt
-│   ├── JetBrainsUnlimitedTrial-1.2-release-sha1-517f9a6374bfceaedef42ddda235866060e3f913.jar
-│   ├── ide-eval-resetter+v2.3.5.exe
+│   ├── 2024.2.1
+│   │   ├── PhpStorm-2024.2.1.tar.gz
+│   │   ├── pycharm-professional-2024.2.1.tar.gz
+│   │   ├── goland-2024.2.1.tar.gz
+│   │   ├── WebStorm-2024.2.1.tar.gz
+│   │   ├── goland-2024.2.1.exe
+│   │   ├── pycharm-professional-2024.2.1.exe
+│   │   ├── WebStorm-2024.2.1.exe
+│   │   ├── ideaIU-2024.2.1.exe
+│   │   ├── PhpStorm-2024.2.1.exe
+│   │   ├── 安装使用.pdf
+│   │   ├── JetBrains2024.2.x-LangPack-zh.242.152.zip
+│   │   ├── LangPack=中文语言包，ja-netfilter-all=激活文件.txt
+│   │   ├── ja-netfilter-all.zip
 ├── 数据库管理
 │   ├── Navicat
 │   │   ├── navicat15破解版
@@ -2414,18 +2429,25 @@
 <pre><code>.
 ├── Software
 │   ├── VMware Workstation
+│   │   ├── Win7SP1安装VMtools
+│   │   │   ├── win7-kb4474419-x86.msu
+│   │   │   ├── win7-kb4474419-x64.msu
+│   │   ├── 旧版本
+│   │   │   ├── VMware-15.5.1-15018445精简官方中文安装注册版.exe
+│   │   │   ├── VMware10.02_Lite_CHS_V2.exe
+│   │   │   ├── VMware12.5.9-7535481精简官方中文安装注册版.exe
+│   │   │   ├── VMware11.1.2-2780323.exe
+│   │   │   ├── VMware10.07.exe
 │   │   ├── ovftool
 │   │   │   ├── VMware-ovftool-4.1.0-2459827-win.x86_64.msi
 │   │   │   ├── VMware-ovftool-4.6.3-24031167-win.x86_64.msi
 │   │   │   ├── VMware-ovftool-4.1.0-2459827-win.i386.msi
-│   │   ├── 旧版本
-│   │   │   ├── VMware16.1.2.exe
-│   │   │   ├── VMware-15.5.1-15018445精简官方中文安装注册版.exe
-│   │   │   ├── VMware10.02_Lite_CHS_V2.exe
-│   │   │   ├── VMware12.5.9-7535481精简官方中文安装注册版.exe
-│   │   │   ├── VMware16.0.0-16894299.exe
-│   │   │   ├── VMware11.1.2-2780323.exe
-│   │   │   ├── VMware10.07.exe
+│   │   ├── VMware-workstation-full-17.5.0-22583795.exe
+│   │   ├── VMware-workstation-full-17.5.1-23298084.exe
+│   │   ├── VMware-workstation-full-16.0.0-16894299.exe
+│   │   ├── VMware-workstation-full-16.1.2.exe
+│   │   ├── VMware-workstation-full-15.0.2-10952284.exe
+│   │   ├── VMware-workstation-full-16.2.4-20089737.exe
 │   │   ├── VMware-workstation-full-17.5.2-23775571.exe
 │   │   ├── 卸载工具.exe
 │   ├── VirtualBox
@@ -2572,15 +2594,19 @@
 │   ├── 火眼安全系统.zip
 ├── 环境
 │   ├── JDK_JRE
-│   │   ├── openjdk-11.0.2_linux-x64_bin.tar.gz
-│   │   ├── jdk-13.0.2_windows-x64_bin.exe
-│   │   ├── openjdk-13.0.2_linux-x64_bin.tar.gz
-│   │   ├── openjdk-17.0.1_windows-x64_bin.zip
-│   │   ├── jre-21.0.2_linux.zip
-│   │   ├── jre-21.0.2_win.zip
-│   │   ├── jdk-11.0.7_win.zip
-│   │   ├── jre-1.8.0_261_win.zip
-│   │   ├── jdk-8u144-linux-x64.tar.gz
+│   │   ├── Win
+│   │   │   ├── jdk-13.0.2_windows-x64_bin.exe
+│   │   │   ├── openjdk-17.0.1_windows-x64_bin.zip
+│   │   │   ├── jre-21.0.2_win.zip
+│   │   │   ├── jre-21.0.4_win.zip
+│   │   │   ├── jdk-11.0.7_win.zip
+│   │   │   ├── jre-1.8.0_261_win.zip
+│   │   ├── Linux
+│   │   │   ├── openjdk-11.0.2_linux-x64_bin.tar.gz
+│   │   │   ├── openjdk-13.0.2_linux-x64_bin.tar.gz
+│   │   │   ├── jre-21.0.2_linux.zip
+│   │   │   ├── jre-21.0.4_linux.zip
+│   │   │   ├── jdk-8u144-linux-x64.tar.gz
 │   ├── Python
 │   │   ├── python-3.7.9-amd64.exe
 │   ├── phpStudy
@@ -2598,16 +2624,27 @@
 │   ├── goblin_0.4.3_linux_amd64.tar.gz
 │   ├── goblin_0.4.3_darwin_amd64.tar.gz
 ├── 系统镜像
+│   ├── MacOS
+│   │   ├── MacOS14
+│   │   │   ├── macOS Sonoma ISO.iso
+│   │   │   ├── unlocker426.zip
+│   │   ├── MacOS11
+│   │   │   ├── VM MACOS.zip
+│   │   │   ├── unlocker426.zip
+│   │   ├── Install macOS Big Sur 11.2.3-20D91.iso
+│   ├── Windows
+│   │   ├── zh-cn_windows_10_business_editions_version_22h2_updated_jan_2023_x64_dvd_ca5240f6.iso
+│   │   ├── Win11_23H2_Chinese_Simplified_x64v2.iso
+│   ├── Windows Server
+│   │   ├── windows_server_2008_r2.iso
+│   │   ├── cn_windows_server_2016_x64_dvd_9327743.iso
+│   │   ├── cn_windows_server_2012_r2_x64_dvd_2707961.iso
 │   ├── AIX_7.1_TL_7100-03-03
 │   │   ├── AIX_Toolbox_for_Linux_Applications_112013.tar.gz
 │   │   ├── AIX_Toolbox_Linux_Apps_POWER_S_112013.tar.gz
 │   │   ├── AIX_7.1_Base_Operating_System_TL_7100-03-03_DVD_2_of_2_62014.iso.ZIP
 │   │   ├── AIX_7.1_Base_Operating_System_TL_7100-03-03_DVD_1_of_2_62014.zip
-│   ├── Install macOS Big Sur 11.2.3-20D91.iso
 │   ├── Parrot-home-5.3_amd64.iso
-│   ├── windows_server_2008_r2.iso
-│   ├── cn_windows_server_2016_x64_dvd_9327743.iso
-│   ├── cn_windows_server_2012_r2_x64_dvd_2707961.iso
 </code></pre>
 
 ## 逆向工具
